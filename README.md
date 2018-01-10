@@ -246,23 +246,15 @@ Instrumentation comparison between GC_FID and LC_ELSD....maybe
 8. Make a decision about doing a doctoral degree
 UF Respirometry and Meeting with Andrew
 1. Respirometry: Larvae weighed, air purged of CO2, larvae held for 1.5hr, and larval air analyzed for CO2 production.
-<<<<<<< HEAD
-=======
 
 Hourly production of CO2
->>>>>>> dbeb8c43216304b9058fe2b6ca03025ed737e0bc
 
 Hourly production of CO2
 ![Hourly CO2](20180101_CO2_Hour.png)
 
 Hourly production of CO2  by mass
-<<<<<<< HEAD
 ![Hourly CO2 weighted by Mass](20180101_CO2_Hour_Mass.png)
-=======
 
-![Hourly CO2 weighted by Mass]20180101_CO2_Hour_Mass.png
-
->>>>>>> dbeb8c43216304b9058fe2b6ca03025ed737e0bc
 
 
 ------
@@ -296,12 +288,10 @@ UF Respirometry and Meeting with Andrew
 1. Respirometry: Larvae weighed, air purged of CO2, larvae held for 1.5hr, and larval air analyzed for CO2 production.
 
 Hourly production of CO2
-
-![Hourly CO2]20180105_CO2_Hour.png
+![Hourly CO2](20180105_CO2_Hour.png)
 
 Hourly production of CO2  by mass
-
-![Hourly CO2 weighted by Mass]20180105_CO2_Hour_Mass.png
+![Hourly CO2 weighted by Mass](20180105_CO2_Hour_Mass.png)
 
 
 ------
@@ -322,12 +312,10 @@ UF Respirometry and Meeting with Andrew
 1. Respirometry: Larvae weighed, air purged of CO2, larvae held for 1.5hr, and larval air analyzed for CO2 production.
 
 Hourly production of CO2
-
-![Hourly CO2]20180109_CO2_Hour.png
+![Hourly CO2](20180109_CO2_Hour.png)
 
 Hourly production of CO2  by mass
-
-![Hourly CO2 weighted by Mass]20180109_CO2_Hour_Mass.png
+![Hourly CO2 weighted by Mass](20180109_CO2_Hour_Mass.png)
 
 2. Met with Andrew and learned the procedure to add and update protocols using R studio, GitHub, and Slack.
 
