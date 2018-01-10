@@ -261,7 +261,7 @@ Hourly production of CO2  by mass
 
 <div id='id-section2'/>    
 
-### Page 2: 2018-01-05. Master's committee meeting following proposal  
+### Page 2: 2018-01-05. Master's committee meeting following proposal and Respirometry
 
 Attendee's: Dan Hahn, John Beck, Rob Meagher
 James' take on proposal presentation
@@ -284,18 +284,16 @@ Dan:
 
 Title:  
 * Characterising the relationship between stored resources and diapause preparation in ECB strains UZ and BE
-* Responding to environmental change will require temperature adaptation involving tolerance  
-* Adaptive responses to environmental change will require physiological shifts in...
-* Evolutionary innovations to environmental change in the common woodland ant
 
-1. Stressed in nature - yes! Ants show a stress response to experimental warming.
-	* this'll highlight the field relevance and impact !
-2. Are these differences due to adaptations? If so, what kinds? And what does this response mean?  
-3. Ants can withstand heat stress by resistance and/or tolerance
-4. Common garden experiments:
-	* measuring the stress kinetics show that protection and tolerance , but not basal gxp
-	* under acclimation, yes basal gxp can change
-5. punchline, these types of adaptations are unique and can only be detected with a rxn norm approach, because shifts in basal are found in the majority of other studies. 	    
+UF Respirometry:
+Hourly production of CO2
+
+![Hourly CO2](20180105_CO2_Hour.png)
+
+Hourly production of CO2  by mass
+
+![Hourly CO2 weighted by Mass](20170105_CO2_Hour_Mass.png)
+
 
 ------
 
