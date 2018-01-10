@@ -25,7 +25,7 @@ Undergraduate training; Erin, Jeremiah, Maggie, and Tristin
 Instrumentation comparison between GC_FID and LC_ELSD....maybe
 
 # Table of contents (Layout follows Page number: Date. Title of entry)    
-* [Page 1: 2018-01-01 ](#id-section1). Goals of 2018
+* [Page 1: 2018-01-01 ](#id-section1). Goals of 2018 & Respirometry
 * [Page 2: 2018-01-05 ](#id-section2). Committee meeting following Research Proposal
 * [Page 3: 2018-01-02 ](#id-section3).
 * [Page 4: 2018-01-02 ](#id-section4).
@@ -244,6 +244,18 @@ Instrumentation comparison between GC_FID and LC_ELSD....maybe
 6. Prepare for and complete M.S. exit exam by July 31st.
 7. Become proficient with statistical analysis
 8. Make a decision about doing a doctoral degree
+
+UF Respirometry:
+
+Respirometry: Larvae weighed, air purged of CO2, larvae held for ~1hr, and larval air analyzed for CO2 production. Hourly production of CO2
+Hourly production of CO2
+
+![Hourly CO2](20180101_CO2_Hour.png)
+
+Hourly production of CO2  by mass
+
+![Hourly CO2 weighted by Mass](20170101_CO2_Hour_Mass.png)
+
 
 ------
 
