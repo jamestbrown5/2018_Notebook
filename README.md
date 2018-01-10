@@ -25,7 +25,7 @@ Undergraduate training; Erin, Jeremiah, Maggie, and Tristin
 Instrumentation comparison between GC_FID and LC_ELSD....maybe
 
 # Table of contents (Layout follows Page number: Date. Title of entry)    
-* [Page 1: 2018-01-01 ](#id-section1). Goals of 2018 & Respirometry
+* [Page 1: 2018-01-01 ](#id-section1). Goals of 2018
 * [Page 2: 2018-01-05 ](#id-section2). Committee meeting following Research Proposal
 * [Page 3: 2018-01-02 ](#id-section3).
 * [Page 4: 2018-01-02 ](#id-section4).
@@ -232,7 +232,7 @@ Instrumentation comparison between GC_FID and LC_ELSD....maybe
 
 <div id='id-section1'/>    
 
-### Page 1: 2017-01-01. Yearly goals: recap from last year and this year's    
+### Page 1: 2018-01-01. Yearly goals: recap from last year and this year's    
 
 **2018 Goals**  
 
@@ -244,24 +244,22 @@ Instrumentation comparison between GC_FID and LC_ELSD....maybe
 6. Prepare for and complete M.S. exit exam by July 31st.
 7. Become proficient with statistical analysis
 8. Make a decision about doing a doctoral degree
-
-UF Respirometry:
-
-Respirometry: Larvae weighed, air purged of CO2, larvae held for ~1hr, and larval air analyzed for CO2 production. Hourly production of CO2
+UF Respirometry and Meeting with Andrew
+1. Respirometry: Larvae weighed, air purged of CO2, larvae held for 1.5hr, and larval air analyzed for CO2 production.
 Hourly production of CO2
 
-![Hourly CO2](20180101_CO2_Hour.png)
+![Hourly CO2]20180101_CO2_Hour.png
 
 Hourly production of CO2  by mass
 
-![Hourly CO2 weighted by Mass](20170101_CO2_Hour_Mass.png)
+![Hourly CO2 weighted by Mass]20180101_CO2_Hour_Mass.png
 
 
 ------
 
 <div id='id-section2'/>    
 
-### Page 2: 2018-01-05. Master's committee meeting following proposal and Respirometry
+### Page 2: 2018-01-05. Master's committee meeting following proposal  
 
 Attendee's: Dan Hahn, John Beck, Rob Meagher
 James' take on proposal presentation
@@ -284,15 +282,15 @@ Dan:
 
 Title:  
 * Characterising the relationship between stored resources and diapause preparation in ECB strains UZ and BE
-
-UF Respirometry:
+UF Respirometry and Meeting with Andrew
+1. Respirometry: Larvae weighed, air purged of CO2, larvae held for 1.5hr, and larval air analyzed for CO2 production.
 Hourly production of CO2
 
-![Hourly CO2](20180105_CO2_Hour.png)
+![Hourly CO2]20180105_CO2_Hour.png
 
 Hourly production of CO2  by mass
 
-![Hourly CO2 weighted by Mass](20170105_CO2_Hour_Mass.png)
+![Hourly CO2 weighted by Mass]20180105_CO2_Hour_Mass.png
 
 
 ------
@@ -313,11 +311,11 @@ UF Respirometry and Meeting with Andrew
 1. Respirometry: Larvae weighed, air purged of CO2, larvae held for 1.5hr, and larval air analyzed for CO2 production.
 Hourly production of CO2
 
-![Hourly CO2](20180109_CO2_Hour.png)
+![Hourly CO2]20180109_CO2_Hour.png
 
 Hourly production of CO2  by mass
 
-![Hourly CO2 weighted by Mass](20170109_CO2_Hour_Mass.png)
+![Hourly CO2 weighted by Mass]20180109_CO2_Hour_Mass.png
 
 2. Met with Andrew and learned the procedure to add and update protocols using R studio, GitHub, and Slack.
 
@@ -1516,4 +1514,4 @@ Hourly production of CO2  by mass
 
 <div id='id-section200'/>    
 
-### Page 200:  
+### Page 200:
