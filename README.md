@@ -227,12 +227,11 @@ Instrumentation comparison between GC_FID and LC_ELSD....maybe
 * [Page 200:  ](#id-section200).
 
 
-
 ------
 
 <div id='id-section1'/>    
 
-### Page 1: 2018-01-01. Yearly goals: recap from last year and this year's    
+### Page 1: 2018-01-01. Goals for 2018    
 
 **2018 Goals**  
 
@@ -244,8 +243,8 @@ Instrumentation comparison between GC_FID and LC_ELSD....maybe
 6. Prepare for and complete M.S. exit exam by July 31st.
 7. Become proficient with statistical analysis
 8. Make a decision about doing a doctoral degree
-UF Respirometry and Meeting with Andrew
-1. Respirometry: Larvae weighed, air purged of CO2, larvae held for 1.5hr, and larval air analyzed for CO2 production.
+  UF Respirometry and Meeting with Andrew
+9. Respirometry: Larvae weighed, air purged of CO2, larvae held for 1.5hr, and larval air analyzed for CO2 production.
 
 Hourly production of CO2
 
@@ -272,7 +271,7 @@ Committee comments following proposal
 Rob:
 1. Literature - Rob is willing to assist me in reviewing literature that could assist me in better understand how ECB fits into its varied global ecology.
 2. Confidence - Rob, in agreement with John and Dan, suggests that the question session after a seminar is the perfect time to speculate. Specifically, if someone asks me a question I may not necessarily know the answer to it is perfectly fine for me to say, "I do not know the answer, but here is what I think...."
-2. Admin - I need to email Rob and schedule meeting times with him for the semester.
+3. Admin - I need to email Rob and schedule meeting times with him for the semester.
 
 John:
 1. Presentation tips: John would like my presentations to include expected questions from the audience. This could contexualize the Q&A session after my talk and possibly ensure I am prepared for said question session.
@@ -284,7 +283,7 @@ Dan:
 
 Title:  
 * Characterising the relationship between stored resources and diapause preparation in ECB strains UZ and BE
-UF Respirometry and Meeting with Andrew
+  UF Respirometry and Meeting with Andrew
 1. Respirometry: Larvae weighed, air purged of CO2, larvae held for 1.5hr, and larval air analyzed for CO2 production.
 
 Hourly production of CO2
@@ -292,7 +291,6 @@ Hourly production of CO2
 
 Hourly production of CO2  by mass
 ![Hourly CO2 weighted by Mass](20180105_CO2_Hour_Mass.png)
-
 
 ------
 
@@ -326,13 +324,11 @@ Hourly production of CO2  by mass
 
 ### Page 3:  2018-01- entry
 
-
 ------
 
 <div id='id-section5'/>  
 
 ### Page 4:  2018-01- TO-DO List
-
 
 ------
 
@@ -340,13 +336,11 @@ Hourly production of CO2  by mass
 
 ### Page 5:  2018-01-
 
-
 ------
 
 <div id='id-section5'/>    
 
 ### Page 6:  2018-01-
-
 
 ------
 
@@ -354,13 +348,11 @@ Hourly production of CO2  by mass
 
 ### Page 7: 2018-01-08. To do list   
 
-
 ------
 
 <div id='id-section8'/>    
 
 ### Page 8: 2018-01-08.  Removing DS_store in github repo
-
 
 ------
 
@@ -368,13 +360,11 @@ Hourly production of CO2  by mass
 
 ### Page 9:  2018-01-09. reading biological rhythms workshop I: Introduction by Kuhlman et al. 2007; Cold spring harbor    
 
-
 ------
 
 <div id='id-section10'/>    
 
 ### Page 10: 2018-01-09. Updated to do list
-
 
 ------
 
