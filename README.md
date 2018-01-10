@@ -15,18 +15,31 @@ Insect Physiologist](https://jamestbrown5.github.io)
 **Introduction:**    
 This lab notebook will be used to annotate meetings, experiments, notes, and ect as it relates to my Master's research project. Specifically, 2018 will concern statistical, data collection, data analysis, lab meetings, publication preparation, and thesis defense.
 
-## List of projects and description   
-Respirometry of diapause versus non-diapause larvae; both strains
-Total lipid extraction from Ostrinia nubilalis; both strains in diapause conditons
-LC_ELSD analysis of tryglyceride concentration
-GC_FID analysis of fatty acid chain identity of triglycerides
-Undergraduate training; Erin, Jeremiah, Maggie, and Tristin
+##    
 
-Instrumentation comparison between GC_FID and LC_ELSD....maybe
+#Project Descriptions
 
-# Table of contents (Layout follows Page number: Date. Title of entry)    
-* [Page 1: 2018-01-01 ](#id-section1). Goals of 2018
-* [Page 2: 2018-01-05 ](#id-section2). Committee meeting following Research Proposal
+1. Respirometry of diapause versus non-diapause larvae; both strains
+2. Total lipid extraction from Ostrinia nubilalis; both strains in diapause conditons
+3. LC_ELSD analysis of tryglyceride concentration
+4. GC_FID analysis of fatty acid chain identity of triglycerides
+5. Undergraduate training; Erin, Jeremiah, Maggie, and Tristin
+6. Instrumentation comparison between GC_FID and LC_ELSD....maybe
+
+# 2018 Goals
+
+1. optimize a phenotyping assay to determine if a larvae is in diapause and use that assay to sample ECB larvae (specifically BE larvae).
+2. Use phenotyping assay to sample BE and UZ larvae treated for diapause
+3. Extract, quantify, and identify triglycerides from all extracted larvae; both strains, both treatments, all reps.
+4. Analyze all data for publishing
+5. Format paper for publishing
+6. Prepare for and complete M.S. exit exam by July 31st.
+7. Become proficient with statistical analysis
+8. Make a decision about doing a doctoral degree
+
+# Table of contents    
+* [Page 1: 2018-01-01 ](#id-section1). UF Respirometry and Meeting with Andrew | Respirometry
+* [Page 2: 2018-01-05 ](#id-section2). Committee meeting following Research Proposal | Respirometry
 * [Page 3: 2018-01-02 ](#id-section3).
 * [Page 4: 2018-01-02 ](#id-section4).
 * [Page 5: 2018-01-03 ](#id-section5).
@@ -231,24 +244,21 @@ Instrumentation comparison between GC_FID and LC_ELSD....maybe
 
 <div id='id-section1'/>    
 
-### Page 1: 2018-01-01. Goals for 2018    
+### Page 1: 2018-01-01. Respirometry    
 
-**2018 Goals**  
+Project Outline
 
-1. Create a phenotyping assay to determine if a larvae is in diapause and use that assay to sample ECB larvae (specifically BE larvae).
-2. Use phenotyping assay to sample BE and UZ larvae treated for diapause
-3. Extract, quantify, and identify triglycerides from all extracted larvae; both strains, both treatments, all reps.
-4. Analyze all data for publishing
-5. Format paper for publishing
-6. Prepare for and complete M.S. exit exam by July 31st.
-7. Become proficient with statistical analysis
-8. Make a decision about doing a doctoral degree
-  UF Respirometry and Meeting with Andrew
-9. Respirometry: Larvae weighed, air purged of CO2, larvae held for 1.5hr, and larval air analyzed for CO2 production.
+[20171128 ECB Life History Experimental Design](20171128_ECB Life History assesment_Exp Design.docx)
+
+Respirometry: 
+
+1. Larvae weighed and loaded into a 5mL syringe 
+2. Syringe air purged of CO2, and hydrated
+3. Larvae held for ~1hr in syringe
+4. Using a LiCor meter, the syringe air is  analyzed for CO2 production.
 
 Hourly production of CO2
 
-Hourly production of CO2
 ![Hourly CO2](20180101_CO2_Hour.png)
 
 Hourly production of CO2  by mass
