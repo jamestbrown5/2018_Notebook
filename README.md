@@ -299,7 +299,9 @@ Jeremiah:
 UF Respirometry and Meeting with Andrew
 1. Respirometry: Larvae weighed, air purged of CO2, larvae held for 1.5hr, and larval air analyzed for CO2 production.
 Hourly production of CO2
+
 Hourly production of CO2  by mass
+
 2. Met with Andrew and learned the procedure to add and update protocols using R studio, GitHub, and Slack.
 
 
