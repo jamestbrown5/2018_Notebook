@@ -303,11 +303,11 @@ UF Respirometry and Meeting with Andrew
 1. Respirometry: Larvae weighed, air purged of CO2, larvae held for 1.5hr, and larval air analyzed for CO2 production.
 Hourly production of CO2
 
-/Users/JamesB/Google Drive/GitHub/Notebook/20180109_CO2_Hour.png
+![Hourly CO2]/Users/JamesB/Google Drive/GitHub/Notebook/20180109_CO2_Hour.png
 
 Hourly production of CO2  by mass
 
-/Users/JamesB/Google Drive/GitHub/Notebook/20170109_CO2_Hour_Mass.png
+![Hourly CO2 weighted by Mass]/Users/JamesB/Google Drive/GitHub/Notebook/20170109_CO2_Hour_Mass.png
 
 2. Met with Andrew and learned the procedure to add and update protocols using R studio, GitHub, and Slack.
 
