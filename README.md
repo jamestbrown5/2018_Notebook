@@ -303,7 +303,7 @@ UF Respirometry and Meeting with Andrew
 1. Respirometry: Larvae weighed, air purged of CO2, larvae held for 1.5hr, and larval air analyzed for CO2 production.
 Hourly production of CO2
 
-![Hourly CO2](/Users/JamesB/Google Drive/GitHub/Notebook/20180109_CO2_Hour.png)
+![Hourly CO2](20180109_CO2_Hour.png)
 
 Hourly production of CO2  by mass
 
