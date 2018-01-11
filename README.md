@@ -248,7 +248,7 @@ This lab notebook will be used to annotate meetings, experiments, notes, and ect
 
 Project Outline
 
-[20171128 ECB Life History Experimental Design](../2018_Notebook/20171128_ECB Life History assesment_Exp Design.docx)
+[20171128 ECB Life History Experimental Design](../GitHub/2018_Notebook/20171128_ECB Life History assesment_Exp Design.docx)
 
 
 
