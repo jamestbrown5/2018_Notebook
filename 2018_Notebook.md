@@ -16,8 +16,8 @@
 * [Page 1: 2018-01-01 ](#id-section1). UF Respirometry 
 * [Page 2: 2018-01-05 ](#id-section2). Committee meeting following Research Proposal | Respirometry
 * [Page 3: 2018-01-09 ](#id-section3). USDA with undergrads | UF Respirometry | Meeting with Andrew
-* [Page 4: 2018-01-10](#id-section4). USDA 
-* [Page 5: 2018-01-11 ](#id-section5).
+* [Page 4: 2018-01-10 ](#id-section4). USDA 
+* [Page 5: 2018-01-11 ](#id-section5). USDA with Undergraduate Erin
 * [Page 6: 2018-01-05 ](#id-section6).
 * [Page 7: 2018-01-08 ](#id-section7).
 * [Page 8: 2018-01-08 ](#id-section8).
@@ -343,7 +343,15 @@ Work Day (short due to A/C service and doctor appt)
 
 <div id='id-section6'/>    
 
-### Page 5:
+### Page 5: USDA with Undergraduate Erin
+1. Check FID run and determnination the status of the Hexanes
+2. Check on larvae
+3. Run TLC plate on vials in the freezer
+4. Input and organize data on GitHub
+5. Schedule a date and time to meet with Rob
+6. Email Nancy with a ENSO club reminder
+7. Class
+8. Read 2 broad articles about diapause metabolism
 
 
 
