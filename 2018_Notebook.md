@@ -345,6 +345,8 @@ Work Day (short due to A/C service and doctor appt)
 
 ### Page 5: USDA with Undergraduate Erin
 1. Check FID run and determnination the status of the Hexanes
+  * instrument blanks compared to an "ovenblank" and there were some peaks that occured in both the chromatograms
+  * oven turned up to 240C in an attempt to remove the latent peaks
 2. Check on larvae
 3. Run TLC plate on vials in the freezer
 4. Input and organize data on GitHub
