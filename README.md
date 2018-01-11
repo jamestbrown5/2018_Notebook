@@ -246,9 +246,7 @@ This lab notebook will be used to annotate meetings, experiments, notes, and ect
 
 ### Page 1: 2018-01-01. Respirometry    
 
-Project Outline
-
-![20171128 ECB Life History Experimental Design](/Users/JamesB/Google Drive/GitHub/2018_Notebook/20171128_ECB Life History assesment_Exp Design.docx)
+20171128 ECB Life History Experimental Design
 
 
 
