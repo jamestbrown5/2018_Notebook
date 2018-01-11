@@ -2,7 +2,7 @@
 
 ## Author: James T. Brown,
 
-Insect Physiologist](https://jamestbrown5.github.io)      
+[Insect Physiologist](https://jamestbrown5.github.io)      
 
 ### Affiliation: University of Florida, Department of Entomology and Nematology
 ### Contact: jamestbrown5@ufl.edu     
@@ -38,12 +38,12 @@ This lab notebook will be used to annotate meetings, experiments, notes, and ect
 8. Become proficient with statistical analysis
 9. Make a decision about doing a doctoral degree
 
-# Table of contents    
+# Table of contents (Layout follows Page number: Date. Title of entry)    
 * [Page 1: 2018-01-01 ](#id-section1). UF Respirometry 
 * [Page 2: 2018-01-05 ](#id-section2). Committee meeting following Research Proposal | Respirometry
 * [Page 3: 2018-01-09 ](#id-section3). USDA with undergrads | UF Respirometry | Meeting with Andrew
-* [Page 4: 2018-01-10 ](#id-section4). USDA
-* [Page 5: 2018-01-03 ](#id-section5).
+* [Page 4: 2018-01-10](#id-section4). USDA 
+* [Page 5: 2018-01-11 ](#id-section5).
 * [Page 6: 2018-01-05 ](#id-section6).
 * [Page 7: 2018-01-08 ](#id-section7).
 * [Page 8: 2018-01-08 ](#id-section8).
@@ -243,7 +243,7 @@ This lab notebook will be used to annotate meetings, experiments, notes, and ect
 
 ------
 
-<div id='id-section1'/>    
+<div id='id-section1'/>
 
 ### Page 1: 2018-01-01. UF Respirometry    
 
@@ -309,7 +309,7 @@ Hourly production of CO2  by mass
 
 ------
 
-<div id='id-section3'/>    
+<div id='id-section3' />    
 
 ### Page 3: 2018-01-09. USDA with undergrads | UF Respirometry | Meeting with Andrew   
 
@@ -359,37 +359,46 @@ Hourly production of CO2  by mass
 
 ------
 
-<div id='id-section5'/>  
+<div id='id-section4'/>  
 
-### Page 3:  2018-01- entry
+### Page 4:  2018-01-10 USDA
+
+Work Day
+
+1. Checked larvae and added diet to containers as needed
+2. Contacted Caitlin concerning LC fault via email
+3. Using the FAMEs produced by Erin on 20180109
+   * prepared an instrument blank 
+   * created a sequence template
+   * ran all 12 vials and ended with a sleep method to save gas
 
 ------
 
-<div id='id-section5'/>  
+<div id= 'id-section5' />  
 
 ### Page 4:  2018-01- TO-DO List
 
 ------
 
-<div id='id-section5'/>    
+<div id='id-section6'/>    
 
 ### Page 5:  2018-01-
 
 ------
 
-<div id='id-section5'/>    
+<div id='id-section7'/>    
 
 ### Page 6:  2018-01-
 
 ------
 
-<div id='id-section7'/>    
+<div id='id-section8'/>    
 
 ### Page 7: 2018-01-08. To do list   
 
 ------
 
-<div id='id-section8'/>    
+<div id='id-section9'/>    
 
 ### Page 8: 2018-01-08.  Removing DS_store in github repo
 
