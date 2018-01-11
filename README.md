@@ -250,12 +250,6 @@ Project Outline
 
 ![20171128 ECB Life History Experimental Design](./20171128_ECB Life History assesment_Exp Design.docx)
 
-
-
-
-
-
-
 Respirometry: 
 
 1. Larvae weighed and loaded into a 5mL syringe 
