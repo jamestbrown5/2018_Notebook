@@ -28,20 +28,21 @@ This lab notebook will be used to annotate meetings, experiments, notes, and ect
 
 # 2018 Goals
 
-1. optimize a phenotyping assay to determine if a larvae is in diapause and use that assay to sample ECB larvae (specifically BE larvae).
-2. Use phenotyping assay to sample BE and UZ larvae treated for diapause
-3. Extract, quantify, and identify triglycerides from all extracted larvae; both strains, both treatments, all reps.
-4. Analyze all data for publishing
-5. Format paper for publishing
-6. Prepare for and complete M.S. exit exam by July 31st.
-7. Become proficient with statistical analysis
-8. Make a decision about doing a doctoral degree
+1. Characterising the relationship between stored resources and diapause preparation in ECB strains UZ and BE
+2. Optimize a phenotyping assay to determine if a larvae is in diapause and use that assay to sample ECB larvae (specifically BE larvae).
+3. Use phenotyping assay to sample BE and UZ larvae treated for diapause
+4. Extract, quantify, and identify triglycerides from all extracted larvae; both strains, both treatments, all reps.
+5. Analyze all data for publishing
+6. Format paper for publishing
+7. Prepare for and complete M.S. exit exam by July 31st.
+8. Become proficient with statistical analysis
+9. Make a decision about doing a doctoral degree
 
 # Table of contents    
-* [Page 1: 2018-01-01 ](#id-section1). UF Respirometry and Meeting with Andrew | Respirometry
+* [Page 1: 2018-01-01 ](#id-section1). UF Respirometry 
 * [Page 2: 2018-01-05 ](#id-section2). Committee meeting following Research Proposal | Respirometry
-* [Page 3: 2018-01-02 ](#id-section3).
-* [Page 4: 2018-01-02 ](#id-section4).
+* [Page 3: 2018-01-09 ](#id-section3). USDA with undergrads | UF Respirometry | Meeting with Andrew
+* [Page 4: 2018-01-10 ](#id-section4). USDA
 * [Page 5: 2018-01-03 ](#id-section5).
 * [Page 6: 2018-01-05 ](#id-section6).
 * [Page 7: 2018-01-08 ](#id-section7).
@@ -244,7 +245,7 @@ This lab notebook will be used to annotate meetings, experiments, notes, and ect
 
 <div id='id-section1'/>    
 
-### Page 1: 2018-01-01. Respirometry    
+### Page 1: 2018-01-01. UF Respirometry    
 
 [20171128 ECB Life History Experimental Design](https://github.com/jamestbrown5/2018_Notebook/blob/master/20171128_ECB%20Life%20History%20assesment_Exp%20Design.pdf)
 
@@ -268,7 +269,7 @@ Hourly production of CO2  by mass
 
 <div id='id-section2'/>    
 
-### Page 2: 2018-01-05. Master's committee meeting following proposal  
+### Page 2: 2018-01-05. Committee meeting following Research Proposal | Respirometry  
 
 Attendee's: Dan Hahn, John Beck, Rob Meagher
 James' take on proposal presentation
@@ -289,10 +290,16 @@ Dan:
 2. Synthesis - The questions I was asked after my presentation suggest I am uncomfortable or less confident with synthesizing data or information on the fly (for lack of a better phrase). Dan suggests I read literature more broadly to better understand the relationship between my study system and its ecological position. Also I would benefit from continuing my education in evolution.
 3. Admin - With Rob as a resource, I will be starting weekly or biweekly literature meetings with R. Meagher and Dan would like the contents of those meetings shared using GitHub.
 
-Title:  
-* Characterising the relationship between stored resources and diapause preparation in ECB strains UZ and BE
-  UF Respirometry and Meeting with Andrew
-1. Respirometry: Larvae weighed, air purged of CO2, larvae held for 1.5hr, and larval air analyzed for CO2 production.
+
+
+Respirometry: 
+
+1. Larvae weighed and loaded into a 5mL syringe 
+2. Syringe air purged of CO2, and hydrated
+3. Larvae held for ~1hr in syringe
+4. Using a LiCor meter, the syringe air is  analyzed for CO2 production.
+
+
 
 Hourly production of CO2
 ![Hourly CO2](20180105_CO2_Hour.png)
@@ -304,18 +311,43 @@ Hourly production of CO2  by mass
 
 <div id='id-section3'/>    
 
-### Page 3: 2018-01-09. USDA and UF   
+### Page 3: 2018-01-09. USDA with undergrads | UF Respirometry | Meeting with Andrew   
 
 USDA with Jeremiah
-Jeremiah:
+
+**Jeremiah:**
+
 1. Talked about schedule - Wednesday and Friday from 1pm until 5pm should be a go
 2. Discussed in detail the project we are doing and how it related to national food security, insect pest management, diapause research, etc. In short, I reviewed the "ECB" and "Experimental" sections of my proposal. Jeremiah asked alot of interesting questions and eexpresses an interest in insect chemical ecology, agricultural engineering (genetic/biological control), push and pull ag-systems, etc.
 3. Discussed with Jeremiah the possibility of completing an independent project, scholarship opportunities (which I will look into), and the possibility of remaining at the USDA for the long term.
 4. Gave Jeremiah a introduction to general lab safety: fire exits, emergency information, decontamination stations, and PPE locations.
 5. Discussed in general the lipid extraction procedure.
 
-UF Respirometry and Meeting with Andrew
-1. Respirometry: Larvae weighed, air purged of CO2, larvae held for 1.5hr, and larval air analyzed for CO2 production.
+**Erin:**
+
+1. Laid out lipid samples for Erin to practice the FAME protocol
+2. Erin arrived at the USDA around 1pm and was able to complete the entire procedure (11 samples) by 1439.
+3. I did not get the opportunity to interact with her because I was on campus doing respirometry
+
+
+
+**Meeting with Andrew**
+
+* Introduced me to software necessary to create and modify lab protocols
+* Installed and tested software
+* Discussed the outline and approch to creating protocols using R markdown
+* Discussed the goal and necessity of using version control software to track revisions and ensure my science is reproducible.
+
+
+
+Respirometry: 
+
+1. Larvae weighed and loaded into a 5mL syringe 
+2. Syringe air purged of CO2, and hydrated
+3. Larvae held for ~1hr in syringe
+4. Using a LiCor meter, the syringe air is  analyzed for CO2 production.
+
+
 
 Hourly production of CO2
 ![Hourly CO2](20180109_CO2_Hour.png)
@@ -323,7 +355,6 @@ Hourly production of CO2
 Hourly production of CO2  by mass
 ![Hourly CO2 weighted by Mass](20180109_CO2_Hour_Mass.png)
 
-2. Met with Andrew and learned the procedure to add and update protocols using R studio, GitHub, and Slack.
 
 
 ------
