@@ -363,7 +363,7 @@ Hourly production of CO2  by mass
 
 ### Page 4:  2018-01-10 USDA
 
-Work Day
+Work Day (short due to A/C service and doctor appt)
 
 1. Checked larvae and added diet to containers as needed
 2. Contacted Caitlin concerning LC fault via email
