@@ -374,45 +374,51 @@ Work Day
 
 ------
 
-<div id= 'id-section5' />  
-
-### Page 4:  2018-01- TO-DO List
-
-------
-
 <div id='id-section6'/>    
 
-### Page 5:  2018-01-
+### Page 5:
+
+
 
 ------
 
 <div id='id-section7'/>    
 
-### Page 6:  2018-01-
+### Page 6:
+
+
 
 ------
 
 <div id='id-section8'/>    
 
-### Page 7: 2018-01-08. To do list   
+### Page 7:   
+
+
 
 ------
 
 <div id='id-section9'/>    
 
-### Page 8: 2018-01-08.  Removing DS_store in github repo
+### Page 8:
+
+
 
 ------
 
 <div id='id-section9'/>    
 
-### Page 9:  2018-01-09. reading biological rhythms workshop I: Introduction by Kuhlman et al. 2007; Cold spring harbor    
+### Page 9:    
+
+
 
 ------
 
 <div id='id-section10'/>    
 
-### Page 10: 2018-01-09. Updated to do list
+### Page 10:
+
+
 
 ------
 
