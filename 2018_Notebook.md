@@ -221,7 +221,9 @@
 
 ### Page 1: 2018-01-01. UF Respirometry
 
-[20171128 ECB Life History Experimental Design](https://github.com/jamestbrown5/2018_Notebook/blob/master/20171128_ECB%20Life%20History%20assesment_Exp%20Design.pdf)
+[20171128 ECB Life History Experimental Design](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Other/Respirometry/Documents/20171128_ECB Life History assesment_Exp Design.docx)
+
+
 
 Respirometry: 
 
