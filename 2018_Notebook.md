@@ -393,12 +393,48 @@ Work Day (short due to A/C service and doctor appt)
      * When needed, we will go through the process to properly dilute acids and bases used for the FAME reaction
 
 
-
 ------
 
 <div id='id-section7'/>    
 
-### Page 6:
+### Page 6: 2018-01-12
+
+USDA 0800-1000
+
+* GC FID:
+  * compared chromatograms
+  * ran more solvent and oven blanks
+  * conducted inlet maintenance
+  * altered FAME method to make the inlet temp the same as the post run temp
+  * determmined how to sleep the instrument
+    * before performing a run select the sleep method
+    * organize the sequence
+    * run the sequence with your method of choice
+    * after the sequence is completed, the GC will default back to the sleep method
+* Larvae maintenance
+
+UF 1030-1345: 
+
+* Seminar: vector borne diseases
+  1. interesting stuff however it became a bit technical and some if the talk was lost on me.
+     * he discussed how his research focuses on "curing" mosquitoes of malaria
+     * he discussed how recently infected mosquitoes seek out the extrafloral nectar of this one pest weed species
+     * he discussed how the treatment he is developing works in two ways
+       * first the vaccine (an antibody treatment that blocks the membrane protein that binds the malaria parasite) is micronized and injected  into the lymph tissue of the patient
+         * on the same dose date a bundle of antigen is injected that slowly releases antigen into the blood stream for upto 6 months. This slow release thing acts as a booster
+* Respirometry:
+  1. Larvae weighed and loaded into a 5mL syringe 
+  2. Syringe air purged of CO2, and hydrated
+  3. Larvae held for ~1hr in syringe
+  4. Using a LiCor meter, the syringe air is  analyzed for CO2 production.
+
+Hourly production of CO2
+![Hourly CO2](20180112_CO2_Hour.png)
+
+Hourly production of CO2  by mass
+![Hourly CO2 weighted by Mass](20180112_CO2_Hour_Mass.png)
+
+
 
 
 
