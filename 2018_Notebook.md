@@ -343,17 +343,54 @@ Work Day (short due to A/C service and doctor appt)
 
 <div id='id-section6'/>    
 
-### Page 5: USDA with Undergraduate Erin
+### Page 5:  2018-01-11  USDA with Undergraduate Erin
+####**Tasks and To-Do's**
+
 1. Check FID run and determnination the status of the Hexanes
-  * instrument blanks compared to an "ovenblank" and there were some peaks that occured in both the chromatograms
-  * oven turned up to 240C in an attempt to remove the latent peaks
+  * instrument blanks compared to an "ovenblank" and there were some peaks that occured in both the chromatograms around 20k in intensity.
+  * Oven turned up to 240C in an attempt to remove the latent peaks from 10am until 2pm. Oven blank ran immediately following column baking.
+    * comparison between solvent blank and oven blank
+    * oven blank removed many of the extra peaks 
+    * further investigation needs to be conducted to determine the source of the rocky baseline during solvent blank runs.
+  * Ran Pentane, Hexanes, and Dichloromethane to test instrument baseline. 
 2. Check on larvae
 3. Run TLC plate on vials in the freezer
+   * Push to Friday
 4. Input and organize data on GitHub
 5. Schedule a date and time to meet with Rob
-6. Email Nancy with a ENSO club reminder
+   * Push to Friday
+6. Email Nancy with a ENSO club reminder: missed
 7. Class
+   * practice loading data into sas and begin group assignment
 8. Read 2 broad articles about diapause metabolism
+   * push to Friday
+
+
+#### **Working with Erin**
+
+1. Update FAME protocol
+   * add instruction for thawing, aliquoiting, and storing samples and standards while speedvac cools down
+   * add volume and mass to samples and standards.
+2. Shadowed Erin during FAME derivitization to ensure she was equiped and capable of running the FAME method without supervision.
+   * Positives: 
+     * She walked me through the entire process and asked questions about the theories and mechanisms that she was confused about. 
+     * Her dexterity is impressive
+     * She explained to me that she was confortable with the FAME process and that she is ready to move on to working on "real samples"
+     * she is willing to run 14 reaction vials during one analysis.
+       * 8 samples, 3 reaction blanks, and 3 triglyceride standards plus 1 FAME standard and 1 instrument blank
+   * Needs Improvement:
+     * Handling pipeters
+       * avoid inverting them when transferring solutions 
+     * When quenching the reaction
+       * while keeping the vial inplace, acid needs to be added directly to the reaction.
+     * Working in the hood
+       * be careful not to place equipment and tools directly onto the LabMat
+     * Operating the SpeedVac
+       * explained operation procedure for the SpeedVac
+   * Future directions:
+     * During her next work day she and I will go through the process of running samples on the FID. 
+     * Erin is interested in a career in agriculture and indicated to me that she would like to volunteer for the USDA until she graduates.
+     * When needed, we will go through the process to properly dilute acids and bases used for the FAME reaction
 
 
 
