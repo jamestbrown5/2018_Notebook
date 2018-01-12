@@ -232,10 +232,10 @@ Respirometry:
 
 Hourly production of CO2
 
-![Hourly CO2](20180101_CO2_Hour.png)
+![Hourly CO2](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Other/Respirometry/Images/20180101_CO2_Hour.png)
 
 Hourly production of CO2  by mass
-![Hourly CO2 weighted by Mass](20180101_CO2_Hour_Mass.png)
+![Hourly CO2 weighted by Mass](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Other/Respirometry/Images/20180101_CO2_Hour_Mass.png)
 
 
 
@@ -275,10 +275,10 @@ Respirometry:
 4. Using a LiCor meter, the syringe air is  analyzed for CO2 production.
 
 Hourly production of CO2
-![Hourly CO2](20180105_CO2_Hour.png)
+![Hourly CO2](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Other/Respirometry/Images/20180105_CO2_Hour.png)
 
 Hourly production of CO2  by mass
-![Hourly CO2 weighted by Mass](20180105_CO2_Hour_Mass.png)
+![Hourly CO2 weighted by Mass](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Other/Respirometry/Images/20180105_CO2_Hour_Mass.png)
 
 ------
 
@@ -317,10 +317,10 @@ Respirometry:
 4. Using a LiCor meter, the syringe air is  analyzed for CO2 production.
 
 Hourly production of CO2
-![Hourly CO2](20180109_CO2_Hour.png)
+![Hourly CO2](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Other/Respirometry/Images/20180109_CO2_Hour.png)
 
 Hourly production of CO2  by mass
-![Hourly CO2 weighted by Mass](20180109_CO2_Hour_Mass.png)
+![Hourly CO2 weighted by Mass](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Other/Respirometry/Images/20180109_CO2_Hour_Mass.png)
 
 
 
@@ -429,10 +429,10 @@ UF 1030-1345:
   4. Using a LiCor meter, the syringe air is  analyzed for CO2 production.
 
 Hourly production of CO2
-![Hourly CO2](20180112_CO2_Hour.png)
+![Hourly CO2](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Other/Respirometry/Images/20180112_CO2_Hour.png)
 
 Hourly production of CO2  by mass
-![Hourly CO2 weighted by Mass](20180112_CO2_Hour_Mass.png)
+![Hourly CO2 weighted by Mass](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Other/Respirometry/Images/20180112_CO2_Hour_Mass.png)
 
 
 
