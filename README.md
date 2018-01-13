@@ -5,7 +5,7 @@
 Date started: 20180101    
 Last date modified: ongoing    
 
-To be a great scientist you must first become an expert at annotating….EVERYTHING. With the guidence of Andrew, a new postdoc in the Hahn Lab, I intend to become just that. If I am successful, not only will I be able to access all this important information, but I will indeed be a better scientist. This repository will be used to share my notes and protocols concerning the research I am conducting.The aim of this electronic notebook is to science as it happens. 
+To be a great scientist you must first become an expert at annotating…EVERYTHING. With the guidence of Andrew, a new postdoc in the Hahn Lab, I intend to become just that. If I am successful, not only will I be able to search and archive this data, but I will indeed be a better scientist. This repository will be used to share my notes and protocols concerning the research I am conducting.The aim of this electronic notebook is to science as it happens. 
 
 Courtesy of Andrew Nyguen:Template for making an online notebook found [here](https://github.com/adnguyen/Notebooks_and_Protocols/blob/master/Online_notebook_template.md). View github repo [here](https://github.com/adnguyen/Notebooks_and_Protocols).
 
