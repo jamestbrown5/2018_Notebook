@@ -232,18 +232,11 @@ Respirometry:
 3. Larvae held for ~1hr in syringe
 4. Using a LiCor meter, the syringe air is  analyzed for CO2 production.
 
-Hourly production of CO2
-
-![Hourly CO2]([20180101_CO2_Hour.png](https://github.com/jamestbrown5/Other/blob/master/Respirometry/Images/20180101_CO2_Hour.png))
+Hourly production of CO2![Hourly CO2](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Other/Respirometry/Images/20180101_CO2_Hour.png)
 
 
 
-
-
-
-
-Hourly production of CO2  by mass
-![Hourly CO2 weighted by Mass](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Other/Respirometry/Images/20180101_CO2_Hour_Mass.png)
+Hourly production of CO2  by mass![Hourly CO2 weighted by Mass](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Other/Respirometry/Images/20180101_CO2_Hour_Mass.png)
 
 
 
