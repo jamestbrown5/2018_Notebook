@@ -1,3 +1,6 @@
+---
+output: html_document
+---
 # The relationship between stored resources and diapause preparation
 
 [Insect Physiologist](https://jamestbrown5.github.io)      
