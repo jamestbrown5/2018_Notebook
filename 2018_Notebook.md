@@ -235,12 +235,12 @@ Respirometry:
 
 Hourly production of CO2
 
-![Hourly CO2](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Other/Respirometry/Images/20180101_CO2_Hour.png)
+[Hourly CO2](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Other/Respirometry/Images/20180101_CO2_Hour.png)
 
 
 
 Hourly production of CO2  by mass
-![Hourly CO2 weighted by Mass](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Other/Respirometry/Images/20180101_CO2_Hour_Mass.png)
+[Hourly CO2 weighted by Mass](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Other/Respirometry/Images/20180101_CO2_Hour_Mass.png)
 
 
 
