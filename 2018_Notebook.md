@@ -21,8 +21,8 @@ output: html_document
 * [Page 3: 2018-01-09 ](#id-section3). USDA with undergrads | UF Respirometry | Meeting with Andrew
 * [Page 4: 2018-01-10 ](#id-section4). USDA 
 * [Page 5: 2018-01-11 ](#id-section5). USDA with Undergraduate Erin
-* [Page 6: 2018-01-05 ](#id-section6).
-* [Page 7: 2018-01-08 ](#id-section7).
+* [Page 6: 2018-01-15 ](#id-section6). USDA Validations
+* [Page 7: 2018-01-16 ](#id-section7). Class | Respirometry
 * [Page 8: 2018-01-08 ](#id-section8).
 * [Page 9: 2018-01-09 ](#id-section9).
 * [Page 10: 2018-01-09 ](#id-section10).
@@ -224,7 +224,7 @@ output: html_document
 
 ### Page 1: 2018-01-01. UF Respirometry
 
-[20171128 ECB Life History Experimental Design](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Other/Respirometry/Documents/20171128_ECB Life History assesment_Exp Design.docx)
+[20171128 ECB Life History Experimental Design](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Notebook_Protocols/20171128_ECB Life History assesment_Exp Design.docx)
 
 
 
@@ -451,7 +451,16 @@ Hourly production of CO2  by mass
 
 <div id='id-section8'/>    
 
-### Page 7:
+### Page 7: 20180115  USDA
+
+* Larvae
+  * Fed larvae as needed
+  * Prepped 32 larvae for respirometry 
+  * Trafficked those larvae to UF
+* TLC
+  * Procedure and results below
+
+
 
 
 
@@ -459,7 +468,21 @@ Hourly production of CO2  by mass
 
 <div id='id-section9'/>    
 
-### Page 8:
+### Page 8: 20180116  USDA Larvae Prep
+
+* Class
+  * We alluded to how to deal with factorial data. 
+  * Specifically is the levels are quantative then you need to perform a regression 
+  * Durinng the lab portion we had the opportunity to:
+    * Read in data, practice dealing with errors, opening different types of data files, reading in data using macros, setting up a file system using macros
+    * Assignment 2 was due at 5p
+* Respirometry
+  * BE12: 
+    * performed respirometry on remaining samples
+  * UZ12: 
+    * respirometry performed on the 6 larvae that entered the 5 instar
+  * UZ16: 
+    * respirometry performed on 25 larvae that entered the 5 instar
 
 
 
@@ -467,7 +490,9 @@ Hourly production of CO2  by mass
 
 <div id='id-section9'/>    
 
-### Page 9:
+### Page 9: 20180117  
+
+
 
 
 
