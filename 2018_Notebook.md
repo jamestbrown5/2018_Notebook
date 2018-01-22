@@ -1,6 +1,4 @@
----
-output: html_document
----
+
 # The relationship between stored resources and diapause preparation
 
 [Insect Physiologist](https://jamestbrown5.github.io)      
@@ -226,7 +224,7 @@ output: html_document
 
 [20171128 ECB Life History Experimental Design](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Notebook_Protocols/20171128_ECB Life History assesment_Exp Design.docx)
 
-
+[20171128 ECB Life History Experimental Design](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/20171128_ECB%20Life%20History%20assesment_Exp%20Design.docx)
 
 Respirometry: 
 
