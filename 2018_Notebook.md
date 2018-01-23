@@ -236,12 +236,9 @@ Respirometry:
  * BE12: 
     * performed respirometry on remaining samples
 
-Hourly production of CO2
-[Hourly CO2](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Other/Respirometry/Images/20180101_CO2_Hour.png)
+![Hourly CO2 production](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180101_CO2_Hour.png)
 
-
-Hourly production of CO2  by mass
-[Hourly CO2 weighted by Mass](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Other/Respirometry/Images/20180101_CO2_Hour_Mass.png)
+![Hourly CO2 production weighted by Mass](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180101_CO2_Hour_Mass.png)
 
 
 
