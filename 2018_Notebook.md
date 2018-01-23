@@ -23,11 +23,11 @@
 * [Page 7: 2018-01-16 ](#id-section7). Class | Respirometry
 * [Page 8: 2018-01-17 ](#id-section8). Respirometry | USDA with JLM
 * [Page 9: 2018-01-18 ](#id-section9). USDA with EVL and JLM
-* [Page 10: 2018-01-09 ](#id-section10). USDA | UF Respirometry 
-* [Page 11:  ](#id-section11).
-* [Page 12:  ](#id-section12).
-* [Page 13:  ](#id-section13).
-* [Page 14:  ](#id-section14).
+* [Page 10: 2018-01-19 ](#id-section10). USDA | UF Respirometry 
+* [Page 11: 2018-01-20 ](#id-section11). UF Respirometry
+* [Page 12: 2018-01-21 ](#id-section12). UF Respirometry
+* [Page 13: 2018-01-22 ](#id-section13). USDA shutdown | UF Respirometry | Lab Meeting
+* [Page 14: 2018-01-23 ](#id-section14). USDA Notebook updates | Analyse JLM Cal Curve | Graph Data
 * [Page 15:  ](#id-section15).
 * [Page 16:  ](#id-section16).
 * [Page 17:  ](#id-section17).
@@ -666,7 +666,7 @@ Hourly production of CO2  by mass
 ![Hourly CO2 weighted by Mass](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Other/Respirometry/Images/20180105_CO2_Hour_Mass.png)
 
  * BE12: 
-    * performed respirometry on remaining samples
+    * respirometry on remaining samples
   * UZ12:
     * respirometry performed on the 25 larvae that entered the 5 instar
   * UZ16: 
@@ -677,7 +677,11 @@ Hourly production of CO2  by mass
 
 <div id='id-section15'/>    
 
-### Page 15:
+### Page 15: 20180123 USDA Notebook updates | Analyse JLM Cal Curve | Graph Data
+
+* Notebook updates
+   * electronic notebook updated
+   
 
 ------
 
