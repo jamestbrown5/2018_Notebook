@@ -584,7 +584,8 @@ Hourly production of CO2
 Hourly production of CO2  by mass
 ![Hourly CO2 weighted by Mass](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Other/Respirometry/Images/20180105_CO2_Hour_Mass.png)
 
-
+ * BE12: 
+    * performed respirometry on remaining samples
   * UZ12:
     * respirometry performed on the 25 larvae that entered the 5 instar
   * UZ16: 
@@ -595,19 +596,82 @@ Hourly production of CO2  by mass
 
 <div id='id-section12'/>    
 
-### Page 12: 20180118 Respirometry 
+### Page 12: 20180120 Respirometry 
+
+* Respirometry
+1. Larvae weighed and loaded into a 5mL syringe 
+2. Syringe air purged of CO2, and hydrated
+3. Larvae held for ~1hr in syringe
+4. Using a LiCor meter, the syringe air is  analyzed for CO2 production.
+
+Hourly production of CO2
+![Hourly CO2](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Other/Respirometry/Images/20180105_CO2_Hour.png)
+
+Hourly production of CO2  by mass
+![Hourly CO2 weighted by Mass](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Other/Respirometry/Images/20180105_CO2_Hour_Mass.png)
+
+ * BE12: 
+    * performed respirometry on remaining samples
+  * UZ12:
+    * respirometry performed on the 25 larvae that entered the 5 instar
+  * UZ16: 
+    * respirometry performed on 25 larvae that entered the 5 instar
+
 
 ------
 
 <div id='id-section13'/>    
 
-### Page 13:
+### Page 13: 20180121 Respirometry
+ 
+* Respirometry
+1. Larvae weighed and loaded into a 5mL syringe 
+2. Syringe air purged of CO2, and hydrated
+3. Larvae held for ~1hr in syringe
+4. Using a LiCor meter, the syringe air is  analyzed for CO2 production.
+
+Hourly production of CO2
+![Hourly CO2](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Other/Respirometry/Images/20180105_CO2_Hour.png)
+
+Hourly production of CO2  by mass
+![Hourly CO2 weighted by Mass](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Other/Respirometry/Images/20180105_CO2_Hour_Mass.png)
+
+
+  * UZ12:
+    * respirometry performed on the 25 larvae that entered the 5 instar
+  * UZ16: 
+    * respirometry performed on 25 larvae that entered the 5 instar
+
 
 ------
 
 <div id='id-section14'/>    
 
-### Page 14:
+### Page 14: 20180122 Respirometry | USDA shutdown
+
+* USDA Shutdown
+   * turn down equipment and postpone assays
+   insects moved to UF incubators
+   
+* Respirometry
+1. Larvae weighed and loaded into a 5mL syringe 
+2. Syringe air purged of CO2, and hydrated
+3. Larvae held for ~1hr in syringe
+4. Using a LiCor meter, the syringe air is  analyzed for CO2 production.
+
+Hourly production of CO2
+![Hourly CO2](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Other/Respirometry/Images/20180105_CO2_Hour.png)
+
+Hourly production of CO2  by mass
+![Hourly CO2 weighted by Mass](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Other/Respirometry/Images/20180105_CO2_Hour_Mass.png)
+
+ * BE12: 
+    * performed respirometry on remaining samples
+  * UZ12:
+    * respirometry performed on the 25 larvae that entered the 5 instar
+  * UZ16: 
+    * respirometry performed on 25 larvae that entered the 5 instar
+
 
 ------
 
