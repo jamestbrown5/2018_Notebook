@@ -669,7 +669,7 @@ UF 1030-1345:
 
 * USDA Shutdown
    * turn down equipment and postpone assays
-   insects moved to UF incubators
+   insects moved to UF incubators 
    
 * Respirometry
 1. Larvae weighed and loaded into a 5mL syringe 
