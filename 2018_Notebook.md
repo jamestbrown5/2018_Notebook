@@ -21,9 +21,9 @@
 * [Page 5: 2018-01-11 ](#id-section5). USDA with Undergraduate Erin
 * [Page 6: 2018-01-15 ](#id-section6). USDA Validations
 * [Page 7: 2018-01-16 ](#id-section7). Class | Respirometry
-* [Page 8: 2018-01-08 ](#id-section8).
-* [Page 9: 2018-01-09 ](#id-section9).
-* [Page 10: 2018-01-09 ](#id-section10).
+* [Page 8: 2018-01-17 ](#id-section8). Respirometry | USDA with JLM
+* [Page 9: 2018-01-18 ](#id-section9). USDA with EVL and JLM
+* [Page 10: 2018-01-09 ](#id-section10). USDA | UF Respirometry 
 * [Page 11:  ](#id-section11).
 * [Page 12:  ](#id-section12).
 * [Page 13:  ](#id-section13).
@@ -233,10 +233,11 @@ Respirometry:
 3. Larvae held for ~1hr in syringe
 4. Using a LiCor meter, the syringe air is  analyzed for CO2 production.
 
+ * BE12: 
+    * performed respirometry on remaining samples
+
 Hourly production of CO2
-
 [Hourly CO2](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Other/Respirometry/Images/20180101_CO2_Hour.png)
-
 
 
 Hourly production of CO2  by mass
@@ -281,6 +282,9 @@ Respirometry:
 3. Larvae held for ~1hr in syringe
 4. Using a LiCor meter, the syringe air is  analyzed for CO2 production.
 
+ * BE12: 
+    * performed respirometry on remaining samples
+
 Hourly production of CO2
 ![Hourly CO2](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Other/Respirometry/Images/20180105_CO2_Hour.png)
 
@@ -322,6 +326,9 @@ Respirometry:
 2. Syringe air purged of CO2, and hydrated
 3. Larvae held for ~1hr in syringe
 4. Using a LiCor meter, the syringe air is  analyzed for CO2 production.
+
+ * BE12: 
+    * performed respirometry on remaining samples
 
 Hourly production of CO2
 ![Hourly CO2](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Other/Respirometry/Images/20180109_CO2_Hour.png)
@@ -429,11 +436,15 @@ UF 1030-1345:
      * he discussed how the treatment he is developing works in two ways
        * first the vaccine (an antibody treatment that blocks the membrane protein that binds the malaria parasite) is micronized and injected  into the lymph tissue of the patient
          * on the same dose date a bundle of antigen is injected that slowly releases antigen into the blood stream for upto 6 months. This slow release thing acts as a booster
+
 * Respirometry:
   1. Larvae weighed and loaded into a 5mL syringe 
   2. Syringe air purged of CO2, and hydrated
   3. Larvae held for ~1hr in syringe
   4. Using a LiCor meter, the syringe air is  analyzed for CO2 production.
+
+ * BE12: 
+    * performed respirometry on remaining samples
 
 Hourly production of CO2
 ![Hourly CO2](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Other/Respirometry/Images/20180112_CO2_Hour.png)
@@ -474,6 +485,7 @@ Hourly production of CO2  by mass
   * Durinng the lab portion we had the opportunity to:
     * Read in data, practice dealing with errors, opening different types of data files, reading in data using macros, setting up a file system using macros
     * Assignment 2 was due at 5p
+
 * Respirometry
   * BE12: 
     * performed respirometry on remaining samples
@@ -482,15 +494,51 @@ Hourly production of CO2  by mass
   * UZ16: 
     * respirometry performed on 25 larvae that entered the 5 instar
 
+1. Larvae weighed and loaded into a 5mL syringe 
+2. Syringe air purged of CO2, and hydrated
+3. Larvae held for ~1hr in syringe
+4. Using a LiCor meter, the syringe air is  analyzed for CO2 production.
+
+
+Hourly production of CO2
+![Hourly CO2](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Other/Respirometry/Images/20180105_CO2_Hour.png)
+
+Hourly production of CO2  by mass
+![Hourly CO2 weighted by Mass](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Other/Respirometry/Images/20180105_CO2_Hour_Mass.png)
+
 
 
 ------
 
 <div id='id-section9'/>    
 
-### Page 9: 20180117  
+### Page 9: 20180117 UF Respirometry | USDA
+
+* Respirometry
+1. Larvae weighed and loaded into a 5mL syringe 
+2. Syringe air purged of CO2, and hydrated
+3. Larvae held for ~1hr in syringe
+4. Using a LiCor meter, the syringe air is  analyzed for CO2 production.
+
+Hourly production of CO2
+![Hourly CO2](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Other/Respirometry/Images/20180105_CO2_Hour.png)
+
+Hourly production of CO2  by mass
+![Hourly CO2 weighted by Mass](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Other/Respirometry/Images/20180105_CO2_Hour_Mass.png)
 
 
+  * UZ12: 
+    * respirometry performed on the 14 larvae that entered the 5 instar
+  * UZ16: 
+    * respirometry performed on 25 larvae that entered the 5 instar
+
+* USDA: Instructing Jeremiah
+  * Preparing solutions to specific concentrations
+  * Diluting solutions to specific concentrations for testing
+  * Introduction to GC-FID, Sequence templates, and operating GC-FID
+    * see attached protocol for more details
+    * [Solution Prep and Cal Curve Protocol]
+    
 
 
 
@@ -498,7 +546,16 @@ Hourly production of CO2  by mass
 
 <div id='id-section10'/>    
 
-### Page 10:
+### Page 10: 20180118 USDA with JLM and EVL
+
+* Jeremiah
+  * Recapitulate solutions prep, dilution, and GC-FID run.
+   * Jeremiah completed the dilutions however he could not run the samples due to timing
+* Erin
+  * Instruction on GC-FID
+    * Ran prepared FAMEs on FID
+    * Discussed: Operation, sequence templating, method selection, rinsing solvents, method runs
+    also discussed FID output and chromatogram integration, retention times, and chromatagram comparisons
 
 
 
@@ -506,13 +563,39 @@ Hourly production of CO2  by mass
 
 <div id='id-section11'/>    
 
-### Page 11:
+### Page 11: 20180119 USDA | UF Seminar and Respirometry
+
+* USDA
+  * Run Jeremiah's dilutions 
+  
+* Seminar (see image)
+  * Stinging nematodes in an agricultural setting
+    * Population fluctuations of nematodes as a function of microbe populations
+
+* Respirometry
+1. Larvae weighed and loaded into a 5mL syringe 
+2. Syringe air purged of CO2, and hydrated
+3. Larvae held for ~1hr in syringe
+4. Using a LiCor meter, the syringe air is  analyzed for CO2 production.
+
+Hourly production of CO2
+![Hourly CO2](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Other/Respirometry/Images/20180105_CO2_Hour.png)
+
+Hourly production of CO2  by mass
+![Hourly CO2 weighted by Mass](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Other/Respirometry/Images/20180105_CO2_Hour_Mass.png)
+
+
+  * UZ12:
+    * respirometry performed on the 25 larvae that entered the 5 instar
+  * UZ16: 
+    * respirometry performed on 25 larvae that entered the 5 instar
+
 
 ------
 
 <div id='id-section12'/>    
 
-### Page 12:
+### Page 12: 20180118 Respirometry 
 
 ------
 
