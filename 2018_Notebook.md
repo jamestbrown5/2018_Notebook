@@ -511,23 +511,13 @@ UF 1030-1345:
 
   * UZ12: 
     * respirometry performed on the 6 larvae that entered the 5 instar
-#### Hourly CO2 production
-![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180116_CO2_HourUZ12.png)
-
-#### Hourly CO2 production weighted by mass
-![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180116_CO2_Hour_MassUZ12.png)
-
-* UZ16: 
+  * UZ16: 
     * respirometry performed on 25 larvae that entered the 5 instar
-
 #### Hourly CO2 production
-![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180116_CO2_HourUZ16.png)
+![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180116_CO2_HourUZ.png)
 
 #### Hourly CO2 production weighted by mass
-![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180116_CO2_Hour_MassUZ16.png)
-
-
-
+![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180116_CO2_Hour_MassUZ.png)
 
 
 
@@ -543,29 +533,16 @@ UF 1030-1345:
 3. Larvae held for ~1hr in syringe
 4. Using a LiCor meter, the syringe air is  analyzed for CO2 production.
 
-Hourly production of CO2
-![Hourly CO2](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Other/Respirometry/Images/20180105_CO2_Hour.png)
-
-Hourly production of CO2  by mass
-![Hourly CO2 weighted by Mass](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Other/Respirometry/Images/20180105_CO2_Hour_Mass.png)
-
 
   * UZ12: 
-    * respirometry performed on the 14 larvae that entered the 5 instar
-#### Hourly CO2 production
-![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180117_CO2_HourUZ12.png)
-
-#### Hourly CO2 production weighted by mass
-![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180117_CO2_Hour_MassUZ12.png)
-
-* UZ16: 
+    * respirometry performed on the 6 larvae that entered the 5 instar
+  * UZ16: 
     * respirometry performed on 25 larvae that entered the 5 instar
-
 #### Hourly CO2 production
-![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180117_CO2_HourUZ16.png)
+![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180117_CO2_HourUZ.png)
 
 #### Hourly CO2 production weighted by mass
-![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180117_CO2_Hour_MassUZ16.png)
+![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180117_CO2_Hour_MassUZ.png)
 
 
 * USDA: Instructing Jeremiah
@@ -621,21 +598,14 @@ Hourly production of CO2  by mass
 ![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180119_CO2_Hour_Mass.png)
 
   * UZ12: 
-    * respirometry performed on the 25 larvae that entered the 5 instar
-#### Hourly CO2 production
-![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180119_CO2_HourUZ12.png)
-
-#### Hourly CO2 production weighted by mass
-![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180119_CO2_Hour_MassUZ12.png)
-
-* UZ16: 
+    * respirometry performed on the 6 larvae that entered the 5 instar
+  * UZ16: 
     * respirometry performed on 25 larvae that entered the 5 instar
-
 #### Hourly CO2 production
-![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180119_CO2_HourUZ16.png)
+![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180119_CO2_HourUZ.png)
 
 #### Hourly CO2 production weighted by mass
-![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180119_CO2_Hour_MassUZ16.png)
+![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180119_CO2_Hour_MassUZ.png)
 
 ------
 
@@ -659,21 +629,14 @@ Hourly production of CO2  by mass
 ![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180120_CO2_Hour_Mass.png)
 
   * UZ12: 
-    * respirometry performed on the 25 larvae that entered the 5 instar
-#### Hourly CO2 production
-![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180120_CO2_HourUZ12.png)
-
-#### Hourly CO2 production weighted by mass
-![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180120_CO2_Hour_MassUZ12.png)
-
-* UZ16: 
+    * respirometry performed on the 6 larvae that entered the 5 instar
+  * UZ16: 
     * respirometry performed on 25 larvae that entered the 5 instar
-
 #### Hourly CO2 production
-![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180120_CO2_HourUZ16.png)
+![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180120_CO2_HourUZ.png)
 
 #### Hourly CO2 production weighted by mass
-![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180120_CO2_Hour_MassUZ16.png)
+![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180120_CO2_Hour_MassUZ.png)
 
 
 ------
@@ -689,21 +652,14 @@ Hourly production of CO2  by mass
 4. Using a LiCor meter, the syringe air is  analyzed for CO2 production.
 
   * UZ12: 
-    * respirometry performed on the 25 larvae that entered the 5 instar
-#### Hourly CO2 production
-![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180121_CO2_HourUZ12.png)
-
-#### Hourly CO2 production weighted by mass
-![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180121_CO2_Hour_MassUZ12.png)
-
-* UZ16: 
+    * respirometry performed on the 6 larvae that entered the 5 instar
+  * UZ16: 
     * respirometry performed on 25 larvae that entered the 5 instar
-
 #### Hourly CO2 production
-![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180121_CO2_HourUZ16.png)
+![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180121_CO2_HourUZ.png)
 
 #### Hourly CO2 production weighted by mass
-![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180121_CO2_Hour_MassUZ16.png)
+![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180121_CO2_Hour_MassUZ.png)
 
 ------
 
@@ -731,21 +687,14 @@ Hourly production of CO2  by mass
 ![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180122_CO2_Hour_Mass.png)
 
   * UZ12: 
-    * respirometry performed on the 25 larvae that entered the 5 instar
-#### Hourly CO2 production
-![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180122_CO2_HourUZ12.png)
-
-#### Hourly CO2 production weighted by mass
-![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180122_CO2_Hour_MassUZ12.png)
-
-* UZ16: 
+    * respirometry performed on the 6 larvae that entered the 5 instar
+  * UZ16: 
     * respirometry performed on 25 larvae that entered the 5 instar
-
 #### Hourly CO2 production
-![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180122_CO2_HourUZ16.png)
+![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180122_CO2_HourUZ.png)
 
 #### Hourly CO2 production weighted by mass
-![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180122_CO2_Hour_MassUZ16.png)
+![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180122_CO2_Hour_MassUZ.png)
 
 ------
 
