@@ -331,7 +331,7 @@ Respirometry:
     * performed respirometry on remaining samples
 
 #### Hourly CO2 production
-![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/2018010_CO2_Hour.png)
+![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180109_CO2_Hour.png)
 
 #### Hourly CO2 production weighted by mass
 ![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180109_CO2_Hour_Mass.png)
