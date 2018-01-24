@@ -468,6 +468,13 @@ UF 1030-1345:
   * Trafficked those larvae to UF
 * TLC
   * Procedure and results below
+  
+  
+  
+  #### Plate 1
+  ![](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/20180117_P1_Reusable%20glass%20vial%20cleaning%20test.tif)
+  #### Plate 2
+  ![](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/20180117_P2_Reusable%20glass%20vial%20cleaning%20test.tif)
 
 
 
