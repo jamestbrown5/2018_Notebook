@@ -19,16 +19,16 @@
 * [Page 3: 2018-01-09 ](#id-section3). USDA with undergrads | UF Respirometry | Meeting with Andrew
 * [Page 4: 2018-01-10 ](#id-section4). USDA 
 * [Page 5: 2018-01-11 ](#id-section5). USDA with Undergraduate Erin
-* [Page 6: 2018-01-15 ](#id-section6). USDA TLC plates Vial Clean Validations 
-* [Page 7: 2018-01-16 ](#id-section7). Class | Respirometry 
-* [Page 8: 2018-01-17 ](#id-section8). Respirometry | USDA with JLM
-* [Page 9: 2018-01-18 ](#id-section9). USDA with EVL and JLM
-* [Page 10: 2018-01-19 ](#id-section10). USDA | UF Respirometry 
-* [Page 11: 2018-01-20 ](#id-section11). UF Respirometry
-* [Page 12: 2018-01-21 ](#id-section12). UF Respirometry
-* [Page 13: 2018-01-22 ](#id-section13). USDA shutdown | UF Respirometry | Lab Meeting
-* [Page 14: 2018-01-23 ](#id-section14). USDA Notebook updates | Analyse JLM Cal Curve | Graph Data
-* [Page 15:  ](#id-section15).
+* [Page 6: 2018-01-12 ](#id-section6). USDA | UF Seminar, Respirometry
+* [Page 7: 2018-01-15 ](#id-section7). USDA TLC plates Vial Clean Validations 
+* [Page 8: 2018-01-16 ](#id-section8). Class | Respirometry 
+* [Page 9: 2018-01-17 ](#id-section9). Respirometry | USDA with JLM
+* [Page 10: 2018-01-18 ](#id-section10). USDA with EVL and JLM
+* [Page 11: 2018-01-19 ](#id-section11). USDA | UF Respirometry 
+* [Page 12: 2018-01-20 ](#id-section12). UF Respirometry
+* [Page 13: 2018-01-21 ](#id-section13). UF Respirometry
+* [Page 14: 2018-01-22 ](#id-section14). USDA shutdown | UF Respirometry | Lab Meeting
+* [Page 15: 2018-01-23 ](#id-section15). USDA Notebook updates | Analyse JLM Cal Curve | Graph Data
 * [Page 16:  ](#id-section16).
 * [Page 17:  ](#id-section17).
 * [Page 18:  ](#id-section18).
@@ -411,7 +411,7 @@ Work Day (short due to A/C service and doctor appt)
 
 <div id='id-section7'/>    
 
-### Page 6: 2018-01-12
+### Page 6: 2018-01-12  USDA | UF Seminar, Respirometry
 
 USDA 0800-1000
 
