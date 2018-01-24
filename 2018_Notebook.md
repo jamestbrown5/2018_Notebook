@@ -577,7 +577,7 @@ UF 1030-1345:
   * Diluting solutions to specific concentrations for testing
   * Introduction to GC-FID, Sequence templates, and operating GC-FID
     * see attached protocol for more details
-![JTB Cal Curve](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/20180117_mscalcurv.pdf)
+![JTB Cal Curve](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/20180117_mscalcurv.png)
 
 ------
 
