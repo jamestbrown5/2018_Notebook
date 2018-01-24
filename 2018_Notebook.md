@@ -355,7 +355,7 @@ Work Day (short due to A/C service and doctor appt)
 
 ------
 
-<div id='id-section6'/>    
+<div id='id-section5'/>    
 
 ### Page 5:  2018-01-11  USDA with Undergraduate Erin
 ####**Tasks and To-Do's**
@@ -409,7 +409,7 @@ Work Day (short due to A/C service and doctor appt)
 
 ------
 
-<div id='id-section7'/>    
+<div id='id-section6'/>    
 
 ### Page 6: 2018-01-12  USDA | UF Seminar, Respirometry
 
@@ -458,7 +458,7 @@ UF 1030-1345:
 
 ------
 
-<div id='id-section8'/>    
+<div id='id-section7'/>    
 
 ### Page 7: 20180115  USDA
 
@@ -502,7 +502,7 @@ UF 1030-1345:
 
 ------
 
-<div id='id-section9'/>    
+<div id='id-section8'/>    
 
 ### Page 8: 20180116  USDA Larvae Prep
 
