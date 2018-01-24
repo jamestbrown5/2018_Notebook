@@ -19,8 +19,8 @@
 * [Page 3: 2018-01-09 ](#id-section3). USDA with undergrads | UF Respirometry | Meeting with Andrew
 * [Page 4: 2018-01-10 ](#id-section4). USDA 
 * [Page 5: 2018-01-11 ](#id-section5). USDA with Undergraduate Erin
-* [Page 6: 2018-01-15 ](#id-section6). USDA Validations
-* [Page 7: 2018-01-16 ](#id-section7). Class | Respirometry
+* [Page 6: 2018-01-15 ](#id-section6). USDA TLC plates Vial Clean Validations 
+* [Page 7: 2018-01-16 ](#id-section7). Class | Respirometry 
 * [Page 8: 2018-01-17 ](#id-section8). Respirometry | USDA with JLM
 * [Page 9: 2018-01-18 ](#id-section9). USDA with EVL and JLM
 * [Page 10: 2018-01-19 ](#id-section10). USDA | UF Respirometry 
@@ -468,13 +468,33 @@ UF 1030-1345:
   * Trafficked those larvae to UF
 * TLC
   * Procedure and results below
+![]()
   
-  
-  
+| Plate #| Lane | Treatment   |
+| -------|:----:| -----------:|
+|   1    |  1   |  T1 - Rep 1 |
+|   1    |  2   |  T1 - Rep 2 |
+|   1    |  3   |  T2 - Rep 1 |
+|   1    |  4   |  T2 - Rep 2 |
+|   1    |  S   |  Tripal Std |
+|   1    |  5   |  T3 - Rep 1 |
+|   1    |  6   |  T3 - Rep 2 |
+|   1    |  7   |  T4 - Rep 1 |
+|   1    |  8   |  T4 - Rep 2 |
+|   2    |  1   |  T5 - Rep 1 |
+|   2    |  2   |  T5 - Rep 2 |
+|   2    |  3   |  T6 - Rep 1 |
+|   2    |  4   |  T6 - Rep 2 |
+|   2    |  S   |  Tripal Std |
+|   2    |  5   |  T7 - Rep 1 |
+|   2    |  6   |  T7 - Rep 2 |
+|   2    |  7   |  T8 - Rep 1 |
+|   2    |  8   |    EMPTY    |
+
   #### Plate 1
-  ![](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/20180117_P1_Reusable%20glass%20vial%20cleaning%20test.png)
+![](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/20180117_P1_Reusable%20glass%20vial%20cleaning%20test.png)
   #### Plate 2
-  ![](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/20180117_P2_Reusable%20glass%20vial%20cleaning%20test.png)
+![](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/20180117_P2_Reusable%20glass%20vial%20cleaning%20test.png)
 
 
 
