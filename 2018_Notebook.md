@@ -1,11 +1,9 @@
-# [Insect Physiologist](https://jamestbrown5.github.io)      
-## The relationship between stored resources and diapause preparation
+# [Insect Physiology](https://jamestbrown5.github.io)      
+## Studying the relationship between stored resources and diapause preparation by characterizing lipids accumulated by UZ and BE O. nubilalis in diapause and non-diapause conditions during the wandering stage.
 
 ### Affiliation: University of Florida, Department of Entomology and Nematology
 
 ### Contact: jamestbrown5@ufl.edu
-
-## Characterizing triglyceride storage of UZ and BE O. nubilalis in diapause and non-diapause conditions
 
 ## Date started: 20180101  
 ## Date end (last modified): present  
@@ -1850,18 +1848,11 @@ UF 1030-1345:
 ### Lit Review:
 
 #### Primary Literature Template
-1. Author:
-2. Title:
-3. Biological System/Scope:
-4. Model:
-5. Experiments:
-6. Methods:
-7. Summary
+Author:|Title|Biological System|Model|Experiments|Methods|Summary
+---|---|---|---|---|---|
+---|---|---|---|---|---|
 
 #### Secondary Literature Template
-1. Author:
-2. Title:
-3. Biological System/Scope:
-4. Models:
-5. Analysis:
-6. Summary:
+Author:|Title|Biological System|Model|Experiments|Methods|Summary
+---|---|---|---|---|---|
+---|---|---|---|---|---|
