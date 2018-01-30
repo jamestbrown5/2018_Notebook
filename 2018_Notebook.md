@@ -1845,9 +1845,12 @@ UF 1030-1345:
 ### Lit Review:
 
 #### Primary Literature Template
-| Author:      | Title                                    | Question or System                       | Model                                    | Experiments | Methods | Summary                                  |
-| ------------ | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- | ----------- | ------- | ---------------------------------------- |
-| 1993_Hensley | Ontogenetic Loss of Phenotypic Plasticity of Age at Metamorphosis in Tadpoles | Predicting the size at metamorphic and duration of larval period. Testing Wilbur-Collins framework | ---   Figure 1 estimates effects of Wilbur Collins model: early food scarcity = late meta, late food scarcity = early meta  A- decreases in growth rate before size min is reached leads to smaller size and later meta. with late stage increases in growth rate    B-later decreases in growth rate lead to earlier meta |             | ---     | Abstract: predicting the size at metamorphic and duration of larval period.   The authors conclusion: food supplies affect both size and age at meta AND larval duration becomes fixed (Gos35-37). |
+
+Author|---
+
+TItle|---
+
+Model|---
 
 #### Secondary Literature Template
 | Author: | Title | Biological System | Model | Experiments | Methods | Summary |
