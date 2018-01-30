@@ -13,7 +13,7 @@
 ## Date end (last modified): present  
 
 #**Literature
-* [Page Literature: 2018 ](#id-sectionLiterature). Lit Review  
+* [Literature: 2018 ](#id-sectionLiterature). Lit Review  
 
 # Table of contents (for 201 entries)    
 * [Page 1: 2018-01-01 ](#id-section1). UF Respirometry 
@@ -1849,10 +1849,9 @@ UF 1030-1345:
 
 <div id='id-sectionLiterature'/>    
 
-### Page Lit Review:
-#id-sectionLiterature
+### Lit Review:
 
-####***Primary Lit Template
+####**Primary Lit Template
 1. Author:
 2. Title:
 3. Biological System/Scope:
