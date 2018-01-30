@@ -1846,7 +1846,7 @@ UF 1030-1345:
 
 #### Primary Literature Template
 
-Author|Title|Model|
+Author|Title|Model
 
 ---|---|---
 
