@@ -288,7 +288,6 @@ Respirometry:
 #### Hourly CO2 production weighted by mass
 ![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180105_CO2_Hour_Mass.png)
 
-
 ------
 
 <div id='id-section3' />    
@@ -466,28 +465,28 @@ UF 1030-1345:
   * Trafficked those larvae to UF
 * TLC
   * Procedure and results below
-![]()
-  
-| Plate #| Lane | Treatment   |
-| -------|:----:| -----------:|
-|   1    |  1   |  T1 - Rep 1 |
-|   1    |  2   |  T1 - Rep 2 |
-|   1    |  3   |  T2 - Rep 1 |
-|   1    |  4   |  T2 - Rep 2 |
-|   1    |  S   |  Tripal Std |
-|   1    |  5   |  T3 - Rep 1 |
-|   1    |  6   |  T3 - Rep 2 |
-|   1    |  7   |  T4 - Rep 1 |
-|   1    |  8   |  T4 - Rep 2 |
-|   2    |  1   |  T5 - Rep 1 |
-|   2    |  2   |  T5 - Rep 2 |
-|   2    |  3   |  T6 - Rep 1 |
-|   2    |  4   |  T6 - Rep 2 |
-|   2    |  S   |  Tripal Std |
-|   2    |  5   |  T7 - Rep 1 |
-|   2    |  6   |  T7 - Rep 2 |
-|   2    |  7   |  T8 - Rep 1 |
-|   2    |  8   |    EMPTY    |
+    ![]()
+
+| Plate # | Lane |  Treatment |
+| ------- | :--: | ---------: |
+| 1       |  1   | T1 - Rep 1 |
+| 1       |  2   | T1 - Rep 2 |
+| 1       |  3   | T2 - Rep 1 |
+| 1       |  4   | T2 - Rep 2 |
+| 1       |  S   | Tripal Std |
+| 1       |  5   | T3 - Rep 1 |
+| 1       |  6   | T3 - Rep 2 |
+| 1       |  7   | T4 - Rep 1 |
+| 1       |  8   | T4 - Rep 2 |
+| 2       |  1   | T5 - Rep 1 |
+| 2       |  2   | T5 - Rep 2 |
+| 2       |  3   | T6 - Rep 1 |
+| 2       |  4   | T6 - Rep 2 |
+| 2       |  S   | Tripal Std |
+| 2       |  5   | T7 - Rep 1 |
+| 2       |  6   | T7 - Rep 2 |
+| 2       |  7   | T8 - Rep 1 |
+| 2       |  8   |      EMPTY |
 
   #### Plate 1
 ![](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/20180117_P1_Reusable%20glass%20vial%20cleaning%20test.png)
@@ -575,7 +574,7 @@ UF 1030-1345:
   * Diluting solutions to specific concentrations for testing
   * Introduction to GC-FID, Sequence templates, and operating GC-FID
     * see attached protocol for more details
-![JTB Cal Curve](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/20180117_mscalcurv.png)
+      ![JTB Cal Curve](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/20180117_mscalcurv.png)
 
 ------
 
@@ -590,8 +589,7 @@ UF 1030-1345:
   * Instruction on GC-FID
     * Ran prepared FAMEs on FID
     * Discussed: Operation, sequence templating, method selection, rinsing solvents, method runs
-    also discussed FID output and chromatogram integration, retention times, and chromatagram comparisons
-
+      also discussed FID output and chromatogram integration, retention times, and chromatagram comparisons
 
 
 ------
@@ -602,7 +600,7 @@ UF 1030-1345:
 
 * USDA
   * Run Jeremiah's dilutions 
-  
+
 * Seminar (see image)
   * Stinging nematodes in an agricultural setting
     * Population fluctuations of nematodes as a function of microbe populations
@@ -663,13 +661,12 @@ UF 1030-1345:
 #### Hourly CO2 production weighted by mass
 ![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180120_CO2_Hour_MassUZ.png)
 
-
 ------
 
 <div id='id-section13'/>    
 
 ### Page 13: 20180121 Respirometry
- 
+
 * Respirometry
 1. Larvae weighed and loaded into a 5mL syringe 
 2. Syringe air purged of CO2, and hydrated
@@ -694,8 +691,8 @@ UF 1030-1345:
 
 * USDA Shutdown
    * turn down equipment and postpone assays
-   insects moved to UF incubators 
-   
+     insects moved to UF incubators 
+
 * Respirometry
 1. Larvae weighed and loaded into a 5mL syringe 
 2. Syringe air purged of CO2, and hydrated
@@ -729,7 +726,7 @@ UF 1030-1345:
 
 * Notebook updates
    * electronic notebook updated
-   
+
 
 ------
 
@@ -1848,11 +1845,11 @@ UF 1030-1345:
 ### Lit Review:
 
 #### Primary Literature Template
-Author:|Title|Biological System|Model|Experiments|Methods|Summary
----|---|---|---|---|---|
----|---|---|---|---|---|
+| Author:      | Title                                    | Question or System                       | Model                                    | Experiments | Methods | Summary                                  |
+| ------------ | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- | ----------- | ------- | ---------------------------------------- |
+| 1993_Hensley | Ontogenetic Loss of Phenotypic Plasticity of Age at Metamorphosis in Tadpoles | Predicting the size at metamorphic and duration of larval period. Testing Wilbur-Collins framework | ---   Figure 1 estimates effects of Wilbur Collins model: early food scarcity = late meta, late food scarcity = early meta  A- decreases in growth rate before size min is reached leads to smaller size and later meta. with late stage increases in growth rate    B-later decreases in growth rate lead to earlier meta |             | ---     | Abstract: predicting the size at metamorphic and duration of larval period.   The authors conclusion: food supplies affect both size and age at meta AND larval duration becomes fixed (Gos35-37). |
 
 #### Secondary Literature Template
-Author:|Title|Biological System|Model|Experiments|Methods|Summary
----|---|---|---|---|---|
----|---|---|---|---|---|
+| Author: | Title | Biological System | Model | Experiments | Methods | Summary |
+| ------- | ----- | ----------------- | ----- | ----------- | ------- | ------- |
+| ---     | ---   | ---               | ---   | ---         | ---     |         |
