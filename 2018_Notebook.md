@@ -1858,5 +1858,5 @@ UF 1030-1345:
 4. Model:
 5. Experiments:
 6. Methods:
-7. SUmmary
+7. Summary
 
