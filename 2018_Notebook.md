@@ -1845,12 +1845,9 @@ UF 1030-1345:
 ### Lit Review:
 
 #### Primary Literature Template
-
-Author|Title|Model
-
----|---|---
-
-one|two|three
+| Author: | Title | Biological System | Model | Experiments | Methods | Summary |
+| ------- | ----- | ----------------- | ----- | ----------- | ------- | ------- |
+| ---     | ---   | ---               | ---   | ---         | ---     |         |
 
 #### Secondary Literature Template
 | Author: | Title | Biological System | Model | Experiments | Methods | Summary |
