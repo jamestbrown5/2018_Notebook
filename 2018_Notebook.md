@@ -27,8 +27,8 @@
 * [Page 13: 2018-01-21 ](#id-section13). UF Respirometry
 * [Page 14: 2018-01-22 ](#id-section14). USDA shutdown | UF Respirometry | Lab Meeting
 * [Page 15: 2018-01-23 ](#id-section15). USDA Notebook updates | Analyse JLM Cal Curve | Graph Data
-* [Page 16:  ](#id-section16).
-* [Page 17:  ](#id-section17).
+* [Page 16: 2018-01-24 ](#id-section16). Notebook update: 20180124 thru 20180202
+* [Page 17: 2018-02-05 ](#id-section17). UF Respirometry | Meeting with Dan
 * [Page 18:  ](#id-section18).
 * [Page 19:  ](#id-section19).
 * [Page 20:  ](#id-section20).
@@ -732,13 +732,54 @@ UF 1030-1345:
 
 <div id='id-section16'/>    
 
-### Page 16:
+### Page 16: Notebook update: 20180124 thru 20180202
+
 
 ------
 
-<div id='id-section17'/>    
+<div id='id-section17'/>  
 
-### Page 17:
+### Page 17: UF Respirometry | Meeting with Dan
+
+####Admin
+1. Rob and I will meet on Monday at 1pm to discuss literature.
+  a. Expect a lit dump before the end of the week
+2. Run acetone rinses on GC-FID
+3. Split UZ and BE cups
+4. Meet with Dan at 1230p 
+  a. Discuss more reps and previous data
+
+####**Meeting**
+1. Respirometry data looks interesting and we should be thinking about ways to make these figures more impactful
+2. With the larvae in BE conditions: relocate less than half of the larvae into "long-day" conditions and monitor for 7 to 10 days
+3. Continue to monitor UZ until day 35 and re-asses with Dan
+  * There seems to be an interesting effect of UZ metabolic activity at the begining of the respirometry. Try to apply a meaning to that.
+4. Remove pupa and adults from the graph, compare the means between larvae only
+  
+####**Respirometry**
+1. Larvae weighed and loaded into a 5mL syringe 
+2. Syringe air purged of CO2, and hydrated
+3. Larvae held for ~1hr in syringe
+4. Using a LiCor meter, the syringe air is  analyzed for CO2 production.
+
+ * BE12: 
+    * performed respirometry on remaining samples
+
+#### Hourly CO2 production
+![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180205_CO2_Hour.png)
+
+#### Hourly CO2 production weighted by mass
+![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180205_CO2_Hour_Mass.png)
+
+  * UZ12: 
+    * respirometry performed on the 6 larvae that entered the 5 instar
+  * UZ16: 
+    * respirometry performed on 25 larvae that entered the 5 instar
+#### Hourly CO2 production
+![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180205_CO2_HourUZ.png)
+
+#### Hourly CO2 production weighted by mass
+![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180205_CO2_Hour_MassUZ.png)
 
 ------
 
