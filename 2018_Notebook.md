@@ -805,6 +805,7 @@ Due to the r-squared and the low value for the smallest concentration, I will ha
    3. Prep FAME standard and find more storage vials
    4. GC-FID carry over analysis
 [DB Wax Rinse Test](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/20180206_DB%20WAX%20Rinsing.pdf)
+
 * With ELM
    1. ELM tasks
       a. get rid of working containers and start new ones
