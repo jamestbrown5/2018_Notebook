@@ -723,7 +723,7 @@ UF 1030-1345:
 <div id='id-section15'/>    
 
 ### Page 15: 20180123 USDA Notebook updates | Analyse JLM Cal Curve | Graph Data
-
+![]()
 * Notebook updates
    * electronic notebook updated
 
@@ -733,8 +733,14 @@ UF 1030-1345:
 <div id='id-section16'/>    
 
 ### Page 16: Notebook update: 20180124 thru 20180202
+20180124:
+1. Output from Jeremiah's cal curve run #1
+   * Due to the r-squared and the low value for the smallest concentration, I will have him re run all of his dilutions to rule out some accident
+![](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/20180124_JLM_mscalcurv.png)
 
-
+20180125:
+1. Output from JLM cal curve run #2
+![](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/20180125_JLM_mscalcurv.png)
 ------
 
 <div id='id-section17'/>  
