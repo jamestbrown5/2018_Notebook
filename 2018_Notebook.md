@@ -22,7 +22,7 @@
 * [Page 8: 2018-01-16 ](#id-section8). Class | Respirometry 
 * [Page 9: 2018-01-17 ](#id-section9). Respirometry | USDA with JLM
 * [Page 10: 2018-01-18 ](#id-section10). USDA with EVL and JLM
-* [Page 11: 2018-01-19 ](#id-section11). USDA | UF Respirometry 
+* [Page 11: 2018-01-19 ](#id-section11). USDA Analyse JLM Cal Curve | UF Respirometry 
 * [Page 12: 2018-01-20 ](#id-section12). UF Respirometry
 * [Page 13: 2018-01-21 ](#id-section13). UF Respirometry
 * [Page 14: 2018-01-22 ](#id-section14). USDA shutdown | UF Respirometry | Lab Meeting
@@ -599,7 +599,9 @@ UF 1030-1345:
 ### Page 11: 20180119 USDA | UF Seminar and Respirometry
 
 * USDA
-  * Run Jeremiah's dilutions 
+ Output from Jeremiah's cal curve run #1
+Due to the r-squared and the low value for the smallest concentration, I will have him re run all of his dilutions to rule out some accident
+![](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/20180124_JLM_mscalcurv.png)
 
 * Seminar (see image)
   * Stinging nematodes in an agricultural setting
@@ -723,7 +725,10 @@ UF 1030-1345:
 <div id='id-section15'/>    
 
 ### Page 15: 20180123 USDA Notebook updates | Analyse JLM Cal Curve | Graph Data
-![]()
+20180125:
+1. Output from JLM cal curve run #2
+![](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/20180125_JLM_mscalcurv.png)
+
 * Notebook updates
    * electronic notebook updated
 
@@ -734,20 +739,20 @@ UF 1030-1345:
 
 ### Page 16: Notebook update: 20180124 thru 20180202
 20180124:
-1. Output from Jeremiah's cal curve run #1
-   * Due to the r-squared and the low value for the smallest concentration, I will have him re run all of his dilutions to rule out some accident
-![](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/20180124_JLM_mscalcurv.png)
-
 20180125:
-1. Output from JLM cal curve run #2
-![](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/20180125_JLM_mscalcurv.png)
+20180126:
+20180129:
+20180130:
+20180131:
+20180201:
+20180202:
 ------
 
 <div id='id-section17'/>  
 
 ### Page 17: UF Respirometry | Meeting with Dan
 
-####Admin
+#### Admin
 1. Rob and I will meet on Monday at 1pm to discuss literature.
   a. Expect a lit dump before the end of the week
 2. Run acetone rinses on GC-FID
@@ -755,14 +760,14 @@ UF 1030-1345:
 4. Meet with Dan at 1230p 
   a. Discuss more reps and previous data
 
-####**Meeting**
+#### **Meeting**
 1. Respirometry data looks interesting and we should be thinking about ways to make these figures more impactful
 2. With the larvae in BE conditions: relocate less than half of the larvae into "long-day" conditions and monitor for 7 to 10 days
 3. Continue to monitor UZ until day 35 and re-asses with Dan
   * There seems to be an interesting effect of UZ metabolic activity at the begining of the respirometry. Try to apply a meaning to that.
 4. Remove pupa and adults from the graph, compare the means between larvae only
   
-####**Respirometry**
+#### **Respirometry**
 1. Larvae weighed and loaded into a 5mL syringe 
 2. Syringe air purged of CO2, and hydrated
 3. Larvae held for ~1hr in syringe
