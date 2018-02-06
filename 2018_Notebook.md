@@ -738,19 +738,19 @@ Due to the r-squared and the low value for the smallest concentration, I will ha
 <div id='id-section16'/>    
 
 ### Page 16: Notebook update: 20180124 thru 20180202
-20180124:
-20180125:
-20180126:
-20180129:
-20180130:
-20180131:
-20180201:
-20180202:
+* 20180124:
+* 20180125:
+* 20180126:
+* 20180129:
+* 20180130:
+* 20180131:
+* 20180201:
+* 20180202:
 ------
 
 <div id='id-section17'/>  
 
-### Page 17: UF Respirometry | Meeting with Dan
+### Page 17: 20180205 UF Respirometry | Meeting with Dan
 
 #### Admin
 1. Rob and I will meet on Monday at 1pm to discuss literature.
@@ -796,7 +796,22 @@ Due to the r-squared and the low value for the smallest concentration, I will ha
 
 <div id='id-section18'/>    
 
-### Page 18:
+### Page 18: 20180206 USDA admin and notebook update | with ELM
+* Notebook update
+   1. Updated electronic notebook
+   2. Animal husbandry
+      a. Split UZ and BE rearing cups and place in separate into long day and short day conditions
+      b. Ensure larvae are fed and the cup microclimate is humid
+   3. Prep FAME standard and find more storage vials
+   4. GC-FID carry over analysis
+[DB Wax Rinse Test](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/20180206_DB%20WAX%20Rinsing.pdf)
+* With ELM
+   1. ELM tasks
+      a. get rid of working containers and start new ones
+      b. Complete FAME of samples in 20170701 box plus, blanks, and TAG standards.
+      c. Store samples
+      d. Update data on GitHub and local HD
+      e. discussed with Erin the future of her time here at the USDA (extractions and data analysis)
 
 ------
 
