@@ -1912,17 +1912,20 @@ Due to the r-squared and the low value for the smallest concentration, I will ha
 ### Lit Review:
 
 #### Primary Literature Template
-| Author: | Title | Biological System | Model | Experiments | Methods | Summary |
-| ------- | ----- | ----------------- | ----- | ----------- | ------- | ------- |
-| ------- | ----- | ----------------- | ----- | ----------- | ------- | ------- |
+| Author: | Title | Biological System | Model | Experiments | Methods |
+| ------- | ----- | ----------------- | ----- | ----------- | ------- |
+| ------- | ----- | ----------------- | ----- | ----------- | ------- |
 
-
-|                  Summary                   |
+|Summary|
 |---|
 |---|
 
 
 #### Secondary Literature Template
-| Author: | Title | Biological System | Model | Experiments | Methods | Summary |
-| ------- | ----- | ----------------- | ----- | ----------- | ------- | ------- |
-| ---     | ---   | ---               | ---   | ---         | ---     |         |
+| Author: | Title | Biological Study  | Model(s) | Experiments(s) | Methods |
+| ------- | ----- | ----------------- | ----- | ----------- | ------- |
+| ---     | ---   | ---               | ---   | ---         | ---     |
+
+|Summary|
+|---|
+|---|
