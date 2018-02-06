@@ -48,7 +48,7 @@ Courtesy of Andrew Nyguen:Template for making an online notebook found [here](ht
 
 # List of Notebooks by year    
 
-* [2018_Notebook](https://github.com/adnguyen/Notebooks_and_Protocols/blob/master/2018_notebook.md)
+* [2018_Notebook](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/2018_Notebook.md)
   * Included in this notebook are descriptions of daily tasks, after action reviews, technique descriptions, meetings, and data output as it may relate to my graduate research.
 * 2017 Notebook
 
