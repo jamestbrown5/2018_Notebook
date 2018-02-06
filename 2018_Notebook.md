@@ -1915,8 +1915,8 @@ Due to the r-squared and the low value for the smallest concentration, I will ha
 | Author: | Title | Biological System | Model | Experiments | Methods | Summary |
 | ------- | ----- | ----------------- | ----- | ----------- | ------- | ------- |
 
-| -----------------------------------Summary----------------------------------- |
-| ------------------------------------                                          |
+| ----------------Summary------------------- |
+| ------------------------------------       |
 
 
 #### Secondary Literature Template
