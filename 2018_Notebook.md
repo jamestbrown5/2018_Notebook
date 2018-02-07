@@ -29,7 +29,7 @@
 * [Page 15: 2018-01-23 ](#id-section15). USDA Notebook updates | Analyse JLM Cal Curve | Graph Data
 * [Page 16: 2018-01-24 ](#id-section16). Notebook update: 20180124 thru 20180202
 * [Page 17: 2018-02-05 ](#id-section17). UF Respirometry | Meeting with Dan
-* [Page 18:  ](#id-section18).
+* [Page 18: 2018-02-06 ](#id-section18). USDA admin and notebook update | with ELM
 * [Page 19:  ](#id-section19).
 * [Page 20:  ](#id-section20).
 * [Page 21:  ](#id-section21).
@@ -818,7 +818,18 @@ Due to the r-squared and the low value for the smallest concentration, I will ha
 
 <div id='id-section19'/>    
 
-### Page 19:
+### Page 19: 20180207 USDA | Husbandry, Standard preparations, Data analysis | with JLM
+**1. Husbandry**
+   * check larvae for health, humidity, and growth
+2. Standards Prep
+   * FAME standard in hexanes
+3. Data analysis
+   * Work through D. Hahn's comments on data presentation 
+   * add mixed model analysis 
+   * Begin working on a .ppt for Monday
+   
+**With JLM**
+
 
 ------
 
