@@ -867,8 +867,32 @@ Results TBD
 
 <div id='id-section20'/>    
 
-### Page 20: USDA | Husbandry, Column Carry-over, 
-
+### Page 20: USDA | Husbandry, Column Carry-over, with EVL and JLM | UF Husbandry
+#### **USDA**
+* Husbandry
+   1. feed larvae
+   2. check growth
+* Column Carry-over
+   1. Inspect chromatograms
+      * Q1: What is the response of the FID with an injection and without an injection
+      ![](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/20180208_carryover_ovenblankdcm1dcm4_5to15.png)
+      ![](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/20180208_carryover_ovenblankdcm1dcm4_15to25.png)
+      * Q2: How does the response of the FID change after the injection of 4 DCM injections
+      ![](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/20180208_carryover_dcm_dcm_dcm_dcm_5to15.png)
+      ![](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/20180208_carryover_dcm_dcm_dcm_dcm_15to25.png)
+      * Q3: How does the response of the FID change before and after a sample?
+      ![](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/20180208_carryover_dcm_sample_dcm_5to15.png)
+      ![](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/20180208_carryover_dcm_sample_dcm_15to25.png)
+      * Q4: How does the FID response change after a batch of 5 samples?
+      ![](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/20180208_carryover_batch_beforedcm_beforedcm_afterdcm_afterdcm_5to15.png)
+      ![](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/20180208_carryover_batch_beforedcm_beforedcm_afterdcm_afterdcm_15to25.png)
+   2. Run a sequence where each sample is flanked by a DCM blank and compare the column before and after each run.
+      
+* with EVL
+* with JLM
+#### **UF**
+* Husbandry
+   1. check humidity
 ------
 
 <div id='id-section21'/>    
