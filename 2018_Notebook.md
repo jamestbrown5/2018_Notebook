@@ -839,6 +839,7 @@ Due to the r-squared and the low value for the smallest concentration, I will ha
 **3. Column Carry-over**
 * Setup: Samples willl be flanked with blanks to determine the degree to which analytes are remaining on the column, or if the inlet, or  septa are causing a response.
 * Sample setup:
+
    vial|type
    ----|----
    1|DCM
