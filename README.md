@@ -14,17 +14,14 @@ Courtesy of Andrew Nyguen:Template for making an online notebook found [here](ht
 
 # Project Descriptions
 
-- [Brain Dissection](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Brain_Dissection)
-- [Feeding](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Feeding)
+- [Feeding](https://github.com/jamestbrown5/Feeding)
 - [Freeze Dry](https://github.com/jamestbrown5/FreezeDry)
-- [Pipette Practice](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Pipette_training)
-- [Respirometry](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Respirometry)
-- [Lipid Extraction](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Lipid_Extractions)
-- [Lipid Quantification](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Lipid_Quantification)
-- [Lipid Identification](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Lipid_Identification)
-- [Protein Extractions](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Protein_Extractions)
-- [Protein Quantification](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Protein_Quantification)
-- [Protein Identification](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Protein_Identification)
+- [Pipette Practice](https://github.com/jamestbrown5/Pipette_training)
+- [Respirometry](https://github.com/jamestbrown5/Respirometry)
+- [Lipid Quantification](https://github.com/jamestbrown5/Lipid_Quantification)
+- [Lipid Identification](https://github.com/jamestbrown5/Lipid_Identification)
+- [Protein Quantification](https://github.com/jamestbrown5/Protein_Quantification)
+- [Protein Identification](https://github.com/jamestbrown5/Protein_Identification)
 
 # 2018 Goals
 
