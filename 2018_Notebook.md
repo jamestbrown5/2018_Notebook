@@ -30,7 +30,7 @@
 * [Page 16: 2018-01-24 ](#id-section16). Notebook update: 20180124 thru 20180202
 * [Page 17: 2018-02-05 ](#id-section17). UF Respirometry | Meeting with Dan
 * [Page 18: 2018-02-06 ](#id-section18). USDA admin and notebook update | with ELM
-* [Page 19:  ](#id-section19).
+* [Page 19: 2018-02-07 ](#id-section19). USDA | Husbandry, Standard preparations, Data analysis | with JLM
 * [Page 20:  ](#id-section20).
 * [Page 21:  ](#id-section21).
 * [Page 22:  ](#id-section22).
@@ -818,24 +818,56 @@ Due to the r-squared and the low value for the smallest concentration, I will ha
 
 <div id='id-section19'/>    
 
-### Page 19: 20180207 USDA | Husbandry, Standard preparations, Data analysis | with JLM
+### Page 19: 20180207 USDA | Husbandry, Standard preparations, Data analysis, Column Carry-over | with JLM
 **1. Husbandry**
    * check larvae for health, humidity, and growth
 2. Standards Prep
    * FAME standard in hexanes
+      * did not prep standard: waiting until column carry-over is resolved.
 3. Data analysis
    * Work through D. Hahn's comments on data presentation 
    * add mixed model analysis 
    * Begin working on a .ppt for Monday
    
-**With JLM**
+**2. With JLM**
+   * 8 samples + 3 Blanks
+      * this will be the sample block for 10 runs to acquire a baseline of experimental background with JLM running the extractions
+      * start time: 1315 prep
+      * extraction begins: 1422
+      * extraction ends: 1703
+
+**3. Column Carry-over**
+* Setup: Samples willl be flanked with blanks to determine the degree to which analytes are remaining on the column, or if the inlet, or  septa are causing a response.
+* Sample setup:
+   vial|type
+   ----|----
+   1|DCM
+   2|DCM
+   3|DCM
+   4|DCM
+   5|Sample
+   6|DCM
+   7|DCM
+   8|DCM
+   9|DCM
+   10|Sample
+   11|Sample
+   12|Sample
+   13|Sample
+   14|Sample
+   15|DCM
+   16|DCM
+   17|DCM
+   18|DCM
+
+Results TBD
 
 
 ------
 
 <div id='id-section20'/>    
 
-### Page 20:
+### Page 20: USDA | Husbandry, Column Carry-over, 
 
 ------
 
