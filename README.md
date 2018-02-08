@@ -16,7 +16,7 @@ Courtesy of Andrew Nyguen:Template for making an online notebook found [here](ht
 
 - [Brain Dissection](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Brain_Dissection)
 - [Feeding](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Feeding)
-- [Freeze Dry](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/FreezeDry)
+- [Freeze Dry](https://github.com/jamestbrown5/FreezeDry)
 - [Pipette Practice](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Pipette_training)
 - [Respirometry](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Respirometry)
 - [Lipid Extraction](/Users/JamesB/Google Drive/Graduate School/Self_JamesTBrown/GitHub/Lipid_Extractions)
