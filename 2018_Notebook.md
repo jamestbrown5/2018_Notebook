@@ -32,8 +32,8 @@
 * [Page 18: 2018-02-06 ](#id-section18). USDA admin and notebook update | with ELM
 * [Page 19: 2018-02-07 ](#id-section19). USDA | Husbandry, Standard preparations, Data analysis | with JLM
 * [Page 20: 2018-02-08 ](#id-section20). USDA | Husbandry, Column Carry-over, with EVL and JLM | UF Husbandry
-* [Page 21:  ](#id-section21).
-* [Page 22:  ](#id-section22).
+* [Page 21: 2018-02-09 ](#id-section21). USDA | Husbandry, Prep samples for the GC carryover testing | UF Respirometry, New hire lunch, discussion with Chao about data
+* [Page 22: 2018-02-12 ](#id-section22). 20180212 USDA | Husbandry, Carry-over testing | UF Respirometry, Lab Meeting
 * [Page 23:  ](#id-section23).
 * [Page 24:  ](#id-section24).
 * [Page 25:  ](#id-section25).
@@ -861,7 +861,7 @@ Results TBD
 
 <div id='id-section20'/>    
 
-### Page 20: USDA | Husbandry, Column Carry-over, with EVL and JLM | UF Husbandry
+### Page 20: 20180208 USDA | Husbandry, Column Carry-over, with EVL and JLM | UF Husbandry
 #### **USDA**
 * Husbandry
    1. feed larvae
