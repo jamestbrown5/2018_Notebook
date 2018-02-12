@@ -776,18 +776,11 @@ Due to the r-squared and the low value for the smallest concentration, I will ha
  * BE12: 
     * performed respirometry on remaining samples
 
-#### Hourly CO2 production
-![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180205_CO2_Hour.png)
-
 #### Hourly CO2 production weighted by mass
 ![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180205_CO2_Hour_Mass.png)
 
   * UZ12: 
-    * respirometry performed on the 6 larvae that entered the 5 instar
-  * UZ16: 
-    * respirometry performed on 25 larvae that entered the 5 instar
-#### Hourly CO2 production
-![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180205_CO2_HourUZ.png)
+    * performed respirometry on remaining samples
 
 #### Hourly CO2 production weighted by mass
 ![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180205_CO2_Hour_MassUZ.png)
@@ -890,7 +883,9 @@ Results TBD
    2. Run a sequence where each sample is flanked by a DCM blank and compare the column before and after each run.
       
 * with EVL
+   1. Derivatized July samples, prepped samples for GC-FID, entered data, prepped samples on the SpeedVac
 * with JLM
+   2. Extracted lipids from August samples by himself, completed samples, entered data, and discussed pros and cons.
 #### **UF**
 * Husbandry
    1. check humidity
@@ -898,14 +893,114 @@ Results TBD
 
 <div id='id-section21'/>    
 
-### Page 21:
+### Page 21: 20180209 USDA | Husbandry, Prep samples for the GC carryover testing | UF Respirometry, New hire lunch, discussion with Chao about data
+
+#### **USDA**
+1. Husbandry:
+   * Feed larvae, check conditions
+2. Carry-over testing:
+   
+   * vial|type
+   ----|----
+   1|DCM
+   2|DCM
+   3|DCM
+   4|DCM
+   5|Sample
+   6|DCM
+   7|DCM
+   8|DCM
+   9|DCM
+   10|Sample
+   11|Sample
+   12|Sample
+   13|Sample
+   14|Sample
+   15|DCM
+   16|DCM
+   17|DCM
+   18|DCM
+   19|Sample
+   20|DCM
+   21|Sample
+   22|DCM
+   23|Sample
+   24|DCM
+   25|Sample
+   26|DCM
+   27|Sample
+   28|DCM
+   29|DCM
+   30|DCM
+   31|DCM
+
 
 ------
 
 <div id='id-section22'/>    
 
-### Page 22:
+### Page 22: 20180212 USDA | Husbandry, Carry-over testing | UF Respirometry, Lab Meeting
 
+### **USDA**
+#### **Husbandry**
+* CHecked Larvae for health and checked incubators for environmental conditions
+
+#### **Carry-over Testing**
+* After talking to Nausheena I will change the rinse solvent from acetone to dichloromethane. Nausheena thinks the abundance of peaks could be the result of a dirty syringe. He advice is to rinse with DCM and Hexanes this would eliminate the need to run blanks between each sample. See run sequence below
+
+* vial|type
+   ----|----
+   1|Hex
+   2|Hex
+   3|Hex
+   4|Hex
+   5|Sample
+   6|Hex
+   7|Hex
+   8|Hex
+   9|Hex
+   10|Sample
+   11|Sample
+   12|Sample
+   13|Sample
+   14|Sample
+   15|Hex
+   16|Hex
+   17|Hex
+   18|Hex
+   19|Sample
+   20|Hex
+   21|Sample
+   22|Hex
+   23|Sample
+   24|Hex
+   25|Sample
+   26|Hex
+   27|Sample
+   28|Hex
+   29|Hex
+   30|Hex
+   31|Hex
+
+
+### **UF**
+#### **Respirometry**
+1. Larvae weighed and loaded into a 5mL syringe 
+2. Syringe air purged of CO2, and hydrated
+3. Larvae held for ~1hr in syringe
+4. Using a LiCor meter, the syringe air is  analyzed for CO2 production.
+
+ * BE12: 
+    * performed respirometry on remaining samples
+
+#### Hourly CO2 production weighted by mass
+![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180209_CO2_Hour_Mass.png)
+
+  * UZ12: 
+    * performed respirometry on remaining samples
+
+#### Hourly CO2 production weighted by mass
+![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180209_CO2_Hour_MassUZ.png)
 ------
 
 <div id='id-section23'/>    
