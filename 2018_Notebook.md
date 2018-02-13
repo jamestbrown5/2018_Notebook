@@ -2078,7 +2078,7 @@ Results TBD
 #### Primary Literature Template
 | Author: | Title | Biological System | Model | Experiments | Methods |
 | ------- | ----- | ----------------- | ----- | ----------- | ------- |
-| ------- | ----- | ----------------- | ----- | ----------- | ------- |
+| Barrett et al | Separate and combined effects of nutrition during juvenile and sexual development on female life-history trajectories: the thrifty phenotype in a cockroach | Naipphoeta cinerea | Tracking the effect of diet quality on longeviety, ovary size, body length,  | ----------- | ------- |
 
 |Summary|
 |---|
