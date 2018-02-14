@@ -9,7 +9,7 @@
 ## Date end (last modified): present  
 
 # Literature
-* [Literature: Thesis ](#id-sectionTemplates).  
+* [Literature: Templates ](#id-sectionTemplates).  
 * [Literature: Thesis ](#id-sectionThesis).     
 * [Literature: Misc. ](#id-sectionMisc).   
 * [Literature: Journal Club ](#id-sectionJournalClub). 
@@ -2165,7 +2165,7 @@ vial|type
 
 <div id='id-sectionTemplates'/>   
 
-### Templates:
+### Template:
 
 #### Primary Literature Template
 | Author: | Title | Biological Study  | Model | Experiment  | Methods |
@@ -2177,19 +2177,11 @@ vial|type
 |---|
 
 
-#### Secondary Literature Template
-| Author: | Title | Biological Study  | Model(s) | Experiments(s) | Methods |
-| ------- | ----- | ----------------- | ----- | ----------- | ------- |
-| ---     | ---   | ---               | ---   | ---         | ---     |
-
-|Summary|
-|---|
-|---|
 
 ------
 <div id='id-sectionThesis'/>  
 
-#### Primary Literature Template
+#### (Date: Big Picture)
 | Author: | Title | Biological Study  | Model | Experiment  | Methods |
 | ------- | ----- | ----------------- | ----- | ----------- | ------- |
 | ---     | ---   | ---               | ---   | ---         | ---     |
@@ -2202,11 +2194,13 @@ vial|type
 ------
 <div id='id-sectionMisc'/> 
 
-#### Primary Literature Template
+#### (Date: Big Picture)
 | Author: | Title | Biological System | Model | Experiments | Methods |
 | ------- | ----- | ----------------- | ----- | ----------- | ------- |
 |---        | --- | ---              | ---    | -------      |---|
-
+|Summary|
+|---|
+|---|
 ------
 
 <div id='id-sectionJournalClub'/>  
