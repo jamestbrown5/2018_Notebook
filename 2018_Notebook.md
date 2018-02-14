@@ -2166,7 +2166,9 @@ vial|type
 <div id='id-sectionTemplates'/>   
 
 ### Template:
+
 #### Primary Literature Template
+
 | Author: | Title | Biological Study  | Model | Experiment  | Methods |
 | ------- | ----- | ----------------- | ----- | ----------- | ------- |
 | ---     | ---   | ---               | ---   | ---         | ---     |
@@ -2180,7 +2182,9 @@ vial|type
 ------
 <div id='id-sectionThesis'/>  
 ### THESIS:
+
 #### (Date: Big Picture)
+
 | Author: | Title | Biological Study  | Model | Experiment  | Methods |
 | ------- | ----- | ----------------- | ----- | ----------- | ------- |
 | ---     | ---   | ---               | ---   | ---         | ---     |
@@ -2193,7 +2197,9 @@ vial|type
 ------
 <div id='id-sectionMisc'/> 
 ### MISC
+
 #### (Date: Big Picture)
+
 | Author: | Title | Biological System | Model | Experiments | Methods |
 | ------- | ----- | ----------------- | ----- | ----------- | ------- |
 |---        | --- | ---              | ---    | -------      |---|
@@ -2204,7 +2210,9 @@ vial|type
 
 <div id='id-sectionJournalClub'/>  
 ### Journal Club
+
 #### 20180212: Nutrition and reporductive consequences
+
 | Author: | Title | Biological System | Model | Experiments | Methods |
 | ------- | ----- | ----------------- | ----- | ----------- | ------- |
 | Barrett et al | [Separate and combined effects of nutrition during juvenile and sexual development on female life-history trajectories: the thrifty phenotype in a cockroach](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/Literature/2009_Barrett%20et%20al_Separate%20and%20combined%20effects%20of%20nutrition%20during%20juvenile%20and%20sexual%20development%20on%20female%20life-history%20trajectories-%20the%20thrifty%20phenotype%20in%20a%20cockroach.pdf) | Naipphoeta cinerea | Tracking the effect of diet quality on longeviety, ovary size, body length,  | Diet switching effects on juvenile and sexual maturation: observed survivorship,  by diet quality | ------- |
