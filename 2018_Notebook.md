@@ -34,7 +34,7 @@
 * [Page 20: 2018-02-08 ](#id-section20). USDA | Husbandry, Column Carry-over, with EVL and JLM | UF Husbandry
 * [Page 21: 2018-02-09 ](#id-section21). USDA | Husbandry, Prep samples for the GC carryover testing | UF Respirometry, New hire lunch, discussion with Chao about data
 * [Page 22: 2018-02-12 ](#id-section22). 20180212 USDA | Husbandry, Carry-over testing | UF Respirometry, Lab Meeting
-* [Page 23:  ](#id-section23).
+* [Page 23:  ](#id-section23). 20180213 USDA | Husbandry, Carry-over testing
 * [Page 24:  ](#id-section24).
 * [Page 25:  ](#id-section25).
 * [Page 26:  ](#id-section26).
@@ -900,7 +900,7 @@ Results TBD
    * Feed larvae, check conditions
 2. Carry-over testing:
    
-   * vial|type
+   vial|type
    ----|----
    1|DCM
    2|DCM
@@ -948,7 +948,7 @@ Results TBD
 #### **Carry-over Testing**
 * After talking to Nausheena I will change the rinse solvent from acetone to dichloromethane. Nausheena thinks the abundance of peaks could be the result of a dirty syringe. He advice is to rinse with DCM and Hexanes this would eliminate the need to run blanks between each sample. See run sequence below
 
-* vial|type
+   vial|type
    ----|----
    1|Hex
    2|Hex
@@ -1005,14 +1005,102 @@ Results TBD
 
 <div id='id-section23'/>    
 
-### Page 23:
+### Page 23: 20180213 USDA | Husbandry, Carry-over testing, w/EVL, SpeedVac Samples, chat with Paul
 
+#### **Husbandry**
+* Checked Larvae for health and checked incubators for environmental conditions
+
+#### **Carry Over Testing**
+* After talking to Nausheena, again, I have two options: 
+   1. Capture and report the response of the column to solvent by running a series of solvent blanks and average the peak area
+   2. Clip the end of the column that enters the inlet area to (theortically) remove the contamination that is stuck in the tip of the column. 
+
+vial|type
+----|----
+   1|Hex
+   2|Hex
+   3|Hex
+   4|Hex
+   5|Hex
+   6|Hex
+   7|Hex
+   8|Hex
+   9|Hex
+   10|Hex
+   11|Hex
+   12|Hex
+   13|Hex
+   14|Hex
+   15|Hex
+   16|Hex
+   17|Hex
+   18|Hex
+   19|Hex
+   20|Hex
+
+#### **w/ EVL**
+1. FAMEs run and samples prepped
+2. data uploaded to data folder
+#### **SpeedVac samples**
+1. Lean mass dried for 4 days: 20180208-20180213
+2. Lean mass recorded 
+#### **chat with Paul**
+1. Lab tour w/ Paul
+   * observed white eye Plodia interpunctella adult females modified with CRSPR tech
+   * observed spodoptera cell lines for wolbacia rearing
+   * observed Spodoptera frugiperda larva modified with CRSPR tech
+2. Take away: develop a project outline that integrates each level of model available (tissue cultures, lab colonies, field populations).
+   * Ecology, IPM, Insect Chemical Ecol. biological control, etc
 ------
 
 <div id='id-section24'/>    
 
-### Page 24:
+### Page 24: 20180214 USDA | Column carry-over, Vial prep, Husbandry, w/ JLM
+#### **Column Carry Over**
+   * Column cutting
+      1. Tools: Inlet tool, spanner, opaque inlet, cotton gloves, magnifying galsses, column cutting tool
+      2. Remove column from inlet
+         * Turn off inlet, remove inlet liner, and insert opaque liner with opaque tool 
+         * Unscrew column bolt at inlet, remove ferrel, and cut off old septa
+         * Push new septa onto column and replace ferrel onto column.
+         * Cut approximately 6-inches to 12-inches of column and ENSURE cut is not chipped or jagged
+      3. Replace column into inlet
+         * Loosely screw ferrel (and column) into inlet
+         * Push column into inlet until column tool line reaches the appropriate level
+         * Tighten ferrel into inlet slowly, ensuring the column tool level is maintained. 
+         * Replace insert liner and run samples to test column.
+![](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/GCFID%20cuting%20column.jpg)
+   * Solvent blanks run on GCFID after maint
 
+vial|type
+----|----
+   1|Hex
+   2|Hex
+   3|Hex
+   4|Hex
+   5|Hex
+   6|Hex
+   7|Hex
+   8|Hex
+   9|Hex
+   10|Hex
+   11|Hex
+   12|Hex
+   13|Hex
+   14|Hex
+   15|Hex
+   16|Hex
+   17|Hex
+   18|Hex
+   19|Hex
+   20|Hex
+#### **Vial Prep**
+1. Vials rinsed with water, added liquinox, and placed in sonicator
+2. Vials rinsed with water after sonicator in preparation for cleaning
+#### **Husbandry**
+1. Checked Larvae for health and checked incubators for environmental conditions
+#### **w/ JLM**
+1. JLM will extract larval samples, with blanks, and enter data in triplicate
 ------
 
 <div id='id-section25'/>    
