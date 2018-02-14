@@ -37,8 +37,8 @@
 * [Page 20: 2018-02-08 ](#id-section20). USDA | Husbandry, Column Carry-over, with EVL and JLM | UF Husbandry
 * [Page 21: 2018-02-09 ](#id-section21). USDA | Husbandry, Prep samples for the GC carryover testing | UF Respirometry, New hire lunch, discussion with Chao about data
 * [Page 22: 2018-02-12 ](#id-section22). 20180212 USDA | Husbandry, Carry-over testing | UF Respirometry, Lab Meeting
-* [Page 23:  ](#id-section23). 20180213 USDA | Husbandry, Carry-over testing
-* [Page 24:  ](#id-section24).
+* [Page 23: 2018-02-13 ](#id-section23). 20180213 USDA | Husbandry, Carry-over testing
+* [Page 24: 2018-02-14 ](#id-section24). USDA | Column carry-over, Vial prep, Husbandry, w/ JLM
 * [Page 25:  ](#id-section25).
 * [Page 26:  ](#id-section26).
 * [Page 27:  ](#id-section27).
@@ -1104,6 +1104,7 @@ vial|type
 1. Checked Larvae for health and checked incubators for environmental conditions
 #### **w/ JLM**
 1. JLM will extract larval samples, with blanks, and enter data in triplicate
+2. washed septa
 ------
 
 <div id='id-section25'/>    
