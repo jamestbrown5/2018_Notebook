@@ -2181,6 +2181,7 @@ vial|type
 
 ------
 <div id='id-sectionThesis'/>  
+
 ### THESIS:
 
 #### (Date: Big Picture)
@@ -2196,6 +2197,7 @@ vial|type
 
 ------
 <div id='id-sectionMisc'/> 
+
 ### MISC
 
 #### (Date: Big Picture)
@@ -2209,6 +2211,7 @@ vial|type
 ------
 
 <div id='id-sectionJournalClub'/>  
+
 ### Journal Club
 
 #### 20180212: Nutrition and reporductive consequences
