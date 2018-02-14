@@ -2166,7 +2166,6 @@ vial|type
 <div id='id-sectionTemplates'/>   
 
 ### Template:
-
 #### Primary Literature Template
 | Author: | Title | Biological Study  | Model | Experiment  | Methods |
 | ------- | ----- | ----------------- | ----- | ----------- | ------- |
@@ -2180,7 +2179,7 @@ vial|type
 
 ------
 <div id='id-sectionThesis'/>  
-
+### THESIS:
 #### (Date: Big Picture)
 | Author: | Title | Biological Study  | Model | Experiment  | Methods |
 | ------- | ----- | ----------------- | ----- | ----------- | ------- |
@@ -2193,7 +2192,7 @@ vial|type
 
 ------
 <div id='id-sectionMisc'/> 
-
+### MISC
 #### (Date: Big Picture)
 | Author: | Title | Biological System | Model | Experiments | Methods |
 | ------- | ----- | ----------------- | ----- | ----------- | ------- |
@@ -2204,7 +2203,7 @@ vial|type
 ------
 
 <div id='id-sectionJournalClub'/>  
-
+### Journal Club
 #### 20180212: Nutrition and reporductive consequences
 | Author: | Title | Biological System | Model | Experiments | Methods |
 | ------- | ----- | ----------------- | ----- | ----------- | ------- |
