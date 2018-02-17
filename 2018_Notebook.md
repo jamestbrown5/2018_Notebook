@@ -2226,7 +2226,7 @@ vial|type
 
 | Author: | Title | Biological Study  | Model | Experiment  | Methods |
 | ------- | ----- | ----------------- | ----- | ----------- | ------- |
-| Deutsch et al. | [mpacts of climate warming on terrestrial ectotherms across latitudes](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/Literature/2008_Deutsch%20et%20al_Impacts%20of%20climate%20warming%20on%20terrestrial%20ectotherms%20across%20latitudes.pdf)| ----------------- | ----- | ----------- | ------- |
+| Deutsch et al. | [Impacts of climate warming on terrestrial ectotherms across latitudes](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/Literature/2008_Deutsch%20et%20al_Impacts%20of%20climate%20warming%20on%20terrestrial%20ectotherms%20across%20latitudes.pdf)| ----------------- | ----- | ----------- | ------- |
 
 |Summary|
 |---|
