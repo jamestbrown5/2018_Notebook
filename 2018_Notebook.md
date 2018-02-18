@@ -1196,6 +1196,7 @@ vial|type|Vial|Type|Vial|Type|Vial|Type|
 3. Perform a repeated measures analysis on co2 production by: larva, mass, day
 4. use markers to differentiate pupation
 * Next steps
+* ![](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/20180217_Diapause%20Sampling%20Plan.jpg)
    1. Run 2 replicates of time course sampling of BE strain in long and short day conditions
    2. Run 1 replicate of time course sampling on UZ under both treatments
    3. Sample 20 larvae at each time point (8 points total)
