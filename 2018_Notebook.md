@@ -1121,7 +1121,7 @@ vial|type
 2. Increase sample volumn from 100ul to 400ul
 2. data uploaded to data folder
 #### **Full Inlet Maint.**
-      A. Tools: Inlet tool, spanner, opaque inlet, cotton gloves, magnifying galsses, column cutting tool, cleaning solvents, q-tips, gold seal
+##### Tools: Inlet tool, spanner, opaque inlet, cotton gloves, magnifying galsses, column cutting tool, cleaning solvents, q-tips, gold seal
       1. Break Down injection port
          * Turn off inlet 
          * Remove inlet liner and septa
@@ -1161,6 +1161,7 @@ vial|type
  * Ran an oven blank to test response
  * Run solvent-only samples to equilibrate column.
  * Run 40-solvent only runs with caps
+
 vial|type|Vial|Type|Vial|Type|Vial|Type|
 ----|----|----|----|----|----|----|----|
    1|Hex|11|Hex|21|Hex|31|Hex|
