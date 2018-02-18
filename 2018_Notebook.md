@@ -39,9 +39,9 @@
 * [Page 22: 2018-02-12 ](#id-section22). 20180212 USDA | Husbandry, Carry-over testing | UF Respirometry, Lab Meeting
 * [Page 23: 2018-02-13 ](#id-section23). 20180213 USDA | Husbandry, Carry-over testing
 * [Page 24: 2018-02-14 ](#id-section24). USDA | Column carry-over, Vial prep, Husbandry, w/ JLM
-* [Page 25: 2018-02-15 ](#id-section25). USDA | Column Carryover, Husbandry, w/JLM, w/EVL
-* [Page 26: 2018-02-16 ](#id-section26). USDA | Column Carryover, Husbandry | UF Meeting, Respirometry,  PopBio
-* [Page 27: 2018-02-17 ](#id-section27). USDA | Column Carryover, Husbandry
+* [Page 25: 2018-02-15 ](#id-section25). USDA | Full Inlet Maint, Husbandry, w/JLM, w/EVL
+* [Page 26: 2018-02-16 ](#id-section26). USDA | Post Inlet Maint, Husbandry | UF Meeting, Respirometry,  PopBio
+* [Page 27: 2018-02-17 ](#id-section27). USDA | Post Inlet Maint, Husbandry
 * [Page 28:  ](#id-section28).
 * [Page 29:  ](#id-section29).
 * [Page 30:  ](#id-section30).
@@ -1105,25 +1105,121 @@ vial|type
 #### **w/ JLM**
 1. JLM will extract larval samples, with blanks, and enter data in triplicate
 2. washed septa
+  
 ------
 
 <div id='id-section25'/>    
 
-### Page 25: 20180215 USDA | Column Carryover, Husbandry, w/JLM, w/EVL
+### Page 25: 20180215 USDA | Full Inlet Maint, Husbandry, w/JLM, w/EVL
+#### **Husbandry**
+1. Checked Larvae for health and checked incubators for environmental conditions
+#### **w/ JLM**
+1. JLM will extract larval samples, with blanks
+2. Enter data in triplicate
+#### **w/ EVL**
+1. FAMEs run and samples prepped
+2. Increase sample volumn from 100ul to 400ul
+2. data uploaded to data folder
+#### **Full Inlet Maint.**
+      A. Tools: Inlet tool, spanner, opaque inlet, cotton gloves, magnifying galsses, column cutting tool, cleaning solvents, q-tips, gold seal
+      1. Break Down injection port
+         * Turn off inlet 
+         * Remove inlet liner and septa
+
+      2. Break down inlet-column interface
+         * Unscrew column bolt at inlet, remove ferrel, and cut column to remove old septa
+         * Push new septa onto column and replace ferrel onto column.
+         * Prepare to cut approximately 1-2 loops of column and ENSURE cut is not chipped or jagged
+         * unseat glass wool insulator inside the oven
+         * unscrew inlet bolt away fom inlet and remove gold seal
+            * sonicate bolt in methanol for 30 mins and allow bolt to dry
+            
+      3. Rinse Inlet and cut column
+         * Rinse inlet with three solvents using q-tips
+            * DCM -> Acetone -> Methanol
+         * Move bolt into oven to dry
+         * With new septa, bolt and ferrel in place, cut column using cutting tool 
+         * Retrieve dry bolt
+         
+      4. Replace column into inlet
+         * Properly place gold seal and return inlet bolt to inlet
+         * Replace inlet insulator
+         * Loosely screw ferrel (and column) into inlet
+         * Push column into inlet until column tool line reaches the appropriate level
+         * Tighten ferrel and bolt into inlet slowly, ensuring the column tool level is maintained. 
+         * Replace insert liner, septa, and o-ring
+         * Bake column @ 20-40 degrees below max for 30minutes
+         * Run ovenblank to test baseline
 
 ------
 
 <div id='id-section26'/>    
 
-### Page 26: 20180216 USDA | Column Carryover, Husbandry | UF Meeting, Respirometry,  PopBio
+### Page 26: 20180216 USDA | Post Inlet Maint, Husbandry | UF Meeting, Respirometry,  PopBio
+#### **Post Inlet Maint**
+ * Baked column to test response 
+ * Ran an oven blank to test response
+ * Run solvent-only samples to equilibrate column.
+ * Run 40-solvent only runs with caps
+vial|type|Vial|Type|Vial|Type|Vial|Type|
+----|----|----|----|----|----|----|----|
+   1|Hex|11|Hex|21|Hex|31|Hex|
+   2|Hex|12|Hex|22|Hex|32|Hex|
+   3|Hex|13|Hex|23|Hex|33|Hex|
+   4|Hex|14|Hex|24|Hex|34|Hex|
+   5|Hex|15|Hex|25|Hex|35|Hex|
+   6|Hex|16|Hex|26|Hex|36|Hex|
+   7|Hex|17|Hex|27|Hex|37|Hex|
+   8|Hex|18|Hex|28|Hex|38|Hex|
+   9|Hex|19|Hex|29|Hex|39|Hex|
+   10|Hex|20|Hex|30|Hex|40|Hex|
+   
+#### **Husbandry**
+1. Checked Larvae for health and checked incubators for environmental conditions
 
+#### **Respirometry**
+1. Larvae weighed and loaded into a 5mL syringe 
+2. Syringe air purged of CO2, and hydrated
+3. Larvae held for ~1hr in syringe
+4. Using a LiCor meter, the syringe air is  analyzed for CO2 production.
 
+  * UZ12: 
+    * performed respirometry on samples
+
+#### Hourly CO2 production weighted by mass
+![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180209_CO2_Hour_MassUZ.png)
+
+#### **Meeting with Dan**
+1. Line plots need a broken stick regression
+2. Fit CO2 production as a function of mass on a single plot
+3. Perform a repeated measures analysis on co2 production by: larva, mass, day
+4. use markers to differentiate pupation
+* Next steps
+   1. Run 2 replicates of time course sampling of BE strain in long and short day conditions
+   2. Run 1 replicate of time course sampling on UZ under both treatments
+   3. Sample 20 larvae at each time point (8 points total)
+   4. For each larva observe: wet mass, lean mass, lipid mass, TAG mass
 
 ------
 
 <div id='id-section27'/>    
 
-### Page 27: 20180217 USDA | Column Carryover, Husbandry
+### Page 27: 20180217 USDA | Post Inlet Maint, Husbandry, Drying lipids
+#### **Post Inlet Maint**
+ * Checked solvent runs from previous day for stability
+ * Baked column to test response 
+ * Ran an oven blank to test response
+ * Run solvent-only samples to equilibrate column.
+
+vial|1|2|3|4|5|6|7|8|9|10|
+|---|---|---|---|---|---|---|---|---|---|---|
+Sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
+
+#### **Husbandry**
+1. Checked Larvae for health and checked incubators for environmental conditions
+
+#### **Drying Lipids**
+1. Extracted lipids placed on speedvac to dry
 
 ------
 
