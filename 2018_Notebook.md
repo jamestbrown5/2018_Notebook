@@ -42,7 +42,7 @@
 * [Page 25: 2018-02-15 ](#id-section25). USDA | Full Inlet Maint, Husbandry, w/JLM, w/EVL
 * [Page 26: 2018-02-16 ](#id-section26). USDA | Post Inlet Maint, Husbandry | UF Meeting, Respirometry,  PopBio
 * [Page 27: 2018-02-17 ](#id-section27). USDA | Post Inlet Maint, Husbandry
-* [Page 28:  ](#id-section28).
+* [Page 28: 2018-02-19 ](#id-section28). USDA | Husbandry, Diet prep | UF (PM) Meeting, Respirometry, Setup BE for respir
 * [Page 29:  ](#id-section29).
 * [Page 30:  ](#id-section30).
 * [Page 31:  ](#id-section31).
