@@ -2333,13 +2333,9 @@ Sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
 |Summary|
 |---|
 |  A major concern in biology is the question about how will plants and animals respond as temperatures continue to increase. Understanding how animals respond to temperature will help us to predict how habitats might be affected by changes in animals diversity. As it relates to agriculture, understanding the relationship between an insect pest and the environmental temperatures it experiences will be an important factor in how we manage insect pests. One way to frame the relationship between insects and environmental temperatures is to consider them categorically as winners or losers and thermal tolerance is a quantifiable scale use to measure the response of said insect to environmental temperatures. |
-   
 |**Losers:** increasing environemtal temperatures for these insects exceed their thermal maximum and eventually cause mortality. 
 **Winners:** increasing environmental temperatures for these insects would increase within the thermal limits and could even reach their thermal optimum. |
-
 |* Winners could have wider thermal breadths and tolerate warmer temperatures. 
 * Winners, whose thermal environment is currently below their thermal optimum, could experience increased performance as temperatures increase towards their thermal optimum. |
-
 |   Deutsch et al. (2008) tracked and compared population size between 38 representative insect species from temperate and tropical latitudes. For those representative species across temperate latitudes, the thermal breadth of these insects tended to be wider and the thermal conditions experienced in these locations, on average, tended to be further away from their critical thermal maximum compared to the representative taxa from tropical latitudes.|
-
 |   In the tropics, environmental temperatures vary little relative to temperatures in temperate regions and insects in tropical regions experience temperatures that tend to be closer to their optimum temperature relative to temperate insects whose environment tends to be cooler than optimum. This suggests that tropical insects already live near their thermal limits and thus could quickly become losers as climate warms.|
