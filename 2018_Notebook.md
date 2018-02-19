@@ -1227,19 +1227,28 @@ Sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
 
 <div id='id-section28'/>    
 
-### Page 28:
+### Page 28: 20180219 USDA | Setup BE in assay trays (PM), Husbandry | UF (PM) Meeting, Respirometry, Setup BE for respir
 
 ------
 
 <div id='id-section29'/>    
 
-### Page 29:
-
+### Page 29: 20180220 USDA | w/EVL and LC Extraction, BE assay setup, Husbandry, Diet Prep, Set SpeedVac samples 
+#### **Diet Prep**
+#### **BE assay setup**
+#### **Husbandry**
+#### **SpeedVac**
+* Load lipid samples into speedVac in preparation for dilutions
+#### **w/EVL & LC**
+* EVL: Data entry, vial rinsing
+* EVL and LC: Teach Extraction technique to EVL and LC
+   * 3 samples and 3 blanks
+   
 ------
 
 <div id='id-section30'/>    
 
-### Page 30:
+### Page 30: USDA | Husbandry, BE assay setup, w/JLM, Lipid Dilutions
 
 ------
 
