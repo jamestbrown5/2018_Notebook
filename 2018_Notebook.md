@@ -1,3 +1,8 @@
+---
+output: html_document
+editor_options: 
+  chunk_output_type: inline
+---
 # [Insect Physiology](https://jamestbrown5.github.io)      
 ## Studying the relationship between stored resources and diapause preparation by characterizing lipids accumulated by UZ and BE O. nubilalis in diapause and non-diapause conditions during the wandering stage.
 
@@ -1200,6 +1205,9 @@ vial|type|Vial|Type|Vial|Type|Vial|Type|
    1. Run 2 replicates of time course sampling of BE strain in long and short day conditions
    2. Run 1 replicate of time course sampling on UZ under both treatments
    3. Sample 20 larvae at each time point (8 points total)
+    * Given distribution of larvae stages sampling will occur as follows:
+    |Sample #|1|2|3|4|5|6|7|8|
+    |Day Post 5th|1|4|7|10|15|20|30|45|
    4. For each larva observe: wet mass, lean mass, lipid mass, TAG mass
 
 ------
