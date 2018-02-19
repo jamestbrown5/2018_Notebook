@@ -2326,7 +2326,7 @@ Sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
 
 | Author: | Title | Biological Study  | Model | Experiment  | Methods |
 | ------- | ----- | ----------------- | ----- | ----------- | ------- |
-| Deutsch et al. | [Impacts of climate warming on terrestrial ectotherms across latitudes](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/Literature/2008_Deutsch%20et%20al_Impacts%20of%20climate%20warming%20on%20terrestrial%20ectotherms%20across%20latitudes.pdf)| ----------------- | ----- | ----------- | ------- |
+| Deutsch et al. | [Impacts of climate warming on terrestrial ectotherms across latitudes](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/Literature/2008_Deutsch%20et%20al_Impacts%20of%20climate%20warming%20on%20terrestrial%20ectotherms%20across%20latitudes.pdf)| Understanding the relationship between insect thermal biology and the effects of increasing temerpatures | 38 terreterial insect taxa | Integration of thermal performance among taxa | Thermal performance curves |
 
 ![](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/thermal%20performance%20curve.png)
 
