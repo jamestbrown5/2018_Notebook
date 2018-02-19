@@ -2339,3 +2339,17 @@ Sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
 |* Winners, whose thermal environment is currently below their thermal optimum, could experience increased performance as temperatures increase towards their thermal optimum. |
 |  Deutsch et al. (2008) tracked and compared population size between 38 representative insect species from temperate and tropical latitudes. For those representative species across temperate latitudes, the thermal breadth of these insects tended to be wider and the thermal conditions experienced in these locations, on average, tended to be further away from their critical thermal maximum compared to the representative taxa from tropical latitudes. |
 |  In the tropics, environmental temperatures vary little relative to temperatures in temperate regions and insects in tropical regions experience temperatures that tend to be closer to their optimum temperature relative to temperate insects whose environment tends to be cooler than optimum. This suggests that tropical insects already live near their thermal limits and thus could quickly become losers as climate warms. |
+
+|Figures|
+|---|
+|1: "fitness" is described as a function of population growth by temperature (an archived measure)
+a. current fitness of temperate taxa
+b. current fitness of tropical taxa
+c. predicted fitness with change in temperature given by latitude.|
+|2: Predicted temp increase effects on thermal performance
+a. increased temperature and thermal limit
+b. increased temperature and thermal safety margin|
+|3: Predicted impact of incereased temp on ectotherms
+a. extrapolation of thermal performance for insects by latitude
+b. extrapolation of complete insect data globally
+c. extrapolation of warming data for non insect taxa by latitude|
