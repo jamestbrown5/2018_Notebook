@@ -1,8 +1,3 @@
----
-output: html_document
-editor_options: 
-  chunk_output_type: inline
----
 # [Insect Physiology](https://jamestbrown5.github.io)      
 ## Studying the relationship between stored resources and diapause preparation by characterizing lipids accumulated by UZ and BE O. nubilalis in diapause and non-diapause conditions during the wandering stage.
 
@@ -1238,14 +1233,38 @@ Sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
 
 <div id='id-section28'/>    
 
-### Page 28: 20180219 USDA | Setup BE in assay trays (PM), Husbandry | UF (PM) Meeting, Respirometry, Setup BE for respir
+### Page 28: 20180219 USDA | Husbandry, Diet prep | UF (PM) Meeting, Respirometry, Setup BE for respir
+#### **Husbandry**
+1. Checked Larvae for health and checked incubators for environmental conditions
+#### **Diet Prep**
+1. measure out:
+  * water, diet meal, agar
+2. Mix water and agar using a stir plate and stir bar
+3. Heat water/agar mix to 100C
+4. Cool mixture to ~50C while stirring
+5. Using a blender, blend together diet meal and mixture for 3mins.
+6. Quickly pour diet into a storage container
+#### **BE Respirometry Setup**
+* 25 BE larvae in long day conditions placed in a 32-well tray
+* Each larvae will be assayed for metabolic activity as proxied by CO2 production
+#### **Lab Meeting**
+* Leigh discussed the advanced PhD program funded by the NSF in Antarctica
+#### **Respirometry**
+1. Larvae weighed and loaded into a 5mL syringe 
+2. Syringe air purged of CO2, and hydrated
+3. Larvae held for ~1hr in syringe
+4. Using a LiCor meter, the syringe air is  analyzed for CO2 production.
 
+  * UZ12: 
+    * performed respirometry on samples
+
+#### Hourly CO2 production weighted by mass
+![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180209_CO2_Hour_MassUZ.png)
 ------
 
 <div id='id-section29'/>    
 
-### Page 29: 20180220 USDA | w/EVL and LC Extraction, BE assay setup, Husbandry, Diet Prep, Set SpeedVac samples 
-#### **Diet Prep**
+### Page 29: 20180220 USDA | w/EVL and LC Extraction, BE assay setup, Husbandry, Set SpeedVac samples 
 #### **BE assay setup**
 #### **Husbandry**
 #### **SpeedVac**
