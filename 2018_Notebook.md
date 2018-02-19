@@ -1206,8 +1206,10 @@ vial|type|Vial|Type|Vial|Type|Vial|Type|
    2. Run 1 replicate of time course sampling on UZ under both treatments
    3. Sample 20 larvae at each time point (8 points total)
     * Given distribution of larvae stages sampling will occur as follows:
+    
     |Sample #|1|2|3|4|5|6|7|8|
     |Day Post 5th|1|4|7|10|15|20|30|45|
+    
    4. For each larva observe: wet mass, lean mass, lipid mass, TAG mass
 
 ------
