@@ -1266,10 +1266,13 @@ Sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
 
 ### Page 29: 20180220 USDA | w/EVL and LC Extraction, BE assay setup, Husbandry, Set SpeedVac samples 
 #### **BE assay setup**
+* setup BE larvae into assay trays @ USDA and UF
+  * freeze dry 20 samples Day 1 samples
 #### **Husbandry**
+1. Checked Larvae for health and checked incubators for environmental conditions
 #### **SpeedVac**
-* Load lipid samples into speedVac in preparation for dilutions
-#### **w/EVL & LC**
+* Load lipid samples into speedVac in preparation for dilutions PM
+#### **POSTPONED: w/EVL & LC**
 * EVL: Data entry, vial rinsing
 * EVL and LC: Teach Extraction technique to EVL and LC
    * 3 samples and 3 blanks
