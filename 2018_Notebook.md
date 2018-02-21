@@ -1162,10 +1162,13 @@ vial|type
  * Run solvent-only samples to equilibrate column.
  * Run 40-solvent only runs with caps
 
-vial|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|
----|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
+vial|1|2|3|4|5|6|7|8|9|10|
+---|---|---|---|---|---|---|---|---|---|---|
+sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
 
+vial|11|12|13|14|15|16|17|18|19|20|
+---|---|---|---|---|---|---|---|---|---|
+sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
    
 #### **Husbandry**
 1. Checked Larvae for health and checked incubators for environmental conditions
