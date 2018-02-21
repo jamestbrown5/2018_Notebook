@@ -43,7 +43,7 @@
 * [Page 26: 2018-02-16 ](#id-section26). USDA | Post Inlet Maint, Husbandry | UF Meeting, Respirometry,  PopBio
 * [Page 27: 2018-02-17 ](#id-section27). USDA | Post Inlet Maint, Husbandry
 * [Page 28: 2018-02-19 ](#id-section28). USDA | Husbandry, Diet prep | UF (PM) Meeting, Respirometry, Setup BE for respir
-* [Page 29:  ](#id-section29).
+* [Page 29: 2018-02-20 ](#id-section29). USDA | w/EVL and LC Extraction, BE assay setup, Husbandry, Set SpeedVac samples
 * [Page 30:  ](#id-section30).
 * [Page 31:  ](#id-section31).
 * [Page 32:  ](#id-section32).
@@ -1162,18 +1162,10 @@ vial|type
  * Run solvent-only samples to equilibrate column.
  * Run 40-solvent only runs with caps
 
-vial|type|Vial|Type|Vial|Type|Vial|Type|
-----|----|----|----|----|----|----|----|
-   1|Hex|11|Hex|21|Hex|31|Hex|
-   2|Hex|12|Hex|22|Hex|32|Hex|
-   3|Hex|13|Hex|23|Hex|33|Hex|
-   4|Hex|14|Hex|24|Hex|34|Hex|
-   5|Hex|15|Hex|25|Hex|35|Hex|
-   6|Hex|16|Hex|26|Hex|36|Hex|
-   7|Hex|17|Hex|27|Hex|37|Hex|
-   8|Hex|18|Hex|28|Hex|38|Hex|
-   9|Hex|19|Hex|29|Hex|39|Hex|
-   10|Hex|20|Hex|30|Hex|40|Hex|
+vial|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|
+---|---|---|---|---|---|---|---|---|---|---|
+sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
+
    
 #### **Husbandry**
 1. Checked Larvae for health and checked incubators for environmental conditions
@@ -1219,9 +1211,21 @@ vial|type|Vial|Type|Vial|Type|Vial|Type|
  * Ran an oven blank to test response
  * Run solvent-only samples to equilibrate column.
 
-vial|1|2|3|4|5|6|7|8|9|10|
+|vial|1|2|3|4|5|6|7|8|9|10|
 |---|---|---|---|---|---|---|---|---|---|---|
-Sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
+|Sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
+
+|vial|11|12|13|14|15|16|17|18|19|20|
+|---|---|---|---|---|---|---|---|---|---|---|
+|Sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
+
+|vial|21|22|23|24|25|26|27|28|29|30|
+|---|---|---|---|---|---|---|---|---|---|---|
+|Sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
+
+|vial|31|32|33|34|35|36|37|38|39|40|
+|---|---|---|---|---|---|---|---|---|---|---|
+|Sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
 
 #### **Husbandry**
 1. Checked Larvae for health and checked incubators for environmental conditions
@@ -1266,11 +1270,14 @@ Sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
 <div id='id-section29'/>    
 
 ### Page 29: 20180220 USDA | w/EVL and LC Extraction, BE assay setup, Husbandry, Set SpeedVac samples 
-#### **BE assay setup**
+#### **BE Respirometry Setup**
+* 25 BE larvae in long day conditions placed in a 32-well tray
+* Each larvae will be assayed for metabolic activity as proxied by CO2 production
 #### **Husbandry**
-#### **SpeedVac**
+1. Checked Larvae for health and checked incubators for environmental conditions
+#### **SpeedVac ON HOLD**
 * Load lipid samples into speedVac in preparation for dilutions
-#### **w/EVL & LC**
+#### **w/EVL & LC On HOLD**
 * EVL: Data entry, vial rinsing
 * EVL and LC: Teach Extraction technique to EVL and LC
    * 3 samples and 3 blanks
@@ -1279,8 +1286,21 @@ Sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
 
 <div id='id-section30'/>    
 
-### Page 30: USDA | Husbandry, BE assay setup, w/JLM, Lipid Dilutions
-
+### Page 30: 20180221 USDA | Husbandry, BE assay setup, w/JLM, Lipid Dilutions
+#### **Lipid Dilutions**
+1. AM: Lipids on speedVac to remove solvent
+2. PM: 
+   * Weigh dry lipids
+   * Dilute DRY lipids with 4ml DCM
+   * Pass diluted lipids through a milli-q syringe filter
+   * Store at -20C 
+#### **Husbandry**
+1. Checked Larvae for health and checked incubators for environmental conditions
+#### **BE Respirometry Setup**
+* 25 BE larvae in long day conditions placed in a 32-well tray
+* Each larvae will be assayed for metabolic activity as proxied by CO2 production
+#### **w/ JLM ON HOLD**
+1. JLM will extract larval samples, with blanks, and enter data in triplicate
 ------
 
 <div id='id-section31'/>    
