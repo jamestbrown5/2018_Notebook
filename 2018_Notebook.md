@@ -1237,6 +1237,7 @@ Sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
 #### **Husbandry**
 1. Checked Larvae for health and checked incubators for environmental conditions
 #### **Diet Prep**
+![](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/ECB%20Diet%20F9478B.jpg)
 1. measure out:
   * water, diet meal, agar
 2. Mix water and agar using a stir plate and stir bar
