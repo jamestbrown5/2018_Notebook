@@ -1163,8 +1163,8 @@ vial|type
  * Run 40-solvent only runs with caps
 
 vial|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|
----|---|---|---|---|---|---|---|---|---|---|
-sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
+---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
 
    
 #### **Husbandry**
@@ -1196,7 +1196,7 @@ sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
     
     |Sample #|1|2|3|4|5|6|7|8|
     |---|---|---|---|---|---|---|---|---|
-    |Day Post 5th|1|4|7|10|15|20|30|45|
+    |Day Post 5th|1|5|8|9|15|20|30|45|
     
    4. For each larva observe: wet mass, lean mass, lipid mass, TAG mass
 
