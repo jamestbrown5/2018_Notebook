@@ -44,13 +44,13 @@
 * [Page 27: 2018-02-17 ](#id-section27). USDA | Post Inlet Maint, Husbandry
 * [Page 28: 2018-02-19 ](#id-section28). USDA | Husbandry, Diet prep | UF (PM) Meeting, Respirometry, Setup BE for respir
 * [Page 29: 2018-02-20 ](#id-section29). USDA | w/EVL and LC Extraction, BE assay setup, Husbandry, Set SpeedVac samples
-* [Page 30:  ](#id-section30).
-* [Page 31:  ](#id-section31).
-* [Page 32:  ](#id-section32).
-* [Page 33:  ](#id-section33).
-* [Page 34:  ](#id-section34).
-* [Page 35:  ](#id-section35).
-* [Page 36:  ](#id-section36).
+* [Page 30: 2018-02-21 ](#id-section30). USDA | Husbandry, BE assay setup, w/JLM, Lipid Dilutions
+* [Page 31: 2018-02-22 ](#id-section31). USDA | w/EVL, BE assay setup 
+* [Page 32: 2018-02-23 ](#id-section32). USDA | BE assay setup, Husbandry | UF Respirometry
+* [Page 33: 2018-02-26 ](#id-section33). USDA | Husbandry,  | UF Respirometry
+* [Page 34: 2018-02-27 ](#id-section34).
+* [Page 35: 2018-02-28 ](#id-section35).
+* [Page 36: 2018-03-01 ](#id-section36).
 * [Page 37:  ](#id-section37).
 * [Page 38:  ](#id-section38).
 * [Page 39:  ](#id-section39).
@@ -1308,6 +1308,8 @@ sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
    * Dilute DRY lipids with 4ml DCM
    * Pass diluted lipids through a milli-q syringe filter
    * Store at -20C 
+#### **BE assay setup**
+* setup BE larvae into assay trays @ USDA
 #### **Husbandry**
 1. Checked Larvae for health and checked incubators for environmental conditions
 #### **BE Respirometry Setup**
@@ -1319,13 +1321,36 @@ sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
 
 <div id='id-section31'/>    
 
-### Page 31:
+### Page 31: 20180222 USDA | w/EVL, BE assay setup, Husbandry
+
+#### **w/ EVL**
+1. FAMEs run and samples prepped
+2. Increase sample volumn from 100ul to 400ul
+3. data uploaded to data folder
+
+#### **BE assay setup**
+* setup BE larvae into assay trays @ USDA
+* annotated 5th instar
+* Used liquid N2 to freeze larvae and stored them in -80C
+
+#### **Husbandry**
+1. Checked Larvae for health and checked incubators for environmental conditions
 
 ------
 
 <div id='id-section32'/>    
 
-### Page 32:
+### Page 32: 20180223 USDA | BE assay setup, Husbandry | UF Respirometry
+#### **BE assay setup**
+* setup BE larvae into assay trays @ USDA
+* annotated 5th instar
+* Used liquid N2 to freeze larvae and stored them in -80C
+
+#### **Husbandry**
+1. Checked Larvae for health and checked incubators for environmental conditions
+
+
+
 
 ------
 
