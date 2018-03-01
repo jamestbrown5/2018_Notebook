@@ -1253,7 +1253,7 @@ sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
 5. Using a blender, blend together diet meal and mixture for 3mins.
 6. Quickly pour diet into a storage container
 #### **BE Respirometry Setup**
-* 25 BE larvae in long day conditions placed in a 32-well tray
+* 32 BE larvae in long day and short day conditions placed in 32-well trays
 * Each larvae will be assayed for metabolic activity as proxied by CO2 production
 #### **Lab Meeting**
 * Leigh discussed the advanced PhD program funded by the NSF in Antarctica
@@ -1262,7 +1262,6 @@ sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
 2. Syringe air purged of CO2, and hydrated
 3. Larvae held for ~1hr in syringe
 4. Using a LiCor meter, the syringe air is  analyzed for CO2 production.
-
   * UZ12: 
     * performed respirometry on samples
 
@@ -1276,7 +1275,7 @@ sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
 <<<<<<< HEAD
 #### **BE assay setup**
 * setup BE larvae into assay trays @ USDA and UF
-  * freeze dry 20 samples Day 1 samples
+* freeze dry 20 Day 1 samples from long day condition
 #### **Husbandry**
 1. Checked Larvae for health and checked incubators for environmental conditions
 #### **SpeedVac**
@@ -1312,9 +1311,15 @@ sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
 * setup BE larvae into assay trays @ USDA
 #### **Husbandry**
 1. Checked Larvae for health and checked incubators for environmental conditions
-#### **BE Respirometry Setup**
-* 25 BE larvae in long day conditions placed in a 32-well tray
-* Each larvae will be assayed for metabolic activity as proxied by CO2 production
+#### **Respirometry**
+1. Larvae weighed and loaded into a 5mL syringe 
+2. Syringe air purged of CO2, and hydrated
+3. Larvae held for ~1hr in syringe
+4. Using a LiCor meter, the syringe air is  analyzed for CO2 production.
+  * BE16: 
+    * performed respirometry on samples
+
+
 #### **w/ JLM ON HOLD**
 1. JLM will extract larval samples, with blanks, and enter data in triplicate
 ------
