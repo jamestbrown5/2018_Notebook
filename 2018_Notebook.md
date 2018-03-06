@@ -46,13 +46,13 @@
 * [Page 29: 2018-02-20 ](#id-section29). USDA | w/EVL and LC Extraction, BE assay setup, Husbandry, Set SpeedVac samples
 * [Page 30: 2018-02-21 ](#id-section30). USDA | Husbandry, BE assay setup, w/JLM, Lipid Dilutions
 * [Page 31: 2018-02-22 ](#id-section31). USDA | w/EVL, BE assay setup 
-* [Page 32: 2018-02-23 ](#id-section32). USDA | BE assay setup, Husbandry | UF Respirometry
-* [Page 33: 2018-02-26 ](#id-section33). USDA | Husbandry,  | UF Respirometry
-* [Page 34: 2018-02-27 ](#id-section34).
-* [Page 35: 2018-02-28 ](#id-section35).
-* [Page 36: 2018-03-01 ](#id-section36).
-* [Page 37: 2018-03-05 ](#id-section37). USDA | Husbandry, BE sampling, add/remove Freeze dry samples UF | REspirometry, Meeting Prep
-* [Page 38:  ](#id-section38).
+* [Page 32: 2018-02-23 ](#id-section32). USDA | BE assay, Husbandry | UF Respirometry
+* [Page 33: 2018-02-26 ](#id-section33). USDA | Husbandry, BE larvae assay  | UF Respirometry
+* [Page 34: 2018-02-27 ](#id-section34). USDA | BE assay larvae: weights, freeze-dry, sampling date update, Teach EVL, clean SpeedVac
+* [Page 35: 2018-02-28 ](#id-section35). USDA | w/JLM, dilutions | UF Respirometry
+* [Page 36: 2018-03-01 ](#id-section36). UF | Respirometry USDA | w/EVL dilutions
+* [Page 37: 2018-03-05 ](#id-section37). USDA | Husbandry, BE assay sampling, add/remove Freeze dry samples UF | Respirometry, Meeting Prep
+* [Page 38: 2018-03-06 ](#id-section38). USDA | Lyophillize BE assay larvae, dilutions, extraction, Meeting Prep
 * [Page 39:  ](#id-section39).
 * [Page 40:  ](#id-section40).
 * [Page 41:  ](#id-section41).
@@ -235,7 +235,7 @@ Respirometry:
 4. Using a LiCor meter, the syringe air is  analyzed for CO2 production.
 
  * BE12: 
-    * performed respirometry on remaining samples
+    * performed respirometry 
 
 #### Hourly CO2 production
 ![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180101_CO2_Hour.png)
@@ -437,7 +437,7 @@ UF 1030-1345:
        * first the vaccine (an antibody treatment that blocks the membrane protein that binds the malaria parasite) is micronized and injected  into the lymph tissue of the patient
          * on the same dose date a bundle of antigen is injected that slowly releases antigen into the blood stream for upto 6 months. This slow release thing acts as a booster
 
-* Respirometry:
+#### **Respirometry**:
   1. Larvae weighed and loaded into a 5mL syringe 
   2. Syringe air purged of CO2, and hydrated
   3. Larvae held for ~1hr in syringe
@@ -527,9 +527,6 @@ UF 1030-1345:
 4. Using a LiCor meter, the syringe air is  analyzed for CO2 production.
 
 
- * BE12: 
-    * performed respirometry on remaining samples
-
 #### Hourly CO2 production
 ![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180116_CO2_Hour.png)
 
@@ -554,7 +551,7 @@ UF 1030-1345:
 
 ### Page 9: 20180117 UF Respirometry | USDA
 
-* Respirometry
+#### **Respirometry**
 1. Larvae weighed and loaded into a 5mL syringe 
 2. Syringe air purged of CO2, and hydrated
 3. Larvae held for ~1hr in syringe
@@ -610,7 +607,7 @@ Due to the r-squared and the low value for the smallest concentration, I will ha
   * Stinging nematodes in an agricultural setting
     * Population fluctuations of nematodes as a function of microbe populations
 
-* Respirometry
+#### **Respirometry**
 1. Larvae weighed and loaded into a 5mL syringe 
 2. Syringe air purged of CO2, and hydrated
 3. Larvae held for ~1hr in syringe
@@ -641,7 +638,7 @@ Due to the r-squared and the low value for the smallest concentration, I will ha
 
 ### Page 12: 20180120 Respirometry 
 
-* Respirometry
+#### **Respirometry**
 1. Larvae weighed and loaded into a 5mL syringe 
 2. Syringe air purged of CO2, and hydrated
 3. Larvae held for ~1hr in syringe
@@ -672,7 +669,7 @@ Due to the r-squared and the low value for the smallest concentration, I will ha
 
 ### Page 13: 20180121 Respirometry
 
-* Respirometry
+#### **Respirometry**
 1. Larvae weighed and loaded into a 5mL syringe 
 2. Syringe air purged of CO2, and hydrated
 3. Larvae held for ~1hr in syringe
@@ -698,7 +695,7 @@ Due to the r-squared and the low value for the smallest concentration, I will ha
    * turn down equipment and postpone assays
      insects moved to UF incubators 
 
-* Respirometry
+#### **Respirometry**
 1. Larvae weighed and loaded into a 5mL syringe 
 2. Syringe air purged of CO2, and hydrated
 3. Larvae held for ~1hr in syringe
@@ -740,15 +737,26 @@ Due to the r-squared and the low value for the smallest concentration, I will ha
 
 <div id='id-section16'/>    
 
-### Page 16: Notebook update: 20180124 thru 20180202
+### Page 16: Notebook update: 20180124 thru 20180204
 * 20180124:
 * 20180125:
+#### **Respirometry**
 * 20180126:
+#### **Respirometry**
+* 20180128:
+#### **Respirometry**
 * 20180129:
+#### **Respirometry**
 * 20180130:
 * 20180131:
+#### **Respirometry**
 * 20180201:
 * 20180202:
+#### **Respirometry**
+20180203:
+#### **Respirometry**
+20180204:
+#### **Respirometry**
 ------
 
 <div id='id-section17'/>  
@@ -937,6 +945,17 @@ Results TBD
    30|DCM
    31|DCM
 
+#### **Respirometry**
+1. Larvae weighed and loaded into a 5mL syringe 
+2. Syringe air purged of CO2, and hydrated
+3. Larvae held for ~1hr in syringe
+4. Using a LiCor meter, the syringe air is  analyzed for CO2 production.
+
+ * BE12: 
+    * performed respirometry on remaining samples
+
+#### Hourly CO2 production weighted by mass
+![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180205_CO2_Hour_Mass.png)
 
 ------
 
@@ -994,7 +1013,7 @@ Results TBD
 4. Using a LiCor meter, the syringe air is  analyzed for CO2 production.
 
  * BE12: 
-    * performed respirometry on remaining samples
+    * performed respirometry on samples
 
 #### Hourly CO2 production weighted by mass
 ![](https://github.com/jamestbrown5/Respirometry/blob/master/Images/20180209_CO2_Hour_Mass.png)
@@ -1319,7 +1338,6 @@ sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
   * BE16: 
     * performed respirometry on samples
 
-
 #### **w/ JLM ON HOLD**
 1. JLM will extract larval samples, with blanks, and enter data in triplicate
 ------
@@ -1354,21 +1372,64 @@ sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
 #### **Husbandry**
 1. Checked Larvae for health and checked incubators for environmental conditions
 
-
+#### **Respirometry**
+1. Larvae weighed and loaded into a 5mL syringe 
+2. Syringe air purged of CO2, and hydrated
+3. Larvae held for ~1hr in syringe
+4. Using a LiCor meter, the syringe air is  analyzed for CO2 production.
+  * BE16: 
+    * performed respirometry on samples
+  * BE12: 
+    * performed respirometry on samples
 
 
 ------
 
 <div id='id-section33'/>    
 
-### Page 33:
+### Page 33: 20180226 USDA | Husbandry, BE larvae assay  | UF Respirometry
+#### **BE assay setup**
+* setup BE larvae into assay trays @ USDA
+* annotated 5th instar
+
+#### **Husbandry**
+1. Checked Larvae for health and checked incubators for environmental conditions
+
+#### **Respirometry**
+1. Larvae weighed and loaded into a 5mL syringe 
+2. Syringe air purged of CO2, and hydrated
+3. Larvae held for ~1hr in syringe
+4. Using a LiCor meter, the syringe air is  analyzed for CO2 production.
+  * BE16: 
+    * performed respirometry on samples
 
 ------
 
 <div id='id-section34'/>    
 
-### Page 34:
+### Page 34: 20180227 USDA | BE assay larvae (weights, freeze-dry, sampling date update) Teach EVL, clean SpeedVac
+#### **BE assay setup**
+* setup BE larvae into assay trays @ USDA
+* annotated 5th instar
+* larvae annotated for 5th instar, sampled for continuous sample, and data entered
 
+#### **Teach EVL**
+* Practice samples to learn extraction process
+* Reviewed:
+   * preparation, sample location, equipment, and answered questions
+      * EVL showed high aptiitude and technical ability
+      * During next visit, she will conduct extraction on actual samples
+
+#### **Husbandry**
+1. Checked Larvae for health and checked incubators for environmental conditions
+
+#### **Respirometry**
+1. Larvae weighed and loaded into a 5mL syringe 
+2. Syringe air purged of CO2, and hydrated
+3. Larvae held for ~1hr in syringe
+4. Using a LiCor meter, the syringe air is  analyzed for CO2 production.
+  * BE12: 
+    * performed respirometry on samples
 ------
 
 <div id='id-section35'/>    
