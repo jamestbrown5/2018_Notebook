@@ -1218,7 +1218,7 @@ sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
     
     |Sample #|1|2|3|4|5|6|7|8|
     |---|---|---|---|---|---|---|---|---|
-    |Day Post 5th|1|5|8|9|15|20|30|45|
+    |Day Post 5th|1|3|7|9|15|20|30|45|
     
    4. For each larva observe: wet mass, lean mass, lipid mass, TAG mass
 
