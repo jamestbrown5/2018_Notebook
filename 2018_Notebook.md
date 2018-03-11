@@ -2484,14 +2484,14 @@ sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
 
 | Author: | Title | Biological System | Model | Experiments | Methods |
 | ------- | ----- | ----------------- | ----- | ----------- | ------- |
-| Barrett et al | [Separate and combined effects of nutrition during juvenile and sexual development on female life-history trajectories: the thrifty phenotype in a cockroach](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/Literature/2009_Barrett%20et%20al_Separate%20and%20combined%20effects%20of%20nutrition%20during%20juvenile%20and%20sexual%20development%20on%20female%20life-history%20trajectories-%20the%20thrifty%20phenotype%20in%20a%20cockroach.pdf) | Naipphoeta cinerea | Tracking the effect of diet quality on longeviety, ovary size, body length,  | Diet switching effects on juvenile and sexual maturation: observed survivorship,  by diet quality | ------- |
+| Barrett et al | [Separate and combined effects of nutrition during juvenile and sexual development on female life-history trajectories: the thrifty phenotype in a cockroach](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/Literature/2009_Barrett%20et%20al._Separate%20and%20combined%20effects%20of%20nutrition%20during%20juvenile%20and%20sexual%20development%20on%20female%20life-history%20trajectorie.pdf) | Naipphoeta cinerea | Tracking the effect of diet quality on longeviety, ovary size, body length,  | Diet switching effects on juvenile and sexual maturation: observed survivorship,  by diet quality | ------- |
 
 
 #### 20180219: Environmental effects on thermal tolerance
 
 | Author: | Title | Biological Study  | Model | Experiment  | Methods |
 | ------- | ----- | ----------------- | ----- | ----------- | ------- |
-| Deutsch et al. | [Impacts of climate warming on terrestrial ectotherms across latitudes](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/Literature/2008_Deutsch%20et%20al_Impacts%20of%20climate%20warming%20on%20terrestrial%20ectotherms%20across%20latitudes.pdf)| Understanding the relationship between insect thermal biology and the effects of increasing temerpatures | 38 terreterial insect taxa | Integration of thermal performance among taxa | Thermal performance curves |
+| Deutsch et al. | [Impacts of climate warming on terrestrial ectotherms across latitudes](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/Literature/2008_Deutsch%20et%20al._Impacts%20of%20climate%20warming%20on%20terrestrial%20ectotherms%20across%20latitude.pdf)| Understanding the relationship between insect thermal biology and the effects of increasing temerpatures | 38 terreterial insect taxa | Integration of thermal performance among taxa | Thermal performance curves |
 
 ![](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/thermal%20performance%20curve.png)
 
@@ -2518,3 +2518,21 @@ b. increased temperature and thermal safety margin|
 a. extrapolation of thermal performance for insects by latitude
 b. extrapolation of complete insect data globally
 c. extrapolation of warming data for non insect taxa by latitude|
+
+
+#### 20180312: Spider courtship and signal alignment
+
+| Author: | Title |  Model | Question? | Goal | Methods |
+| ------- | ----- | ----------------- | ----- | ----------- | ------- |
+| Echeverri, et al. | [Control of signaling alignment during the dynamic courtship display of a jumping spider](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/Literature/2017_Echeverri%20et%20al._Control%20of%20signaling%20alignment%20during%20the%20dynamic%20courtship%20display%20of%20a%20jumping%20spider.pdf) | Habronattus pyrrithrix (Jumping Spider) | Receiving signals can be effected by angle and direction of perception. How do animals establish and maintain signal alignment? | To characterize the spatial dynamics of visual courtship | Recorded relative positions of actors during courtship: movement, orientation of males and females when female movement was fixed and free |
+
+|Summary|
+|---|
+|* Visual signals and systems often have strong directional biasis and selection should lead to behaviors that increase alignment:
+   1. Tendancy for angle dependancy implies spatial limits: change in visual signal due to distance
+   2. Intrinsic sensitivity biasis of signals due to system preceiving the signal: view field and signal reception limits|
+|---|
+|* Design:
+   1. Both males and females studied during courtship
+      a. during displays males behavior is stereotypical and icludes ornaments depending on distance from the receiver
+      b. these movements are obsecured depending on viewing angle due to the visual limits of female color sight and the location of the color signals on the male|
