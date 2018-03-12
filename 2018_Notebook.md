@@ -2534,12 +2534,25 @@ c. extrapolation of warming data for non insect taxa by latitude|
 |---|
 |**Introduction:**
    1-Both males and females studied during courtship
-      a-during displays males behavior is stereotypical and icludes ornaments depending on distance from the receiver
-      b-these movements are obsecured depending on viewing angle due to the visual limits of female color sight and the location of the color signals on the male
-
+      a: during displays males behavior is stereotypical and icludes ornaments depending on distance from the receiver
+      b: these movements are obsecured depending on viewing angle due to the visual limits of female color sight and the location of the color signals on the male
 **Questions:**
    1-To what extent is alignment established and maintained during courtship
    2-What are the contributions of each actor to alignment|
 |----|
 |**Methods**
-   1-|
+   1- spiders from arizona and kept at constant temp, RH, and LD. Food 2x body mass. Court trials held 3 months 4 months and 8 months after capture
+   2- Court trial
+      a: was 10mins, 8 pairs of wild adults were trialed and results compared to later cohorts
+      b: n=14 for stationary trials, n=12 for turning trials, continuous court=60s display|
+|----|
+![](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/Literature/Echeverri%20fig2.png)
+![](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/Literature/Echeverri%20fig3.png)
+|**Results**
+   1- Analysis of manipulation experiments reveals dynamic interx during courtship between actors
+   2- Live Males and Live Females:
+      a: Live Females: Males at long range did little orientation in the direction of the female and males at short range orientated face-towards female
+      b: Model Females: Males at long range orientated face-towards female as did short range males|
+|----|
+|**Discussion**
+|
