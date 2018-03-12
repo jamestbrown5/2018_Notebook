@@ -2527,12 +2527,16 @@ c. extrapolation of warming data for non insect taxa by latitude|
 | Echeverri, et al. | [Control of signaling alignment during the dynamic courtship display of a jumping spider](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/Literature/2017_Echeverri%20et%20al._Control%20of%20signaling%20alignment%20during%20the%20dynamic%20courtship%20display%20of%20a%20jumping%20spider.pdf) | Habronattus pyrrithrix (Jumping Spider) | Receiving signals can be effected by angle and direction of perception. How do animals establish and maintain signal alignment? | To characterize the spatial dynamics of visual courtship | Recorded relative positions of actors during courtship: movement, orientation of males and females when female movement was fixed and free |
 
 |Summary|
-|---|
+|----|
 |* Visual signals and systems often have strong directional biasis and selection should lead to behaviors that increase alignment:
    1. Tendancy for angle dependancy implies spatial limits: change in visual signal due to distance
    2. Intrinsic sensitivity biasis of signals due to system preceiving the signal: view field and signal reception limits|
-|---|
+|---||
 |* Design:
    1. Both males and females studied during courtship
       a. during displays males behavior is stereotypical and icludes ornaments depending on distance from the receiver
-      b. these movements are obsecured depending on viewing angle due to the visual limits of female color sight and the location of the color signals on the male|
+      b. these movements are obsecured depending on viewing angle due to the visual limits of female color sight and the location of the color signals on the male
+* Questions:
+   1. To what extent is alignment established and maintained during courtship
+   2. What are the contributions of each actor to alignment|
+|----|
