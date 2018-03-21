@@ -2551,7 +2551,7 @@ c. extrapolation of warming data for non insect taxa by latitude|
 |**Results**|
 |---|
 |   1- Analysis of manipulation experiments reveals dynamic interx during courtship between actors
-   2- Live Males and Live Females:
+    2- Live Males and Live Females:
       a: Live Females: Males at long range did little orientation in the direction of the female and males at short range orientated face-towards female
       b: Model Females: Males at long range orientated face-towards female as did short range males|
 
@@ -2560,3 +2560,35 @@ c. extrapolation of warming data for non insect taxa by latitude|
 
 ![](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/Literature/Echeverri%20fig2.png)
 ![](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/Literature/Echeverri%20fig3.png)
+
+#### 20180326: 
+
+| Author: | Title |  Model | Question? | Goal | Methods |
+| ------- | ----- | ----------------- | ----- | ----------- | ------- |
+| Simoes, et al. | [Natural vegetation management to conserve biodiversity and soil water in olive orchards](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/Literature/2017_Echeverri%20et%20al._Control%20of%20signaling%20alignment%20during%20the%20dynamic%20courtship%20display%20of%20a%20jumping%20spider.pdf) | Natural Vegatation Tillage (NVT) vs Natural Vegetation Mowing (NVM) in Olive Orchards | Tillage in olive orchards can cause control weeds, imporving tree health, but is there an alternative?  | Determine the degree to which olive yield is effected under mowing and tillage regimens | Observed plant community composition and cover, soil water content and resistance to penetration, and olive yield over an 8-year period, in a Mediterranean rainfed olive orchard. |
+
+|**Summary** Hypothesis: Instead of tilling, mowing to control the natural vegetation of olive orchard in spring can increase biodiversity and improve soil quality, without negative effects in production|
+|---|
+| Olive production did not differ between treatments in any of the years. Soil water was higher in NVM, at both soil depths, particularly in mid-summer and after the first autumn rains (1 to 2%). Soil resistance to penetration was 1 Mpa higher in NVM than in NVT. As compared to conventional tillage, natural vegetation cover mowed in spring seems to be an effective management practice to improve the overall rainfed olive orchard biodiversity and soil quality, without affecting production|
+
+|**Methods**|
+|---|
+|Plots: 5-ha rainfed olive orchard, Planted in 1991, experiment period: 2000-2007.|
+|---|
+|CRD divided into two treatments: NVT and NVM. Mowed and tilled plant debris left on site. Forb specific Herbicide sprayed 2003. Plant abundance and composition surveyed in the spring. Yield assessed for each tree within the plot |
+
+|**Results**|
+|---|
+|Fig 1: |
+|---|
+|Fig 2|
+|---|
+|Fig 3|
+|---|
+|Fig 4|
+|---|
+|Table 1|
+|---|
+|Fig 5|
+|**Discussion**|
+|---|
