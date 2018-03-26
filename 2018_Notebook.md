@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 # [Insect Physiology](https://jamestbrown5.github.io)      
 ## Studying the relationship between stored resources and diapause preparation by characterizing lipids accumulated by UZ and BE O. nubilalis in diapause and non-diapause conditions during the wandering stage.
 
@@ -2439,9 +2444,6 @@ sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
 | ------- | ----- | ----------------- | ----- | ----------- | ------- |
 | ---     | ---   | ---               | ---   | ---         | ---     |
 
-|Summary|
-|---|
-|---|
 
 
 
