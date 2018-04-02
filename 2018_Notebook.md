@@ -58,15 +58,15 @@ output:
 * [Page 36: 2018-03-01 ](#id-section36). UF | Respirometry USDA | w/EVL dilutions
 * [Page 37: 2018-03-05 ](#id-section37). USDA | Husbandry, BE assay sampling, add/remove Freeze dry samples UF | Respirometry, Meeting Prep
 * [Page 38: 2018-03-06 ](#id-section38). USDA | Lyophillize BE assay larvae, dilutions, extraction, Meeting Prep
-* [Page 39:  ](#id-section39).
-* [Page 40:  ](#id-section40).
-* [Page 41:  ](#id-section41).
-* [Page 42:  ](#id-section42).
-* [Page 43:  ](#id-section43).
-* [Page 44:  ](#id-section44).
-* [Page 45:  ](#id-section45).
-* [Page 46:  ](#id-section46).
-* [Page 47:  ](#id-section47).
+* [Page 39: 2018-03-07 ](#id-section39). 
+* [Page 40: 2018-08-21 ](#id-section40).
+* [Page 41: 2018-03-23 ](#id-section41).
+* [Page 42: 2018-03-24 ](#id-section42).
+* [Page 43: 2018-03-26 ](#id-section43).
+* [Page 44: 2018-03-27 ](#id-section44).
+* [Page 45: 2018-03-29 ](#id-section45).
+* [Page 46: 2018-03-30 ](#id-section46).
+* [Page 47: 2018-03-31 ](#id-section47).
 * [Page 48:  ](#id-section48).
 * [Page 49:  ](#id-section49).
 * [Page 50:  ](#id-section50).
