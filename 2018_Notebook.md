@@ -55,10 +55,10 @@ output:
 * [Page 33: 2018-02-26 ](#id-section33). USDA | Husbandry, BE larvae assay  | UF Respirometry
 * [Page 34: 2018-02-27 ](#id-section34). USDA | BE assay larvae: weights, freeze-dry, sampling date update, Teach EVL, clean SpeedVac
 * [Page 35: 2018-02-28 ](#id-section35). USDA | w/JLM, dilutions | UF Respirometry
-* [Page 36: 2018-03-01 ](#id-section36). UF | Respirometry USDA | w/EVL dilutions
-* [Page 37: 2018-03-05 ](#id-section37). USDA | Husbandry, BE assay sampling, add/remove Freeze dry samples UF | Respirometry, Meeting Prep
-* [Page 38: 2018-03-06 ](#id-section38). USDA | Lyophillize BE assay larvae, dilutions, extraction, Meeting Prep
-* [Page 39: 2018-03-07 ](#id-section39). 
+* [Page 36: 2018-03-02 ](#id-section36). UF | Respirometry USDA | w/EVL dilutions
+* [Page 37: 2018-03-06 ](#id-section37). USDA | Husbandry, BE assay sampling, add/remove Freeze dry samples UF | Respirometry, Meeting Prep
+* [Page 38: 2018-03-09 ](#id-section38). UF | Meeting Notes
+* [Page 39: 2018-03-14 ](#id-section39). USDA | BE assay, w/ JLM, volunteer admin
 * [Page 40: 2018-08-21 ](#id-section40).
 * [Page 41: 2018-03-23 ](#id-section41).
 * [Page 42: 2018-03-24 ](#id-section42).
@@ -1399,6 +1399,7 @@ sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
 
 #### **Husbandry**
 1. Checked Larvae for health and checked incubators for environmental conditions
+  * Larvae trays innoculated by latent mold: some larvae lost
 
 #### **Respirometry**
 1. Larvae weighed and loaded into a 5mL syringe 
@@ -1439,25 +1440,87 @@ sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
 
 <div id='id-section35'/>    
 
-### Page 35:
+### Page 35: 20180228 USDA | w/JLM, dilutions | UF Respirometry
+
+#### **BE assay setup**
+* setup BE12 20180116 
+* larvae into assay trays @ USDA
+* annotated 5th instar
+* larvae annotated for 5th instar, sampled for continuous sample, and data entered
+
+#### Dilutions
+* Lipid extracts dried in preparation for dilution
+
+#### **Respirometry**
+1. Larvae weighed and loaded into a 5mL syringe 
+2. Syringe air purged of CO2, and hydrated
+3. Larvae held for ~1hr in syringe
+4. Using a LiCor meter, the syringe air is  analyzed for CO2 production.
+  * BE12: 
+    * performed respirometry on samples
 
 ------
 
 <div id='id-section36'/>    
 
-### Page 36:
+### Page 36: 20180302 UF | Respirometry USDA | w/EVL dilutions
+
+#### **Respirometry**
+1. Larvae weighed and loaded into a 5mL syringe 
+2. Syringe air purged of CO2, and hydrated
+3. Larvae held for ~1hr in syringe
+4. Using a LiCor meter, the syringe air is  analyzed for CO2 production.
+  * BE12: 
+    * performed respirometry on samples
+
+#### Dilutions
+* Lipid extracts diluted
 
 ------
 
 <div id='id-section37'/>    
 
-### Page 37: 20180305  USDA | Husbandry, BE sampling, add/remove Freeze dry samples UF | REspirometry, Meeting Prep
+### Page 37: 20180306  USDA | Husbandry, BE sampling, add/remove Freeze dry samples UF | Respirometry, Meeting Prep
+
+#### **Husbandry**
+1. Checked Larvae for health and checked incubators for environmental conditions
+
+#### **Respirometry**
+1. Larvae weighed and loaded into a 5mL syringe 
+2. Syringe air purged of CO2, and hydrated
+3. Larvae held for ~1hr in syringe
+4. Using a LiCor meter, the syringe air is  analyzed for CO2 production.
+  * BE12: 
+    * performed respirometry on samples
+
+#### **BE assay setup**
+* annotated for life stage
+* larvae sampled for continuous growth, and data entered
+
+#### Freeze dried samples
+* larvae added and removed from freeze drier 
+* samples annotated for mass (dry and wet mass)
+
+#### Meeting Prep with Dan
+* slide presentation preparation
 
 ------
 
 <div id='id-section38'/>    
 
-### Page 38:
+### Page 38: 20180309 UF | Meeting Notes
+
+#### Meeting Notes
+* Understand how the strain effect ould be masking some effect
+  * Mass as a covariate or a fixed factor determining the accumulation of lipid mass
+
+##### Dan's Input 
+* Frequency plot of pupa stage by time needed
+* Repeated measures analysis of respir data 
+  * maybe taking into consideration splines to determine the slope of change in CO2 over days
+* Plot each larva for CO2 by day
+* Plot each larva Pupa eclosion by day
+* Don't forget the big question when sliding...?
 
 ------
 
