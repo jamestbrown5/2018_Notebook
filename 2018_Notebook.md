@@ -58,24 +58,24 @@ output:
 * [Page 36: 2018-03-02 ](#id-section36). UF | Respirometry USDA | w/EVL dilutions
 * [Page 37: 2018-03-06 ](#id-section37). USDA | Husbandry, BE assay sampling, add/remove Freeze dry samples UF | Respirometry, Meeting Prep
 * [Page 38: 2018-03-09 ](#id-section38). UF | Meeting Notes
-* [Page 39: 2018-03-14 ](#id-section39). USDA | BE assay, w/ JLM, volunteer admin
-* [Page 40: 2018-08-21 ](#id-section40).
-* [Page 41: 2018-03-23 ](#id-section41).
-* [Page 42: 2018-03-24 ](#id-section42).
-* [Page 43: 2018-03-26 ](#id-section43).
-* [Page 44: 2018-03-27 ](#id-section44).
-* [Page 45: 2018-03-29 ](#id-section45).
-* [Page 46: 2018-03-30 ](#id-section46).
-* [Page 47: 2018-03-31 ](#id-section47).
-* [Page 48:  ](#id-section48).
-* [Page 49:  ](#id-section49).
-* [Page 50:  ](#id-section50).
-* [Page 51:  ](#id-section51).
-* [Page 52:  ](#id-section52).
-* [Page 53:  ](#id-section53).
-* [Page 54:  ](#id-section54).
-* [Page 55:  ](#id-section55).
-* [Page 56:  ](#id-section56).
+* [Page 39: 2018-03-14 ](#id-section39). USDA | BE assay, double extraction w/ JLM, and volunteer admin 
+* [Page 40: 2018-03-19 ](#id-section40). UF | Resirometry
+* [Page 41: 2018-03-21 ](#id-section41). USDA | Husbandry, Bioassay prep, Meeting w/Dan, w/JLM 
+* [Page 42: 2018-03-22 ](#id-section42). UF | Meeting notes
+* [Page 43: 2018-03-23 ](#id-section43). UF | ENSO prep USDA | dilutions prep, bioassay
+* [Page 44: 2018-03-26 ](#id-section44). UF | Experimental Design write-up, USDA | ACS abstract, LC prep
+* [Page 45: 2018-03-27 ](#id-section45). USDA | LC prep, Bioassay, diet prep, lit meeting with Rob UF | Lab meeting, respirometry
+* [Page 46: 2018-03-29 ](#id-section46). USDA | w/JLM, Full inlet maintenance
+* [Page 47: 2018-03-30 ](#id-section47). USDA | Bioassay, Abstract UF | respirometry, seminar
+* [Page 48: 2018-03-31 ](#id-section48). USDA | Dilutions prep, Bioassay prep, bioassay, LC prep and blank run
+* [Page 49: 2018-04-01 ](#id-section49). USDA | Dilutions, Bioassay, lab maint. LC prep
+* [Page 50: 2018-04-02 ](#id-section50). UF | Respirometry, lab meeting USDA | Bioassay, LC prep
+* [Page 51: 2018-04-03 ](#id-section51). USDA | Bioassay, LC runs, LC batches setup, 
+* [Page 52: 2018-04-04 ](#id-section52). USDA | LC run, Bioassay, Bioassay setup, df updates, meeting
+* [Page 53: 2018-04-05 ](#id-section53). USDA | Lab maintenance, bioassay, Shirk lab instrumentation demo
+* [Page 54: 2018-04-06 ](#id-section54). UF | Respirometry, ENSO meeting prep/execute
+* [Page 55: 2018-04-07 ](#id-section55). UF | BE adult cage husbandry, BugFest table USDA | Bioassay
+* [Page 56: 2018-04-08 ](#id-section56). USDA | df updates, Bioassay, dilutions prep
 * [Page 57:  ](#id-section57).
 * [Page 58:  ](#id-section58).
 * [Page 59:  ](#id-section59).
@@ -1526,109 +1526,134 @@ sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
 
 <div id='id-section39'/>    
 
-### Page 39:
+### Page 39: 20180314 USDA | BE assay, double extraction w/ JLM, and volunteer admin
+
+#### **BE assay setup**
+* annotated for life stage
+* larvae sampled for continuous growth, and data entered
+
+#### Double Extraction w/ JLM
+1. JLM will extract larval samples, with blanks
+2. Enter data in triplicate
+
+#### Volunteer admin
+* Emailed Enrique an invitation to interview for the volunteer position
 
 ------
 
 <div id='id-section40'/>    
 
-### Page 40:
+### Page 40: 20180319 UF | Respirometry
+
+#### **Respirometry**
+1. Larvae weighed and loaded into a 5mL syringe 
+2. Syringe air purged of CO2, and hydrated
+3. Larvae held for ~1hr in syringe
+4. Using a LiCor meter, the syringe air is  analyzed for CO2 production.
+
+#### Correcting the baseline 
+1. View -> "li6222": save
+2. Create -> new channel
+3. drag marker to cover the peak -> area -> OK -> execute -> exit
+4 repeat steps for each peak
+
 
 ------
 
 <div id='id-section41'/>    
 
-### Page 41:
+### Page 41: 20180321 USDA | Husbandry, Bioassay prep, Meeting w/Dan, w/JLM
+
 
 ------
 
 <div id='id-section42'/>    
 
-### Page 42:
+### Page 42: 20180322 UF | Meeting notes
 
 ------
 
 <div id='id-section43'/>    
 
-### Page 43:
+### Page 43: 20180323 UF | ENSO prep USDA | dilutions prep, bioassay
 
 ------
 
 <div id='id-section44'/>    
 
-### Page 44:
+### Page 44: 20180326 UF | Experimental Design write-up, USDA | ACS abstract, LC prep
 
 ------
 
 <div id='id-section45'/>    
 
-### Page 45:
+### Page 45: 20180327 USDA | LC prep, Bioassay, diet prep, lit meeting with Rob UF | Lab meeting, respirometry
 
 ------
 
 <div id='id-section46'/>    
 
-### Page 46:
+### Page 46: 20180329 USDA | w/JLM, Full inlet maintenance
 
 ------
 
 <div id='id-section47'/>    
 
-### Page 47:
+### Page 47: 20180330 USDA | Bioassay, Abstract UF | respirometry, seminar
 
 ------
 
 <div id='id-section48'/>    
 
-### Page 48:
+### Page 48: 20180331 USDA | Dilutions prep, Bioassay prep, bioassay, LC prep and blank run
 
 ------
 
 <div id='id-section49'/>    
 
-### Page 49:
+### Page 49: 20180401 USDA | Dilutions, Bioassay, lab maint. LC prep
 
 ------
 
 <div id='id-section50'/>    
 
-### Page 50:
+### Page 50: 20180402 UF | Respirometry, lab meeting USDA | Bioassay, LC prep
 
 ------
 
 <div id='id-section51'/>    
 
-### Page 51:
+### Page 51: 20180403 USDA | Bioassay, LC runs, LC batches setup
 
 ------
 
 <div id='id-section52'/>    
 
-### Page 52:
+### Page 52: 20180404 USDA | LC run, Bioassay, Bioassay setup, df updates, meeting
 
 ------
 
 <div id='id-section53'/>    
 
-### Page 53:
+### Page 53: 20180405 USDA | Lab maintenance, bioassay, Shirk lab instrumentation demo
 
 ------
 
 <div id='id-section54'/>    
 
-### Page 54:
-
+### Page 54: 20180406 UF | Respirometry, ENSO meeting prep/execute
+ 
 ------
 
 <div id='id-section55'/>    
 
-### Page 55:
+### Page 55: 20180407 UF | BE adult cage husbandry, BugFest table USDA | Bioassay
 
 ------
 
 <div id='id-section56'/>    
 
-### Page 56:
+### Page 56: 20180408 USDA | df updates, Bioassay, dilutions prep
 
 ------
 
