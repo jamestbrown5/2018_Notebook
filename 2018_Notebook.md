@@ -2528,9 +2528,9 @@ sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
 
 #### Primary Literature Template
 
-| Author: | Title | Biological Study  | Model | Experiment  | Methods |
-| ------- | ----- | ----------------- | ----- | ----------- | ------- |
-| ---     | ---   | ---               | ---   | ---         | ---     |
+| Author: | Title |  Model | Question? | Goal | Methods |
+| ------- | ----- | ------ | --------- | ---- | --------|
+| --------| ---   | -----  | --------- | ---- | --------|
 
 
 
@@ -2540,15 +2540,29 @@ sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
 
 ### THESIS:
 
-#### (Date: Big Picture)
+#### (20180409: )
 
-| Author: | Title | Biological Study  | Model | Experiment  | Methods |
-| ------- | ----- | ----------------- | ----- | ----------- | ------- |
-| ---     | ---   | ---               | ---   | ---         | ---     |
+#### Primary Literature Template
+
+| Author: | Title |  Model | Question? | Goal | Methods |
+| ------- | ----- | ------ | --------- | ---- | --------|
+| Velasquez, M. et al.| Reproductive Isolation Between Two Populations of Spodoptera frugiperda (Lepidoptera: Noctuidae) Collected in Corn and Rice Fields From Central Colombia   | Spodoptera frugiperda  | What are the pre and post zygotic factors at play maintaining the rice and corn strains | The aim of this study was to test for prezygotic (temporal isolation) and postzygotic isolation be- tween Colombian corn and rice strains of S. frugiperda and to compare patterns of isolation with the con- trasting results obtained using different populations from the United States. |Strain ID via MspI restriction enzyme analysis - Prezygotic isolation via mating timing using same day virgins - Postzygotic isolation measured via preovipo timing, number of eggs, hatch time, larva mortality, number of adults, number of males, longeviety of adults, and pupa weight|
 
 |Summary|
 |---|
+|Prezygotic: Time of mating was similar between strains. Other tests between strains have revealed that pheromone blend may be more important in maintaining strains.|
 |---|
+|Postzygotic: differrenfces found in egg masses, larvae, females, pupa devcelopment time |
+
+| Author: | Title |  Model | Question? | Goal | Methods |
+| ------- | ----- | ------ | --------- | ---- | --------|
+| Roelofs, W. et al. | Three European corn borer populations in New York based on sex pheromones and voltinism | -Ostrinia nubilalis| The degree to which biotypes and pheromone strains contribute to the existance of distinct ECB populations in upstate NY | Determine the correlation between the biotypes (voltinism) and pheromone strains (races).| Female Pheromone analysis via soaking in Skelly B and GC analysis of eggs collected during each flight peak (June-bi, July-un, and Aug-bi)|
+
+|Summary|
+|---|
+|Eden site analysis: two flight peaks in june and aug with Z-pheromone in 1983. In 1984, 3 flight peaks: 5 june cage-collected and 8-field collected females were Z strain except 1 female.|
+|---|
+|Geneva site analysis 1983: overwintered larva collected from May to June, same plots were caged and showed adult emergence in June. Larvae reared and Eggs collected from adults indicate E strain. On July 5, two females Z strain emerged. Geneva 1984: June 7-18 flight, E strain females or hybrids. June 23 flight Z strain females|
 
 
 ------
@@ -2556,14 +2570,39 @@ sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
 
 ### MISC
 
+<<<<<<< HEAD
 #### (20180409: The role of PDF (pigment dispursing factor) in the regulation of ecdysone)
 
 | Author: | Title | Biological System | Model | Experiments | Methods |
 | Masatoshi, I. et al. | Pigment Dispersing Factor Regulates Ecdysone Biosynthesis via Bombyx Neuropeptide G Protein Coupled Receptor-B2 in the Prothoracic Glands of Bombyx mori  | Ecdysteriod production | Bombyx mori | ----------- | ------- |
 |---        | --- | ---              | ---    | -------      |---|
+=======
+#### (20180409: Understanding the biosynthetic pathway of ecdysone production starting with the receptor)
+
+| Author: | Title |  Model | Question? | Goal | Methods |
+| ------- | ----- | ------ | --------- | ---- | --------|
+| Iga, M et al. | Pigment Dispersing Factor Regulates Ecdysone Biosynthesis via Bombyx Neuropeptide G Protein Coupled Receptor-B2 in the Prothoracic Glands of Bombyx mori | Bombyx mori | What are the receptors involved in the biogenesis of ecdysone | Tissue cultures - Small molecule inhibitors - Transcriptome library production via RNA-seq tags - cDNA library production via Q-PCR - Phylogenic tree production via MUSCLE analysis - Receptor testing via production of HEK293 cell lines of BNGR-B2 or pME18s receptors - Ecdysone titer quant via LC-MS/MS - Receptor ID via western blot|
+
+>>>>>>> ccb929c1822bdad6ca00558323762d6c348c7682
 |Summary|
+|In an effort to expose novel regulatory pathways important in the production of ecdysone, these researchers began their search starting with receptors known to be produced by the biogenic tissues that produced ecdysone and worked forward to find corresponding ligands. They discover that a novel g-coupled receptor (BNGR-B2) in the biogenic pathway and its ligand, PDF (a neuropeptide). |
 |---|
+|Screening: RNA seq tags were aligned to Bombyx transcriptome. the rate of expression in the PG tissue was compared to the rate of brain tissue and 3 candidates were selcted: torso, BNGR-A34 and BNGR-B2|
 |---|
+|Character of BNGR-B2: larvae were starved and RT-pcr was done on PG across several time point. The flux of this receptor was correlated with ecdysone titers (previous lit titers)|
+|---|
+|Character of BNGR-B2: the amino acid sequence is similar to the PDHR and DH31 (homologues). This info was used to select ligand canidates. BNGR-B2 and an empty protein receptor were expressed in a cell line and those two ligands were tested against each line.|
+|---|
+|Effect of ligand on PG tissue: PG tissue cultured with each ligand and ecdysone titers quantified. PDF was able to flux titers. PDF dose response was tested. PG tissues across several larval stage timepoints was tested. When PG's were dosed with PDF or PTTH with and without calcium, Ecdysone titer production quantified.|
+|---|
+|Signaling path of PDF mediated ecdysone biogenesis: because of the flux of cAMP given PDF, PDF is likely associated with a cAMP response element and is possibly controlling transcription of some factor inmportant to ecdysone biogenesis-NO joy when tested. BUT PKA translation inhibitor did effect ecdysone synthesis. |
+|---|
+|PDF mediated phosphorylation: Previous lit says MAPK and TOR paths are indicted in the biosynthesis of ecdysone. |
+
+|**Discussion**|
+|---|
+|During V4, PG tissues can respond to PTTH because the receptor is available (but during this time PTTH titer is low). |
+
 ------
 
 <div id='id-sectionJournalClub'/>  
