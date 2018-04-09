@@ -2564,6 +2564,13 @@ sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
 |---|
 |Geneva site analysis 1983: overwintered larva collected from May to June, same plots were caged and showed adult emergence in June. Larvae reared and Eggs collected from adults indicate E strain. On July 5, two females Z strain emerged. Geneva 1984: June 7-18 flight, E strain females or hybrids. June 23 flight Z strain females|
 
+##### Meeting Notes: Email Rob By Tuesday COB
+What is the deal with host race emphasis in europe?
+What is the US equvalent to mugwort or family similarity?
+Read Maleusa paper 2005.
+Showers, mating areas for ECB paper?
+Read Showers 1975 and Roelolfs 1977? 
+Web of Science to find authors.....Do it!
 
 ------
 <div id='id-sectionMisc'/> 
