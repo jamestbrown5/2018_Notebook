@@ -76,8 +76,8 @@ output:
 * [Page 54: 2018-04-06 ](#id-section54). UF | Respirometry, ENSO meeting prep/execute
 * [Page 55: 2018-04-07 ](#id-section55). UF | BE adult cage husbandry, BugFest table USDA | Bioassay
 * [Page 56: 2018-04-08 ](#id-section56). USDA | df updates, Bioassay, dilutions prep
-* [Page 57:  ](#id-section57).
-* [Page 58:  ](#id-section58).
+* [Page 57: 2018-04-10 ](#id-section57). USDA | LC Runs, Bioassay, Lipid dilutions, LC pre-column config
+* [Page 58: 2018-04-11 ](#id-section58). USDA | Prep LC runs, Bioassay prep and analysis, df updates, lit search for RLM, w/ JLM
 * [Page 59:  ](#id-section59).
 * [Page 60:  ](#id-section60).
 * [Page 61:  ](#id-section61).
@@ -1659,19 +1659,19 @@ sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
 
 <div id='id-section57'/>    
 
-### Page 57:
+### Page 57: 20180409 USDA | Bioassay, Lit Meeting w/ RLM, Lab meeting w/QCC, Journal club 
 
 ------
 
 <div id='id-section58'/>    
 
-### Page 58:
+### Page 58: 20180410 USDA | LC Runs, Bioassay, Lipid dilutions, LC pre-column config
 
 ------
 
 <div id='id-section59'/>    
 
-### Page 59:
+### Page 59: 20180411 USDA | Prep LC runs, Bioassay prep and analysis, df updates, lit search for RLM, w/ JLM
 
 ------
 
