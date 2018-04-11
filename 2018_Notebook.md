@@ -2534,7 +2534,6 @@ sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
 
 
 
-
 ------
 <div id='id-sectionThesis'/>  
 
@@ -2571,27 +2570,29 @@ Read Maleusa paper 2005.
 Showers, mating areas for ECB paper?
 Read Showers 1975 and Roelolfs 1977? 
 Web of Science to find authors.....Do it!
+Read Bethenod 2005 paper.
 
 ------
 <div id='id-sectionMisc'/> 
 
 ### MISC
 
-<<<<<<< HEAD
 #### (20180409: The role of PDF (pigment dispursing factor) in the regulation of ecdysone)
 
 | Author: | Title | Biological System | Model | Experiments | Methods |
 | Masatoshi, I. et al. | Pigment Dispersing Factor Regulates Ecdysone Biosynthesis via Bombyx Neuropeptide G Protein Coupled Receptor-B2 in the Prothoracic Glands of Bombyx mori  | Ecdysteriod production | Bombyx mori | ----------- | ------- |
 |---        | --- | ---              | ---    | -------      |---|
 =======
+
 #### (20180409: Understanding the biosynthetic pathway of ecdysone production starting with the receptor)
 
 | Author: | Title |  Model | Question? | Goal | Methods |
 | ------- | ----- | ------ | --------- | ---- | --------|
 | Iga, M et al. | Pigment Dispersing Factor Regulates Ecdysone Biosynthesis via Bombyx Neuropeptide G Protein Coupled Receptor-B2 in the Prothoracic Glands of Bombyx mori | Bombyx mori | What are the receptors involved in the biogenesis of ecdysone | Tissue cultures - Small molecule inhibitors - Transcriptome library production via RNA-seq tags - cDNA library production via Q-PCR - Phylogenic tree production via MUSCLE analysis - Receptor testing via production of HEK293 cell lines of BNGR-B2 or pME18s receptors - Ecdysone titer quant via LC-MS/MS - Receptor ID via western blot|
 
->>>>>>> ccb929c1822bdad6ca00558323762d6c348c7682
+
 |Summary|
+|---|
 |In an effort to expose novel regulatory pathways important in the production of ecdysone, these researchers began their search starting with receptors known to be produced by the biogenic tissues that produced ecdysone and worked forward to find corresponding ligands. They discover that a novel g-coupled receptor (BNGR-B2) in the biogenic pathway and its ligand, PDF (a neuropeptide). |
 |---|
 |Screening: RNA seq tags were aligned to Bombyx transcriptome. the rate of expression in the PG tissue was compared to the rate of brain tissue and 3 candidates were selcted: torso, BNGR-A34 and BNGR-B2|
@@ -2608,7 +2609,17 @@ Web of Science to find authors.....Do it!
 
 |**Discussion**|
 |---|
-|During V4, PG tissues can respond to PTTH because the receptor is available (but during this time PTTH titer is low). |
+|During V4, PG tissues can respond to PTTH because the receptor is available (but during this time PTTH titer is low). Calcium is necessary for the induction of ecdysone synth via PTTH but not PDF. When calcium is depleted, cAMP titers are not effected. The transcription inhibitor molecules in the presence of PDF did not inhibit the transcription of ecdysone transcription WHILE translation inhibition did!|
+
+#### Meeting notes
+##### Qinwen's work: The role of PDF in diapause duration and the degree to which PDF is expressed differentially in BE and UZ
+
+##### Note to self: 
+* Make a quick reference slide to describe the life history and the strain differences. Make it pretty!
+* When writing the dissertation possibly using direct formatting could be useful to have a direct comparison in the literature.
+
+##### Questions:
+* 
 
 ------
 
