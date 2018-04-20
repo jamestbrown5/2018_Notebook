@@ -2568,7 +2568,7 @@ What is the deal with host race emphasis in europe?
 What is the US equvalent to mugwort or family similarity?
 Read Maleusa paper 2005.
 Showers, mating areas for ECB paper?
-Read Showers 1975 and Roelolfs 1977? 
+Read Showers 1975 and Roelolfs 1977.
 Web of Science to find authors.....Do it!
 Read Bethenod 2005 paper.
 
