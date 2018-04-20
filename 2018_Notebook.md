@@ -84,9 +84,9 @@ output:
 * [Page 62: 2018-04-16 ](#id-section62). USDA | Dilutions, Bioassay, Batch prep, Mass data collection
 * [Page 63: 2018-04-17 ](#id-section63). USDA | Dillutions prep, bioassay, husbandry, HB interview, admin
 * [Page 64: 2018-04-18 ](#id-section64). USDA | Bioassay, Dilutions, colony tracker, meetings prep, exp design, project update
-* [Page 65:  ](#id-section65).
-* [Page 66:  ](#id-section66).
-* [Page 67:  ](#id-section67).
+* [Page 65: 2018-04-19 ](#id-section65). USDA | Bioassay, Dilutions prep, Husbandry, w/JLM
+* [Page 66: 2018-04-20 ](#id-section66). USDA | Bioassay, Husbandry
+* [Page 67: 2018-04-21 ](#id-section67). USDA | Dilutions, Bioassay, read & write
 * [Page 68:  ](#id-section68).
 * [Page 69:  ](#id-section69).
 * [Page 70:  ](#id-section70).
@@ -1934,18 +1934,28 @@ sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
 
 #### Dilutions
 * Lipid extracts dried in preparation for dilution
+
+#### JLM
+* completed two runs of extraction protocol and became ill. 
+* 4 remaining runs will be completed 4/24/18
 ------
 
 <div id='id-section66'/>    
 
-### Page 66:
+### Page 66: 20180420  USDA | Bioassay, Husbandry
+#### **Husbandry**
+1. Checked Larvae for health and checked incubators for environmental conditions
+#### **Bio-assay**
+* larvae annotated for 5th instar, wandering status, sampled for continuous sample, and data entered
 
 ------
 
 <div id='id-section67'/>    
 
-### Page 67:
-
+### Page 67: 20180421 USDA | Bioassay, dilutions, wear & write
+#### Bioassay
+#### Dilutions
+#### read & write
 ------
 
 <div id='id-section68'/>    
