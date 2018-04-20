@@ -76,17 +76,17 @@ output:
 * [Page 54: 2018-04-06 ](#id-section54). UF | Respirometry, ENSO meeting prep/execute
 * [Page 55: 2018-04-07 ](#id-section55). UF | BE adult cage husbandry, BugFest table USDA | Bioassay
 * [Page 56: 2018-04-08 ](#id-section56). USDA | df updates, Bioassay, dilutions prep
-* [Page 57:  ](#id-section57).
-* [Page 58:  ](#id-section58).
-* [Page 59:  ](#id-section59).
-* [Page 60:  ](#id-section60).
-* [Page 61:  ](#id-section61).
-* [Page 62:  ](#id-section62).
-* [Page 63:  ](#id-section63).
-* [Page 64:  ](#id-section64).
-* [Page 65:  ](#id-section65).
-* [Page 66:  ](#id-section66).
-* [Page 67:  ](#id-section67).
+* [Page 57: 2018-04-09 ](#id-section57). USDA | Bioassay, Lit Meeting w/ RLM, Lab meeting w/QCC, Journal club
+* [Page 58: 2018-04-10 ](#id-section58). USDA | LC Runs, Bioassay, Lipid dilutions, LC pre-column config
+* [Page 59: 2018-04-11 ](#id-section59). USDA | Prep LC runs, Bioassay prep and analysis, df updates, lit search for RLM, w/ JLM
+* [Page 60: 2018-04-14 ](#id-section60). USDA | Bioassay
+* [Page 61: 2018-04-15 ](#id-section61). USDA | Bioassay, LC runs batch 3
+* [Page 62: 2018-04-16 ](#id-section62). USDA | Dilutions, Bioassay, Batch prep, Mass data collection
+* [Page 63: 2018-04-17 ](#id-section63). USDA | Dillutions prep, bioassay, husbandry, HB interview, admin
+* [Page 64: 2018-04-18 ](#id-section64). USDA | Bioassay, Dilutions, colony tracker, meetings prep, exp design, project update
+* [Page 65: 2018-04-19 ](#id-section65). USDA | Bioassay, Dilutions prep, Husbandry, w/JLM
+* [Page 66: 2018-04-20 ](#id-section66). USDA | Bioassay, Husbandry
+* [Page 67: 2018-04-21 ](#id-section67). USDA | Dilutions, Bioassay, read & write
 * [Page 68:  ](#id-section68).
 * [Page 69:  ](#id-section69).
 * [Page 70:  ](#id-section70).
@@ -1474,7 +1474,11 @@ sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
     * performed respirometry on samples
 
 #### Dilutions
-* Lipid extracts diluted
+* Lipid extracts dried
+* Dried lipids weighed to obtain lipid mass
+* EXACTLY 4ml of DCM added to each lipid sample
+* Diluted lipids filtered using PVDF syringe filter
+* Diluted and filtered lipid samples stored at -20C 
 
 ------
 
@@ -1493,7 +1497,7 @@ sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
   * BE12: 
     * performed respirometry on samples
 
-#### **BE assay setup**
+#### **Bio-assay **
 * annotated for life stage
 * larvae sampled for continuous growth, and data entered
 
@@ -1526,9 +1530,9 @@ sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
 
 <div id='id-section39'/>    
 
-### Page 39: 20180314 USDA | BE assay, double extraction w/ JLM, and volunteer admin
+### Page 39: 20180314 USDA | Bio-assay, double extraction w/ JLM, and volunteer admin
 
-#### **BE assay setup**
+#### **Bio-assay setup**
 * annotated for life stage
 * larvae sampled for continuous growth, and data entered
 
@@ -1564,18 +1568,36 @@ sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
 
 ### Page 41: 20180321 USDA | Husbandry, Bioassay prep, Meeting w/Dan, w/JLM
 
+#### **Bio-assay setup**
+* setup BE12 20180116 
+* larvae into assay trays @ USDA
+* annotated 5th instar
+* larvae annotated for 5th instar, sampled for continuous sample, and data entered
+
+#### **w/ JLM**
+1. JLM will extract larval samples, with blanks
+2. Enter data in triplicate
+
+#### **Husbandry**
+1. Checked Larvae for health and checked incubators for environmental conditions
 
 ------
 
 <div id='id-section42'/>    
 
 ### Page 42: 20180322 UF | Meeting notes
-
+* cumulative pupa plot data
+* feeding: census pop each day using a tracker population to detemrine the proper day to sample for wandering.
 ------
 
 <div id='id-section43'/>    
 
 ### Page 43: 20180323 UF | ENSO prep USDA | dilutions prep, bioassay
+#### **Bio-assay**
+* larvae annotated for 5th instar, wandering status, sampled for continuous sample, and data entered
+
+#### Dilutions
+* Lipid extracts dried in preparation for dilution
 
 ------
 
@@ -1583,11 +1605,31 @@ sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
 
 ### Page 44: 20180326 UF | Experimental Design write-up, USDA | ACS abstract, LC prep
 
+####Experimental design
+* Treatments: Long day (16:8) Short Day (12:12)
+* UZ: 1 replicate (possibly two) BE: 2 replicates
+* Goal of 20 larvae to be sampled at each time point
+* Wandering stage determined using "Poop Test"
+  * Long Day: 2 samples
+  * Short Day: 6 samples
+* Measures: wet mass, lean mass, lipid mass, TAG mass
+
+
+
 ------
 
 <div id='id-section45'/>    
 
 ### Page 45: 20180327 USDA | LC prep, Bioassay, diet prep, lit meeting with Rob UF | Lab meeting, respirometry
+
+#### **Bio-assay**
+* larvae annotated for 5th instar, wandering status, sampled for continuous sample, and data entered
+
+#### **Respirometry**
+1. Larvae weighed and loaded into a 5mL syringe 
+2. Syringe air purged of CO2, and hydrated
+3. Larvae held for ~1hr in syringe
+4. Using a LiCor meter, the syringe air is  analyzed for CO2 production.
 
 ------
 
@@ -1595,11 +1637,51 @@ sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
 
 ### Page 46: 20180329 USDA | w/JLM, Full inlet maintenance
 
+#### **Full Inlet Maint.**
+##### Tools: Inlet tool, spanner, opaque inlet, cotton gloves, magnifying galsses, column cutting tool, cleaning solvents, q-tips, gold seal
+      1. Break Down injection port
+         * Turn off inlet 
+         * Remove inlet liner and septa
+
+      2. Break down inlet-column interface
+         * Unscrew column bolt at inlet, remove ferrel, and cut column to remove old septa
+         * Push new septa onto column and replace ferrel onto column.
+         * Prepare to cut approximately 1-2 loops of column and ENSURE cut is not chipped or jagged
+         * unseat glass wool insulator inside the oven
+         * unscrew inlet bolt away fom inlet and remove gold seal
+            * sonicate bolt in methanol for 30 mins and allow bolt to dry
+            
+      3. Rinse Inlet and cut column
+         * Rinse inlet with three solvents using q-tips
+            * DCM -> Acetone -> Methanol
+         * Move bolt into oven to dry
+         * With new septa, bolt and ferrel in place, cut column using cutting tool 
+         * Retrieve dry bolt
+         
+      4. Replace column into inlet
+         * Properly place gold seal and return inlet bolt to inlet
+         * Replace inlet insulator
+         * Loosely screw ferrel (and column) into inlet
+         * Push column into inlet until column tool line reaches the appropriate level
+         * Tighten ferrel and bolt into inlet slowly, ensuring the column tool level is maintained. 
+         * Replace insert liner, septa, and o-ring
+         * Bake column @ 20-40 degrees below max for 30minutes
+         * Run ovenblank to test baseline
+
 ------
 
 <div id='id-section47'/>    
 
 ### Page 47: 20180330 USDA | Bioassay, Abstract UF | respirometry, seminar
+
+#### **Respirometry**
+1. Larvae weighed and loaded into a 5mL syringe 
+2. Syringe air purged of CO2, and hydrated
+3. Larvae held for ~1hr in syringe
+4. Using a LiCor meter, the syringe air is  analyzed for CO2 production.
+
+#### **Bio-assay**
+* larvae annotated for 5th instar, wandering status, sampled for continuous sample, and data entered
 
 ------
 
@@ -1607,11 +1689,36 @@ sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
 
 ### Page 48: 20180331 USDA | Dilutions prep, Bioassay prep, bioassay, LC prep and blank run
 
+#### **Bio-assay**
+* larvae annotated for 5th instar, wandering status, sampled for continuous sample, and data entered
+
+#### Dilutions
+* Lipid extracts dried in preparation for dilution
+
+#### LC Prep
+1. Turn on pump, remove line to column, prime, purge, and pump LC with ACN (30m)
+2. Attach column, pump LC with ACN (30m)
+3. Prime, purge, flush and pump LC with target solvent (30mins)
+
 ------
 
 <div id='id-section49'/>    
 
 ### Page 49: 20180401 USDA | Dilutions, Bioassay, lab maint. LC prep
+
+#### **Bio-assay**
+* larvae annotated for 5th instar, wandering status, sampled for continuous sample, and data entered
+
+#### LC Prep
+1. Prime, purge, flush, and pump LC with target solvent (15m)
+2. Run blank sequence using intended solvent gradient
+
+#### Dilutions
+* Lipid extracts dried
+* Dried lipids weighed to obtain lipid mass
+* EXACTLY 4ml of DCM added to each lipid sample
+* Diluted lipids filtered using PVDF syringe filter
+* Diluted and filtered lipid samples stored at -20C 
 
 ------
 
@@ -1619,29 +1726,70 @@ sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
 
 ### Page 50: 20180402 UF | Respirometry, lab meeting USDA | Bioassay, LC prep
 
+#### **Respirometry**
+1. Larvae weighed and loaded into a 5mL syringe 
+2. Syringe air purged of CO2, and hydrated
+3. Larvae held for ~1hr in syringe
+4. Using a LiCor meter, the syringe air is  analyzed for CO2 production.
+
+#### **Bio-assay**
+* larvae annotated for 5th instar, wandering status, sampled for continuous sample, and data entered
+
+#### LC Prep
+1. Prime, purge, flush, and pump LC with target solvent (15m)
+2. Run blank sequence using intended solvent gradient
+
 ------
 
 <div id='id-section51'/>    
 
-### Page 51: 20180403 USDA | Bioassay, LC runs, LC batches setup
+### Page 51: 20180403 USDA | Bioassay, LC batches and runs
+
+#### **Bio-assay**
+* larvae annotated for 5th instar, wandering status, sampled for continuous sample, and data entered
+
+#### LC Batches and Runs
+* Batches prepared w/QC and cal curve
+* sequence template constructed
+* LC prepared and sequence run initialized
+
 
 ------
 
 <div id='id-section52'/>    
 
-### Page 52: 20180404 USDA | LC run, Bioassay, Bioassay setup, df updates, meeting
+### Page 52: 20180404 USDA | Bioassay and setup, df updates, meeting
 
+#### **Bio-assay setup**
+* setup BE 0314 
+* larvae into assay trays @ USDA
+* annotated 5th instar
+* larvae annotated for 5th instar, sampled for continuous sample, and data entered
 ------
 
 <div id='id-section53'/>    
 
 ### Page 53: 20180405 USDA | Lab maintenance, bioassay, Shirk lab instrumentation demo
 
+#### **Bio-assay**
+* larvae annotated for 5th instar, wandering status, sampled for continuous sample, and data entered
+
+#### Demo
+* Cell sorting instrument:
+  * sorts cells using GFP, RFP tags
+  * optimized to sort single cells, two at a time 
+
 ------
 
 <div id='id-section54'/>    
 
 ### Page 54: 20180406 UF | Respirometry, ENSO meeting prep/execute
+
+#### **Respirometry**
+1. Larvae weighed and loaded into a 5mL syringe 
+2. Syringe air purged of CO2, and hydrated
+3. Larvae held for ~1hr in syringe
+4. Using a LiCor meter, the syringe air is  analyzed for CO2 production.
  
 ------
 
@@ -1649,78 +1797,165 @@ sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
 
 ### Page 55: 20180407 UF | BE adult cage husbandry, BugFest table USDA | Bioassay
 
+#### **Bio-assay**
+* larvae annotated for 5th instar, wandering status, sampled for continuous sample, and data entered
+
+#### **Husbandry**
+1. Checked ECB adults for health and checked incubators for environmental conditions
 ------
 
 <div id='id-section56'/>    
 
 ### Page 56: 20180408 USDA | df updates, Bioassay, dilutions prep
 
+#### **Bio-assay**
+* larvae annotated for 5th instar, wandering status, sampled for continuous sample, and data entered
+
+#### Dilutions
+* Lipid extracts dried in preparation for dilution
 ------
 
 <div id='id-section57'/>    
 
-### Page 57:
+### Page 57: 20180409 USDA | Bioassay, Lit Meeting w/ RLM, Lab meeting w/QCC, Journal club 
+
+#### **Bio-assay**
+* larvae annotated for 5th instar, wandering status, sampled for continuous sample, and data entered
 
 ------
 
 <div id='id-section58'/>    
 
-### Page 58:
+### Page 58: 20180410 USDA | LC Runs, Bioassay, Lipid dilutions, LC pre-column config
+
+#### **Bio-assay**
+* larvae annotated for 5th instar, wandering status, sampled for continuous sample, and data entered
+
+#### Dilutions
+* Lipid extracts dried
+* Dried lipids weighed to obtain lipid mass
+* EXACTLY 4ml of DCM added to each lipid sample
+* Diluted lipids filtered using PVDF syringe filter
+* Diluted and filtered lipid samples stored at -20C 
+
+#### Pre-Column
+* LC pre-column prepared and connected to the LC run flow
+
+#### LC Batches and Runs
+* Batches prepared w/QC and cal curve
+* sequence template constructed
 
 ------
 
 <div id='id-section59'/>    
 
-### Page 59:
+### Page 59: 20180411 USDA | Prep LC runs, Bioassay prep and analysis, df updates, lit search for RLM, w/ JLM
+#### **Bio-assay**
+* larvae annotated for 5th instar, wandering status, sampled for continuous sample, and data entered
 
+#### LC prep runs
+* Prepared LC batch run "Blank" sequence initialized
 ------
 
 <div id='id-section60'/>    
 
-### Page 60:
+### Page 60: 20180414 USDA | Bioassay
+
+#### **Bio-assay**
+* larvae annotated for 5th instar, wandering status, sampled for continuous sample, and data entered
+
 
 ------
 
 <div id='id-section61'/>    
 
-### Page 61:
+### Page 61: 20180415 USDA | Bioassay, LC runs batch 3
 
+#### **Bio-assay**
+* larvae annotated for 5th instar, wandering status, sampled for continuous sample, and data entered
+
+#### LC Runs
+* Prepared LC batch sequence initialized
 ------
 
 <div id='id-section62'/>    
 
-### Page 62:
+### Page 62: 20180416 USDA | Dilutions, Bioassay, Batch prep, Mass data collection
+
+#### **Bioassay**
+* larvae annotated for 5th instar, wandering status, sampled for continuous sample, and data entered
+
+#### Dilutions
+* Lipid extracts dried
+* Dried lipids weighed to obtain lipid mass
+* EXACTLY 4ml of DCM added to each lipid sample
+* Diluted lipids filtered using PVDF syringe filter
+* Diluted and filtered lipid samples stored at -20C 
 
 ------
 
 <div id='id-section63'/>    
 
-### Page 63:
+### Page 63: 20180417 USDA | Dillutions prep, bioassay, husbandry, HB interview, admin  
 
+#### **Bio-assay**
+* larvae annotated for 5th instar, wandering status, sampled for continuous sample, and data entered
+
+#### **Husbandry**
+1. Checked Larvae for health and checked incubators for environmental conditions
+
+#### Dilutions
+* Lipid extracts dried in preparation for dilution
 ------
 
 <div id='id-section64'/>    
 
-### Page 64:
+### Page 64: 20180418 USDA | Bioassay, Dilutions, colony tracker, meetings prep, exp design, project update
+
+#### **Bio-assay**
+* larvae annotated for 5th instar, wandering status, sampled for continuous sample, and data entered
+
+#### Dilutions
+* Lipid extracts dried
+* Dried lipids weighed to obtain lipid mass
+* EXACTLY 4ml of DCM added to each lipid sample
+* Diluted lipids filtered using PVDF syringe filter
+* Diluted and filtered lipid samples stored at -20C 
 
 ------
 
 <div id='id-section65'/>    
 
-### Page 65:
+### Page 65: 20180419 USDA | Bioassay, Dilutions prep, Husbandry, w/JLM
+#### **Husbandry**
+1. Checked Larvae for health and checked incubators for environmental conditions
+#### **Bio-assay**
+* larvae annotated for 5th instar, wandering status, sampled for continuous sample, and data entered
 
+#### Dilutions
+* Lipid extracts dried in preparation for dilution
+
+#### JLM
+* completed two runs of extraction protocol and became ill. 
+* 4 remaining runs will be completed 4/24/18
 ------
 
 <div id='id-section66'/>    
 
-### Page 66:
+### Page 66: 20180420  USDA | Bioassay, Husbandry
+#### **Husbandry**
+1. Checked Larvae for health and checked incubators for environmental conditions
+#### **Bio-assay**
+* larvae annotated for 5th instar, wandering status, sampled for continuous sample, and data entered
 
 ------
 
 <div id='id-section67'/>    
 
-### Page 67:
-
+### Page 67: 20180421 USDA | Bioassay, dilutions, wear & write
+#### Bioassay
+#### Dilutions
+#### read & write
 ------
 
 <div id='id-section68'/>    
