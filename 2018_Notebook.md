@@ -16,8 +16,9 @@ output:
 # Literature
 * [Literature: Templates ](#id-sectionTemplates).  
 * [Literature: Thesis ](#id-sectionThesis).     
-* [Literature: Misc. ](#id-sectionMisc).   
+* [Literature: Misc. ](#id-sectionLabMeetings).   
 * [Literature: Journal Club ](#id-sectionJournalClub). 
+* [Literature: Journal Club ](#id-Books).
 
 # Table of contents (for 201 entries)    
 * [Page 1: 2018-01-01 ](#id-section1). UF Respirometry 
@@ -2822,9 +2823,9 @@ Read Bethenod 2005 paper.
 
 
 ------
-<div id='id-sectionMisc'/> 
+<div id='id-sectionLabMeetings'/> 
 
-### MISC
+### Lab Meetings
 
 #### (20180409: The role of PDF (pigment dispursing factor) in the regulation of ecdysone)
 
@@ -2988,3 +2989,20 @@ c. extrapolation of warming data for non insect taxa by latitude|
 |Fig 5|
 |**Discussion**|
 |---|
+
+------
+
+<div id='id-sectionBooks'/>  
+
+### Books
+
+| Author: | Title | Summary/Abstract |  
+| ------- | ----- | ------ | 
+| Chown, S.L. and Nicolson, S.| Insect Physiological Ecology: Mechanisms and Patterns (DOI:10.1093/acprof:oso/9780198515494.001.0001)| This book provides a modern, synthetic overview of interactions between insects and their environments from a physiological perspective that integrates information across a range of approaches and scales. It shows that evolved physiological responses at the individual level are translated into coherent physiological and ecological patterns at larger, even global scales. This is done by examining in detail the ways in which insects obtain resources from the environment, process these resources in various ways, and turn the results into energy which allows them to regulate their internal environment as well as cope with environmental extremes of temperature and water availability. The book demonstrates that physiological responses are not only characterized by substantial temporal variation, but also show coherent variation across several spatial scales. At the largest, global scale, there appears to be substantial variation associated with the hemisphere in which insects are found. Such variation has profound implications for patterns of biodiversity as well as responses to climate change, and these implications are explicitly discussed. The book provides a novel integration of the understanding gained from broad-scale field studies of many species and the more narrowly focused laboratory investigations of model organisms. In so doing, it reflects the growing realization that an integration of mechanistic and large-scale comparative physiology can result in unexpected insights into the diversity of insects. |
+
+|Chapters|
+|---|
+|** Nutritional Physiology and Ecology:**|
+|---|
+|Insect Physiological and Ecology: Chown and Nicholson|
+
