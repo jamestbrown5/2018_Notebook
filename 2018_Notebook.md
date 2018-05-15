@@ -2797,39 +2797,40 @@ sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
 |Quote|"...Sympatric speciation was considered implausible because the conditions required were thought by many to be very unlikely to occurin nature, notably due to the selection/recombination antag-onism identified by Felsenstein"|
 |---|---|
 |Note|argument agains sympatric specation|
-|---|---|
+
 |Quote|"...habitat- or host-plant-based assortative mating"|
 |---|---|
 |Note|argument for sympatric speciation|
-|---|---|
+
 |Quote|"...In Europe, its main hosts are maize (Zea mays) and mugwort (Artemisia vulgaris; Thompson and Parker 1928)."|
 |---|---|
 |Note|host plant variety and life history|
+
+|Quote|"...The second polymorphic trait involved in reproductive iso-
+lation is the number of generations per year (Stengel and Schubert 1982; Glover et al. 1992). Populations of ECB are classified into genetically univoltine (U) population with a compulsory diapause and genetically bivoltine (B) popula- tions with a facultative diapause."|
 |---|---|
+|Note|ecologically cumpulsory|
+
 |Quote|---|
 |---|---|
 |Note|---|
-|---|---|
+
 |Quote|---|
 |---|---|
 |Note|---|
-|---|---|
+
 |Quote|---|
 |---|---|
 |Note|---|
-|---|---|
+
 |Quote|---|
 |---|---|
 |Note|---|
-|---|---|
+
 |Quote|---|
 |---|---|
 |Note|---|
-|---|---|
-|Quote|---|
-|---|---|
-|Note|---|
-|---|---|
+
 |Quote|---|
 |---|---|
 |Note|---|
