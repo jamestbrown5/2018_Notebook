@@ -2788,16 +2788,51 @@ sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
 | ------- | ----- | ------ | --------- | ---- | --------|
 | Thomas, Y. et. al| GENETIC ISOLATION BETWEEN TWO SYMPATRIC HOST-PLANT RACES OF THE EUROPEAN CORN BORER, OSTRINIA NUBILALIS HÜBNER. I. SEX PHEROMONE, MOTH EMERGENCE TIMING, AND PARASITISM | O. nubilalis  | Investiging the factors involved in the genetic isolation of these two races at a field site near Paris, France. | ---- | Determing effects of assortative mating: life history differences in emergence. Pheromone comparison between host strains. Parasitism rates compared. Relationship between pheromone response, emergence, and the Tpi locus |
 
+##### Introduction
 |Quote|"...parasitoid wasp, Macrocentrus cingulum, that killed more than 50% of the larvae overwintering on mugwort"|
 |---|---|
 |Note|THis difference in parasitism in the mugwort host is intersting. Review some lit|
 |---|---|
-|Quote|"Sympatric speciation was considered implausible because the conditions required were thought by many to be very unlikely to occurin nature, notably due to the selection/recombination antag-onism identified by Felsenstein"|
+|Quote|"...Sympatric speciation was considered implausible because the conditions required were thought by many to be very unlikely to occurin nature, notably due to the selection/recombination antag-onism identified by Felsenstein"|
 |---|---|
 |Note|argument agains sympatric specation|
+|---|---|
+|Quote|"...habitat- or host-plant-based assortative mating"|
+|---|---|
+|Note|argument for sympatric speciation|
+|---|---|
+|Quote|"...In Europe, its main hosts are maize (Zea mays) and mugwort (Artemisia vulgaris; Thompson and Parker 1928)."|
+|---|---|
+|Note|host plant variety and life history|
+|---|---|
 |Quote|---|
 |---|---|
 |Note|---|
+|---|---|
+|Quote|---|
+|---|---|
+|Note|---|
+|---|---|
+|Quote|---|
+|---|---|
+|Note|---|
+|---|---|
+|Quote|---|
+|---|---|
+|Note|---|
+|---|---|
+|Quote|---|
+|---|---|
+|Note|---|
+|---|---|
+|Quote|---|
+|---|---|
+|Note|---|
+|---|---|
+|Quote|---|
+|---|---|
+|Note|---|
+
 
 #### (20180409: A Brief History)
 
