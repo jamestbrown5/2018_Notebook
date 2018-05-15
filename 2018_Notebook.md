@@ -2768,6 +2768,14 @@ sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
 | ------- | ----- | ------ | --------- | ---- | --------|
 | --------| ---   | -----  | --------- | ---- | --------|
 
+|Summary|
+|---|
+|---|
+
+
+|Quote|---|
+|---|---|
+|Note|---|
 
 
 ------
@@ -2775,9 +2783,24 @@ sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
 
 ### THESIS:
 
-#### (20180409: )
+#### (20180326: A Brief History)
+| Author: | Title |  Model | Question? | Goal | Methods |
+| ------- | ----- | ------ | --------- | ---- | --------|
+| Thomas, Y. et. al| GENETIC ISOLATION BETWEEN TWO SYMPATRIC HOST-PLANT RACES OF THE EUROPEAN CORN BORER, OSTRINIA NUBILALIS HÜBNER. I. SEX PHEROMONE, MOTH EMERGENCE TIMING, AND PARASITISM
+Author(s): | O. nubilalis  | Investiging the factors involved in the genetic isolation of these two races at a field site near Paris, France. | ---- | Determing effects of assortative mating: life history differences in emergence. Pheromone comparison between host strains. Parasitism rates compared. Relationship between pheromone response, emergence, and the Tpi locus |
 
-#### Primary Literature Template
+|Quote|"...parasitoid wasp, Macrocentrus cingulum, that killed more than 50% of the larvae overwintering on mugwort"|
+|---|---|
+|Note|THis difference in parasitism in the mugwort host is intersting. Review some lit|
+|---|---|
+|Quote|"Sympatric speciation was considered implausible because the conditions required were thought by many to be very unlikely to occurin nature, notably due to the selection/recombination antag-onism identified by Felsenstein"|
+|---|---|
+|Note|argument agains sympatric specation|
+|Quote|---|
+|---|---|
+|Note|---|
+
+#### (20180409: A Brief History)
 
 | Author: | Title |  Model | Question? | Goal | Methods |
 | ------- | ----- | ------ | --------- | ---- | --------|
@@ -2808,19 +2831,24 @@ Read Showers 1975 and Roelolfs 1977.
 Web of Science to find authors.....Do it!
 Read Bethenod 2005 paper.
 
-
+#### (20180423: Voltinism vs Host Strains)
 | Author: | Title |  Model | Question? | Goal | Methods |
 | ------- | ----- | ------ | --------- | ---- | --------|
 | --------| ----- | -----  | --------- | ---- | --------|
 
-| Author: | Title |  Model | Question? | Goal | Methods |
-| ------- | ----- | ------ | --------- | ---- | --------|
-| --------| ---   | -----  | --------- | ---- | --------|
+|Quote|---|
+|---|---|
+|Note|---|
+
+#### (20180521: Pheromone Strains/Species Complex, US Host Strains)
 
 | Author: | Title |  Model | Question? | Goal | Methods |
 | ------- | ----- | ------ | --------- | ---- | --------|
 | --------| ---   | -----  | --------- | ---- | --------|
 
+|Quote|---|
+|---|---|
+|Note|---|
 
 ------
 <div id='id-sectionLabMeetings'/> 
