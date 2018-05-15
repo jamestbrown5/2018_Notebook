@@ -2793,7 +2793,7 @@ sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
 |Quote|"...parasitoid wasp, Macrocentrus cingulum, that killed more than 50% of the larvae overwintering on mugwort"|
 |---|---|
 |Note|THis difference in parasitism in the mugwort host is intersting. Review some lit|
-|---|---|
+
 |Quote|"...Sympatric speciation was considered implausible because the conditions required were thought by many to be very unlikely to occurin nature, notably due to the selection/recombination antag-onism identified by Felsenstein"|
 |---|---|
 |Note|argument agains sympatric specation|
