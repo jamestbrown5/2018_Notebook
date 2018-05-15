@@ -2786,8 +2786,7 @@ sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
 #### (20180326: A Brief History)
 | Author: | Title |  Model | Question? | Goal | Methods |
 | ------- | ----- | ------ | --------- | ---- | --------|
-| Thomas, Y. et. al| GENETIC ISOLATION BETWEEN TWO SYMPATRIC HOST-PLANT RACES OF THE EUROPEAN CORN BORER, OSTRINIA NUBILALIS HÜBNER. I. SEX PHEROMONE, MOTH EMERGENCE TIMING, AND PARASITISM
-Author(s): | O. nubilalis  | Investiging the factors involved in the genetic isolation of these two races at a field site near Paris, France. | ---- | Determing effects of assortative mating: life history differences in emergence. Pheromone comparison between host strains. Parasitism rates compared. Relationship between pheromone response, emergence, and the Tpi locus |
+| Thomas, Y. et. al| GENETIC ISOLATION BETWEEN TWO SYMPATRIC HOST-PLANT RACES OF THE EUROPEAN CORN BORER, OSTRINIA NUBILALIS HÜBNER. I. SEX PHEROMONE, MOTH EMERGENCE TIMING, AND PARASITISM | O. nubilalis  | Investiging the factors involved in the genetic isolation of these two races at a field site near Paris, France. | ---- | Determing effects of assortative mating: life history differences in emergence. Pheromone comparison between host strains. Parasitism rates compared. Relationship between pheromone response, emergence, and the Tpi locus |
 
 |Quote|"...parasitoid wasp, Macrocentrus cingulum, that killed more than 50% of the larvae overwintering on mugwort"|
 |---|---|
