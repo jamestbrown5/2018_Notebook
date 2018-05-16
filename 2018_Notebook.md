@@ -2894,8 +2894,9 @@ Results|
 #### (20180409: The role of PDF (pigment dispursing factor) in the regulation of ecdysone)
 
 | Author: | Title | Biological System | Model | Experiments | Methods |
-| Masatoshi, I. et al. | Pigment Dispersing Factor Regulates Ecdysone Biosynthesis via Bombyx Neuropeptide G Protein Coupled Receptor-B2 in the Prothoracic Glands of Bombyx mori  | Ecdysteriod production | Bombyx mori | ----------- | ------- |
-|---        | --- | ---              | ---    | -------      |---|
+| ------- | ----- |------------------ | ----- | ----------- | ------- | 
+| Masatoshi, I. et al. | Pigment Dispersing Factor Regulates Ecdysone Biosynthesis via Bombyx Neuropeptide G Protein Coupled Receptor-B2 in the Prothoracic Glands of Bombyx mori  | Ecdysteriod production | Bombyx mori|---|
+
 =======
 
 #### (20180409: Understanding the biosynthetic pathway of ecdysone production starting with the receptor)
