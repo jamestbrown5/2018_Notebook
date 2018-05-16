@@ -2768,7 +2768,8 @@ sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
 | ------- | ----- | ------ | --------- | ---- | --------|
 | --------| ---   | -----  | --------- | ---- | --------|
 
-|Summary|
+#### Discussion
+|---|
 |---|
 |---|
 
@@ -2872,9 +2873,56 @@ Read Bethenod 2005 paper.
 | 2011 Folcher et. al | Changes in Parasitoid Communities Over Time and Space: A Historical Case Study of the Maize Pest O. nubilalis| O. nubilalis, O. scapulalis, and associated parasitoids | We document here changes in the larval parasitoid communities of Ostrinia nubilalis — the main pest of maize — and its sibling species O. scapulalis, based on two historical datasets, one collected from 1921 1928 and the other from 2001–2005. Each of these datasets encompasses several years and large geographical areas and was based on several thousands/millions of host larvae. | We provide here an analysis of the complete dataset for the larval ECB parasitoid community obtained from 2001 to 2005 by the French Ministry of Agriculture. | We compared this dataset with the USDA dataset for 1921 1928, to determine (i) whether and to what extent the larval parasitoid communities of O. nubilalis and O. scapulalis had changed over a 80-year period marked by intense environmental modifications, (ii) whether these changes were of similar magnitude for the two main groups of parasitoids, tachinids and hymenopterans and (iii) whether the expansion of O. nubilalis into the range of O. scapulalis driven by human activity was accompanied by changes in diversity and, more specifically, by any phenomenon of parasite release, "spill over" or "spill back".
 Results|
 
+|Quote|Parasitoids following their hosts into new areas may eventually parasitise native hosts in the newly colonized habitats, a situation known as parasite ‘‘spill over’’ [42,43]. Finally, parasitoids already established in areas into which the species with the expanding range moves may switch host to the invader from resident host species related to the invader, triggering a parasite ‘‘spill back’|
+|---|---|
+|Note|spill over: host range expansion = parasitoid range expansion. could lead to parasitoid preferring native hosts to invader host  ---- spill back: native parasioids prefering invader hosts to native hosts|
+
+|Quote| "Meanwhile, population genetics and ecological studies showed that the Ostrinia larvae feeding on mugwort actually belonged to O. scapulalis, a sibling species of O. nubilalis [56]. Although interfertile and similar morphologically, these two species are genetically differentiated from each other and feed on different host plants: mugwort, hop (Humulus lupulus L.) and hemp (Cannabis sativa L.) for O. scapulalis and maize for O. nubilalis (see [56] for a review). For unknown reasons, O. scapulalis is mostly restricted to northern France [53,57]. A few larvae of this species have been detected on mugwort in central France [53,54] but it does not infest this weed in southern France [53,57]."|
+|---|---|
+|Note|these two ostrinia "species" have different ranges and although the hosts are available throughout the distribution of both "species"|
+
+|Quote|This difference in H9 resulted
+mostly from the decrease in PR over time documented above.|
+|---|---|
+|Note|H' = diversity index --- PR = parasitism rates|
+
+|Quote| "The mean PR per site in the newly colonized regions was half that in the ancestral regions (Table 3).
+PR per site in the intermediate regions was twice that in ancestral regions and four times that in newly colonized regions
+For all parasitoids considered together, the mean SR per site in the newly colonized regions was one half to one third that in the intermediate and ancestral regions, respectively"|
+|---|---|
+|Note|SR = species richness, |
+
+##### Discussion
+|Overview|
+|---|
+| "...differences in abundance, composition and richness between these two periods of time probably result from real and durable changes within the parasitoid communities rather than biased and/or limited sampling.|
+
+|Changes in parasitoid community over time|
+|---|
+|for O. nubilalis, parasitism rates have declined but species richness has not changes. For O. scapulalis, parasitism rates have NOT declined  but species richness has declined. THe decline in SR could be due to the range expansion of one braconid wasp and the loss of one species|
+|---|
+|O. nubilalis and O. Scapulalis infestation densities have not changed between the 1920s and 2000s|
+|---|
+|Lower species richness in O. nubilalis could be due to the introduction of herbicides and pesticides in managed agro-ecosystems in which they live.|
+
+|Changes in ECB range and parasite community|
+|---|
+|Parasitism rate reduction in ECB regions could be due to the enemy free space provided by maize introduction|
+
+| Author: | Title |  Model | Question? | Goal | Methods |
+| ------- | ----- | ------ | --------- | ---- | --------|
+| Bailey, R| Dispersal Propensity and Settling Preferences of European Corn Borers in Maize Field Borders | O. nubilalis  | --------- | ---- | --------|
+
+#### Discussion
+|---|
+|---|
+|---|
+
+
 |Quote|---|
 |---|---|
 |Note|---|
+
 
 #### (20180521: Pheromone Strains/Species Complex, US Host Strains)
 
@@ -2896,8 +2944,6 @@ Results|
 | Author: | Title | Biological System | Model | Experiments | Methods |
 | ------- | ----- |------------------ | ----- | ----------- | ------- | 
 | Masatoshi, I. et al. | Pigment Dispersing Factor Regulates Ecdysone Biosynthesis via Bombyx Neuropeptide G Protein Coupled Receptor-B2 in the Prothoracic Glands of Bombyx mori  | Ecdysteriod production | Bombyx mori|---|
-
-=======
 
 #### (20180409: Understanding the biosynthetic pathway of ecdysone production starting with the receptor)
 
