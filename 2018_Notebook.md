@@ -2828,8 +2828,7 @@ lation is the number of generations per year (Stengel and Schubert 1982; Glover 
 
 |Voltinsim|
 |---|
-|"...
-we concluded that the popu-lation collected on maize was bivoltine Z (bivoltine using Z pheromone), whereas the population sampled on mugwort was mainly, although not exclusively, bivoltine E (bivoltine using E pheromone)."|
+|"...we concluded that the popu-lation collected on maize was bivoltine Z (bivoltine using Z pheromone), whereas the population sampled on mugwort was mainly, although not exclusively, bivoltine E (bivoltine using E pheromone)."|
 
 
 
