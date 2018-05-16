@@ -2821,6 +2821,7 @@ lation is the number of generations per year (Stengel and Schubert 1982; Glover 
 |---|---|
 |Note|mugwort: less Tpi heteros in lab, less mpi and pgm heteros in nature|
 
+
 ##### Discussion
 
 |Sex Pheromone Composition|
@@ -2830,7 +2831,6 @@ lation is the number of generations per year (Stengel and Schubert 1982; Glover 
 |Voltinsim|
 |---|
 |"...we concluded that the popu-lation collected on maize was bivoltine Z (bivoltine using Z pheromone), whereas the population sampled on mugwort was mainly, although not exclusively, bivoltine E (bivoltine using E pheromone)."|
-
 
 
 #### (20180409: A Brief History)
@@ -2846,6 +2846,7 @@ lation is the number of generations per year (Stengel and Schubert 1982; Glover 
 |Postzygotic: differrenfces found in egg masses, larvae, females, pupa devcelopment time |
 
 
+
 | Author: | Title |  Model | Question? | Goal | Methods |
 | ------- | ----- | ------ | --------- | ---- | --------|
 | Roelofs, W. et al. | Three European corn borer populations in New York based on sex pheromones and voltinism | -Ostrinia nubilalis| The degree to which biotypes and pheromone strains contribute to the existance of distinct ECB populations in upstate NY | Determine the correlation between the biotypes (voltinism) and pheromone strains (races).| Female Pheromone analysis via soaking in Skelly B and GC analysis of eggs collected during each flight peak (June-bi, July-un, and Aug-bi)|
@@ -2856,6 +2857,7 @@ lation is the number of generations per year (Stengel and Schubert 1982; Glover 
 |---|
 |Geneva site analysis 1983: overwintered larva collected from May to June, same plots were caged and showed adult emergence in June. Larvae reared and Eggs collected from adults indicate E strain. On July 5, two females Z strain emerged. Geneva 1984: June 7-18 flight, E strain females or hybrids. June 23 flight Z strain females|
 
+
 ##### Meeting Notes: Email Rob By Tuesday COB
 
 What is the deal with host race emphasis in europe?
@@ -2865,6 +2867,8 @@ Showers, mating areas for ECB paper?
 Read Showers 1975 and Roelolfs 1977.
 Web of Science to find authors.....Do it!
 Read Bethenod 2005 paper.
+
+
 
 #### (20180423: Voltinism vs Host Strains)
 
@@ -2908,6 +2912,8 @@ For all parasitoids considered together, the mean SR per site in the newly colon
 |Changes in ECB range and parasite community|
 |---|
 |Parasitism rate reduction in ECB regions could be due to the enemy free space provided by maize introduction|
+
+
 
 | Author: | Title |  Model | Question? | Goal | Methods |
 | ------- | ----- | ------ | --------- | ---- | --------|
