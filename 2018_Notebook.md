@@ -2786,7 +2786,7 @@ sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
 #### (20180326: A Brief History)
 | Author: | Title |  Model | Question? | Goal | Methods |
 | ------- | ----- | ------ | --------- | ---- | --------|
-| Thomas, Y. et. al| GENETIC ISOLATION BETWEEN TWO SYMPATRIC HOST-PLANT RACES OF THE EUROPEAN CORN BORER, OSTRINIA NUBILALIS H�BNER. I. SEX PHEROMONE, MOTH EMERGENCE TIMING, AND PARASITISM | O. nubilalis  | Investiging the factors involved in the genetic isolation of these two races at a field site near Paris, France. | ---- | Determing effects of assortative mating: life history differences in emergence. Pheromone comparison between host strains. Parasitism rates compared. Relationship between pheromone response, emergence, and the Tpi locus |
+| Thomas, Y. et. al| GENETIC ISOLATION BETWEEN TWO SYMPATRIC HOST-PLANT RACES OF THE EUROPEAN CORN BORER, OSTRINIA NUBILALIS HÜBNER. I. SEX PHEROMONE, MOTH EMERGENCE TIMING, AND PARASITISM | O. nubilalis  | Investiging the factors involved in the genetic isolation of these two races at a field site near Paris, France. |"...question is whether the variations in pheromone composition and voltinism are connected to the genetic divergence of sympatric host-plant populations." | Determing effects of assortative mating: life history differences in emergence. Pheromone comparison between host strains. Parasitism rates compared. Relationship between pheromone response, emergence, and the Tpi locus |
 
 ##### Introduction
 
@@ -2811,29 +2811,24 @@ lation is the number of generations per year (Stengel and Schubert 1982; Glover 
 |---|---|
 |Note|ecologically cumpulsory|
 
-|Quote|---|
+|Quote|"For all three sets of stalks for the maize race, we found no deviation from Hardy-Weinberg expectations at any individual locus or across all loci (Table 4). Conversely, several deviations from Hardy-Weinberg equilibrium were found within the mugwort race (Table 4)."|
 |---|---|
-|Note|---|
+|Note|HW-genetic variation in the pop is constant w/o disturbance|
 
-|Quote|---|
+|Quote|"The Tpi locus showed a significant deficit of heterozygotes in overwintering larvae (fˆ? 0.248, P ? 0.035) and in moths emerging in laboratory conditions (fˆ ? 0.449, P ? 0.040), but not in moths emerging in natural conditions (fˆ? 0.079, P? 0.663). Moths emerging in natural conditions displayed a major deficit of heterozygotes at both the Mpi (fˆ ? 0.484, P ? 0.001) and the Pgm (fˆ ? 0.414, P ? 0.001) loci, responsible for the significant deficit in heterozygotes detected across all loci (fˆ ? 0.215, P ? 0.001; Table 4)."|
 |---|---|
-|Note|---|
+|Note|mugwort: less Tpi heteros in lab, less mpi and pgm heteros in nature|
 
-|Quote|---|
-|---|---|
-|Note|---|
+##### Discussion
+|Sex Pheromone Composition|
+|---|
+|" Males respond maximally to the pheromone blend of their own race (Priesner and Baltensweiler 1987)." "...In laboratory conditions, Z males do not respond to the E blend and very few E males respond to the Z blend (Glover et al. 1990)." "... Finally, assor-tative mating between the two races may be further enhanced because of the differences in calling periodicity between the E and Z ECB."|
 
-|Quote|---|
-|---|---|
-|Note|---|
+|Voltinsim|
+|---|
+|"...
+we concluded that the popu-lation collected on maize was bivoltine Z (bivoltine using Z pheromone), whereas the population sampled on mugwort was mainly, although not exclusively, bivoltine E (bivoltine using E pheromone)."|
 
-|Quote|---|
-|---|---|
-|Note|---|
-
-|Quote|---|
-|---|---|
-|Note|---|
 
 
 #### (20180409: A Brief History)
@@ -2847,6 +2842,7 @@ lation is the number of generations per year (Stengel and Schubert 1982; Glover 
 |Prezygotic: Time of mating was similar between strains. Other tests between strains have revealed that pheromone blend may be more important in maintaining strains.|
 |---|
 |Postzygotic: differrenfces found in egg masses, larvae, females, pupa devcelopment time |
+
 
 | Author: | Title |  Model | Question? | Goal | Methods |
 | ------- | ----- | ------ | --------- | ---- | --------|
@@ -2870,7 +2866,8 @@ Read Bethenod 2005 paper.
 #### (20180423: Voltinism vs Host Strains)
 | Author: | Title |  Model | Question? | Goal | Methods |
 | ------- | ----- | ------ | --------- | ---- | --------|
-| --------| ----- | -----  | --------- | ---- | --------|
+| 2011 Folcher et. al | Changes in Parasitoid Communities Over Time and Space: A Historical Case Study of the Maize Pest O. nubilalis| O. nubilalis, O. scapulalis, and associated parasitoids | We document here changes in the larval parasitoid communities of Ostrinia nubilalis — the main pest of maize — and its sibling species O. scapulalis, based on two historical datasets, one collected from 1921 1928 and the other from 2001–2005. Each of these datasets encompasses several years and large geographical areas and was based on several thousands/millions of host larvae. | We provide here an analysis of the complete dataset for the larval ECB parasitoid community obtained from 2001 to 2005 by the French Ministry of Agriculture. | We compared this dataset with the USDA dataset for 1921 1928, to determine (i) whether and to what extent the larval parasitoid communities of O. nubilalis and O. scapulalis had changed over a 80-year period marked by intense environmental modifications, (ii) whether these changes were of similar magnitude for the two main groups of parasitoids, tachinids and hymenopterans and (iii) whether the expansion of O. nubilalis into the range of O. scapulalis driven by human activity was accompanied by changes in diversity and, more specifically, by any phenomenon of parasite release, "spill over" or "spill back".
+Results|
 
 |Quote|---|
 |---|---|
