@@ -2971,8 +2971,8 @@ the significant (F4,28 = 9"10, P < 10-4) Pj between experiments had been account
 #### (20180521: Pheromone Strains/Species Complex, US Host Strains)
 
 | Author: | Title |  Model | Question? | Goal | Methods |
-| 2007 CALCAGNO, V. et. al | Sympatric host races of the European corn borer: adaptation to host plants and hybrid performance | ECB | --------- | ---- | --------|
 | --------| ---   | -----  | --------- | ---- | --------|
+| 2007 CALCAGNO, V. et. al | Sympatric host races of the European corn borer: adaptation to host plants and hybrid performance | ECB | --------- | "...We conducted two independent experiments, in field and greenhouse conditions, to determine whether the two host races are locally adapted to their host species" | --------|
 
 |Quote|---|
 |---|---|
