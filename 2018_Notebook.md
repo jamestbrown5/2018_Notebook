@@ -2768,16 +2768,14 @@ sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
 | ------- | ----- | ------ | --------- | ---- | --------|
 | --------| ---   | -----  | --------- | ---- | --------|
 
-#### Discussion
-|---|
-|---|
-|---|
-
-
 |Quote|---|
 |---|---|
 |Note|---|
 
+#### Discussion
+|---|
+|---|
+|---|
 
 ------
 <div id='id-sectionThesis'/>  
@@ -2917,17 +2915,57 @@ For all parasitoids considered together, the mean SR per site in the newly colon
 
 | Author: | Title |  Model | Question? | Goal | Methods |
 | ------- | ----- | ------ | --------- | ---- | --------|
-| Bailey, R| Dispersal Propensity and Settling Preferences of European Corn Borers in Maize Field Borders | O. nubilalis  | --------- | ---- | --------|
+| Bailey, R.| Dispersal Propensity and Settling Preferences of European Corn Borers in Maize Field Borders | O. nubilalis  | present in the study sites. We were interested in the turnover and dispersal behaviour of adults once they have emerged from a maize field and moved into herbaceous borders of the cultivated fields, i.e. places in which they frequently rest during the day and mate
+at night (Pleasants & Bitzer 1999). | To examined the influence of a number of factors on this proportion, including habitat preferences, sex and, for an extended data set covering 3 years and five flight periods, a number of weather variab | For that purpose, we released ECB adults into such borders and estimated the proportion staying in the close vicinity of their point of release over 1 year. We have investigated further the dispersal behaviour of ECB using sweep nets for recapture, in an attempt to recapture exhaustively all released males and females present in the study sites.|
+
+|Exp Design|
+|---|
+|Exp 1: sex and habitat preference with different adjacent crops
+
+Exp 2: sex and habitat preference with same corn as adjacent crop AND unmarked adults
+
+Exp 3: dispersal of virgins and immigrants during first annual flight
+
+Exp 4: during first flight. number of young virgin females mated during a single night 
+
+Exp 5: During second flight. number of young virgin females mated during a single night |
+
+|Quote|Recapture rates were lower in field borders close to a maize than a sunflower field, and lower after night than|
+|---|---|
+|Note|exp 1: maize adjacent decreased recapture, sex is not significant|
+
+|Quote|in Fig. 1. They were 34-5% (30-0-39 1%) after 12 h day, 7-7% (3-12-4%) after 12 h night, 2-7% (1-4-2%) after 24 h, < 1% after 36 h and < 0-2% after 48 h (Fig. 1)|
+|---|---|
+|Note|exp 2: recapture higher during the day = more dispursal at night
+
+recapture higher where immigrants were, attraction?|
+
+|Quote|0-244, respe
+the significant (F4,28 = 9"10, P < 10-4) Pj between experiments had been accounted for, a significant effect of temperature (F1,28 = 6 P, decreased when night temperature in wind speed (FI,28 = 4-50, P = 0-043; Pj increased with increasing wind speed) was detected|
+|---|---|
+|Note|temp has sig effect on dispursal|
 
 #### Discussion
+|Dispursal Behav|
 |---|
-|---|
-|---|
+|adults that did leave the study area could have done so by means of long range dispersaL |
 
+|Implications for Bt resistance management|
+|---|
+|BECAUSE these insecdts have such a short dispersal range, the use of refuge areas to decrease the occurance of resistance may need to be approached in a different way|
 
-|Quote|---|
-|---|---|
-|Note|---|
+| Author: | Title |  Model | Question? | Goal | Methods |
+| --------| ---   | -----  | --------- | ---- | --------|
+| 1975 Showers, W.B. et. al | Ecotypes of the European corn borer in North America | O. nubilalis | Could strains based on environmental tolerance or ecotypes develop in the future given current biological variation | The papers purpose is to kinda develop a framework to apply to emerging ecotypes of ECB as a function of temperature and photoperiod | Exp 1: Diapause response of transplanted populations: larvae were collected, reared, and mated from the "collection" sites and tested in the field at the "test" sites. Exp 2: Survival and diapause response of indeginous ECB pops|
+
+#### Discussion
+|Survuval|
+|---|
+|1- Heat treatment increased spore innoculation and reduced survival. 2- As seasonal temps increase with decreasing latitude, ECB survival decreases. 3- corn at tiftin may have been superior|
+
+|Diapause|
+|---|
+|1- This study attemps to show the interation between photoperiod and temperature as in the diapause response as a function of ecotype. 2- the interaction between photoperiod and temperature does vary as temperatre and photoperiod icidence varies across latitude. NOTE this variation in diapause responce also varies with ecotype. 3 - this ecotype specificty couold be confounded by the fact that there are more than one strain within each collection. THe larvae that were collected from each location were collected during diapause. Depending on when these larvae were collected in the life stage of the insects lives there could be a unique mixture of different strains of ECB in each collection site which was not conotrolled for in the present experiment|
 
 
 #### (20180521: Pheromone Strains/Species Complex, US Host Strains)
@@ -2984,9 +3022,6 @@ For all parasitoids considered together, the mean SR per site in the newly colon
 ##### Note to self: 
 * Make a quick reference slide to describe the life history and the strain differences. Make it pretty!
 * When writing the dissertation possibly using direct formatting could be useful to have a direct comparison in the literature.
-
-##### Questions:
-* 
 
 ------
 
