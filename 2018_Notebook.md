@@ -2971,12 +2971,95 @@ the significant (F4,28 = 9"10, P < 10-4) Pj between experiments had been account
 #### (20180521: Pheromone Strains/Species Complex, US Host Strains)
 
 | Author: | Title |  Model | Question? | Goal | Methods |
-| ------- | ----- | ------ | --------- | ---- | --------|
+| 2007 CALCAGNO, V. et. al | Sympatric host races of the European corn borer: adaptation to host plants and hybrid performance | ECB | --------- | ---- | --------|
 | --------| ---   | -----  | --------- | ---- | --------|
 
 |Quote|---|
 |---|---|
 |Note|---|
+
+#### Discussion
+|---|
+|---|
+|---|
+
+| Author: | Title |  Model | Question? | Goal | Methods |
+| ------- | Genetic Variation and Inheritance of Diapause Induction in Two Distinct Voltine Ecotypes of Ostrinia nubilalis (Lepidoptera: Crambidae) | ------ | --------- | ---- | --------|
+| --------| ---   | -----  | --------- | ---- | --------|
+
+|Quote|---|
+|---|---|
+|Note|---|
+
+#### Discussion
+|---|
+|---|
+|---|
+
+| Author: | Title |  Model | Question? | Goal | Methods |
+| ------- | Parallel evolution of behaviour during independent host- shifts following maize introduction into Asia and Europe | ------ | --------- | ---- | --------|
+| --------| ---   | -----  | --------- | ---- | --------|
+
+|Quote|---|
+|---|---|
+|Note|---|
+
+#### Discussion
+|---|
+|---|
+|---|
+
+| Author: | Title |  Model | Question? | Goal | Methods |
+| ------- | Flight Tunnel Responses of Z Strain European Corn Borer Females to Corn and Hemp Plants | ------ | --------- | ---- | --------|
+| --------| ---   | -----  | --------- | ---- | --------|
+
+|Quote|---|
+|---|---|
+|Note|---|
+
+#### Discussion
+|---|
+|---|
+|---|
+
+| Author: | Title |  Model | Question? | Goal | Methods |
+| ------- | Assortative Mating in Sympatric Host Races of the European Corn Borer | ------ | --------- | ---- | --------|
+| --------| ---   | -----  | --------- | ---- | --------|
+
+|Quote|---|
+|---|---|
+|Note|---|
+
+#### Discussion
+|---|
+|---|
+|---|
+
+| Author: | Title |  Model | Question? | Goal | Methods |
+| ------- | ‘Becoming a species by becoming a pest’ or how two maize pests of the genus Ostrinia possibly evolved through parallel ecological speciation events | ------ | --------- | ---- | --------|
+| --------| ---   | -----  | --------- | ---- | --------|
+
+|Quote|---|
+|---|---|
+|Note|---|
+
+#### Discussion
+|---|
+|---|
+|---|
+
+| Author: | Title |  Model | Question? | Goal | Methods |
+| ------- | Aggregation and Dispersal Behavior of Marked and Released European Corn Borer (Lepidoptera: Crambidae) Adults | ------ | --------- | ---- | --------|
+| --------| ---   | -----  | --------- | ---- | --------|
+
+|Quote|---|
+|---|---|
+|Note|---|
+
+#### Discussion
+|---|
+|---|
+|---|
 
 ------
 <div id='id-sectionLabMeetings'/> 
