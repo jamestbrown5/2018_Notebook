@@ -2764,9 +2764,23 @@ sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
 
 #### Primary Literature Template
 
-| Author: | Title |  Model | Question? | Goal | Methods |
-| ------- | ----- | ------ | --------- | ---- | --------|
-| --------| ---   | -----  | --------- | ---- | --------|
+| Author: |---|
+|---|---|
+
+|Title|---|
+|---|---|
+
+|Model|---| 
+|---|---|
+
+|Question?|---|
+|---|---|
+
+|Goal|---| 
+|---|---|
+
+|Methods|---|
+|---|---|
 
 |Quote|---|
 |---|---|
@@ -2970,9 +2984,18 @@ the significant (F4,28 = 9"10, P < 10-4) Pj between experiments had been account
 
 #### (20180521: Pheromone Strains/Species Complex, US Host Strains)
 
-| Author: | Title |  Model | Question? | Goal | Methods |
-| --------| ---   | -----  | --------- | ---- | --------|
-| 2007 CALCAGNO, V. et. al | Sympatric host races of the European corn borer: adaptation to host plants and hybrid performance | ECB | --------- | "...We conducted two independent experiments, in field and greenhouse conditions, to determine whether the two host races are locally adapted to their host species" | --------|
+| Author: |2007 CALCAGNO, V. et. al |
+|---|---|
+|Title|Sympatric host races of the European corn borer: adaptation to host plants and hybrid performance |
+|---|---|
+|Model|ECB| 
+|---|---|
+|Question?|---|
+|---|---|
+|Goal| "...We conducted two independent experiments, in field and greenhouse conditions, to determine whether the two host races are locally adapted to their host species"| 
+|---|---|
+|Methods|Larvae from the maize race and the mugwort race were introduced on the two host species. Two larval densities (number of larvae introduced per plant) were used: 10 and 30. This defined four (two host races · two larval densities) infestation treatments. Each treatment was applied to 25 randomly chosen plants within both host species. At the end of summer, the number of surviving individuals was recorded for each plant. Larvae were weighed and dissected for sex determination.|
+|---|---|
 
 |Quote|---|
 |---|---|
@@ -2983,9 +3006,20 @@ the significant (F4,28 = 9"10, P < 10-4) Pj between experiments had been account
 |---|
 |---|
 
-| Author: | Title |  Model | Question? | Goal | Methods |
-| ------- | Genetic Variation and Inheritance of Diapause Induction in Two Distinct Voltine Ecotypes of Ostrinia nubilalis (Lepidoptera: Crambidae) | ------ | --------- | ---- | --------|
-| --------| ---   | -----  | --------- | ---- | --------|
+
+
+| Author: |---|
+|---|---|
+|Title| Genetic Variation and Inheritance of Diapause Induction in Two Distinct Voltine Ecotypes of Ostrinia nubilalis (Lepidoptera: Crambidae)|
+|---|---|
+|Model|---| 
+|---|---|
+|Question?|---|
+|---|---|
+|Goal|---| 
+|---|---|
+|Methods|---|
+|---|---|
 
 |Quote|---|
 |---|---|
@@ -2996,9 +3030,18 @@ the significant (F4,28 = 9"10, P < 10-4) Pj between experiments had been account
 |---|
 |---|
 
-| Author: | Title |  Model | Question? | Goal | Methods |
-| ------- | Parallel evolution of behaviour during independent host- shifts following maize introduction into Asia and Europe | ------ | --------- | ---- | --------|
-| --------| ---   | -----  | --------- | ---- | --------|
+| Author:| --- | 
+|---|---|
+|Title|Parallel evolution of behaviour during independent host- shifts following maize introduction into Asia and Europe |
+|---|---|
+|Model|---| 
+|---|---|
+|Question?|---|
+|---|---|
+|Goal|---| 
+|---|---|
+|Methods|---|
+|---|---|
 
 |Quote|---|
 |---|---|
@@ -3009,9 +3052,19 @@ the significant (F4,28 = 9"10, P < 10-4) Pj between experiments had been account
 |---|
 |---|
 
-| Author: | Title |  Model | Question? | Goal | Methods |
-| ------- | Flight Tunnel Responses of Z Strain European Corn Borer Females to Corn and Hemp Plants | ------ | --------- | ---- | --------|
-| --------| ---   | -----  | --------- | ---- | --------|
+
+| Author: |---|
+|---|---|
+|Title|Flight Tunnel Responses of Z Strain European Corn Borer Females to Corn and Hemp Plants |
+|---|---|
+|Model|---| 
+|---|---|
+|Question?|---|
+|---|---|
+|Goal|---| 
+|---|---|
+|Methods|---|
+|---|---|
 
 |Quote|---|
 |---|---|
@@ -3022,9 +3075,19 @@ the significant (F4,28 = 9"10, P < 10-4) Pj between experiments had been account
 |---|
 |---|
 
-| Author: | Title |  Model | Question? | Goal | Methods |
-| ------- | Assortative Mating in Sympatric Host Races of the European Corn Borer | ------ | --------- | ---- | --------|
-| --------| ---   | -----  | --------- | ---- | --------|
+
+| Author: |---|
+|---|---|
+|Title|Assortative Mating in Sympatric Host Races of the European Corn Borer |
+|---|---|
+|Model|---| 
+|---|---|
+|Question?|---|
+|---|---|
+|Goal|---| 
+|---|---|
+|Methods|---|
+|---|---|
 
 |Quote|---|
 |---|---|
@@ -3035,9 +3098,20 @@ the significant (F4,28 = 9"10, P < 10-4) Pj between experiments had been account
 |---|
 |---|
 
-| Author: | Title |  Model | Question? | Goal | Methods |
-| ------- | ‘Becoming a species by becoming a pest’ or how two maize pests of the genus Ostrinia possibly evolved through parallel ecological speciation events | ------ | --------- | ---- | --------|
-| --------| ---   | -----  | --------- | ---- | --------|
+
+
+| Author: |---|
+|---|---|
+|Title|Aggregation and Dispersal Behavior of Marked and Released European Corn Borer (Lepidoptera: Crambidae) Adults |
+|---|---|
+|Model|---| 
+|---|---|
+|Question?|---|
+|---|---|
+|Goal|---| 
+|---|---|
+|Methods|---|
+|---|---|
 
 |Quote|---|
 |---|---|
@@ -3048,18 +3122,6 @@ the significant (F4,28 = 9"10, P < 10-4) Pj between experiments had been account
 |---|
 |---|
 
-| Author: | Title |  Model | Question? | Goal | Methods |
-| ------- | Aggregation and Dispersal Behavior of Marked and Released European Corn Borer (Lepidoptera: Crambidae) Adults | ------ | --------- | ---- | --------|
-| --------| ---   | -----  | --------- | ---- | --------|
-
-|Quote|---|
-|---|---|
-|Note|---|
-
-#### Discussion
-|---|
-|---|
-|---|
 
 ------
 <div id='id-sectionLabMeetings'/> 
