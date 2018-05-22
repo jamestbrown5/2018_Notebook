@@ -3311,6 +3311,37 @@ c. extrapolation of warming data for non insect taxa by latitude|
 |**Discussion**|
 |---|
 
+
+#### 20180523: 
+
+| Author: |Pelz-Stelinski et al|
+|---|---|
+
+|Title|Patterns of habitat use by the Asian citrus psyllid, Diaphorina citri, as influenced by abiotic and biotic growing conditions|
+|---|---|
+
+|Model|Asian citrus psyllid| 
+|---|---|
+
+|Goals/ Question?|Whether biotic or abiotic characteristics could be used to predict pop abundance and how ag intensity explained distributionduring the winter|
+|---|---|
+
+
+|Methods| Examining the abundance of ACP in groves under 4 different types of management regimens: conventional, intermittent, unmanaged, and organic|
+|---|---|
+
+|Result:|"...only conventional management of groves reduced D. citri populations during winter periods."|
+|---|---|
+
+|Quote||
+|---|---|
+|Note|---|
+
+#### Discussion
+|---|
+|---|
+|---|
+
 ------
 
 <div id='id-sectionBooks'/>  
