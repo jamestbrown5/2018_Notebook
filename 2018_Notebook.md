@@ -3343,10 +3343,15 @@ c. extrapolation of warming data for non insect taxa by latitude|
 |---|
 
 | Author: |Tarsa, C., McMillan, A., Warren, R. J.|
+|---|---|
 |Title|Plant pathogenic fungi decrease in soil inhabited by seed-dispersing ants |
+|---|---|
 |Model|Aphaenogaster spp.| 
+|---|---|
 |Question?|If fungal protection is a potential benefit of ant-mediated dispersal, we expected that ant-occupied soil (soils inhabited by ants for colony nesting) would contain fewer phytopathogenic fungi than proximate soils without ant nests.|
+|---|---|
 |Goal|investigated published Aphaenogaster soil fungi data and conducted our own metataxonomic analysis of ant-occupied and unoccupied soils to identify phytopathogenic fungi and investigate whether ant colony presence corresponds with reduced plant fungal pathogens in the soil| 
+|---|---|
 |Introduction/Importance|The obvious benefit of animal- mediated dispersal is movement—it allows the colonization of new habitat. A somewhat cryptic benefit is the escape from negative density-dependent conditions near parental plants, where intraspecific competitors, as well as predators and pathogens|
 |---|Finally, directed dispersal suggests that animals may not necessarily save seeds from adverse con- ditions, but deliver them into sites or microhabitats more favorable for survival|
 |---|In the tropics, ants “clean” seeds by removing fruit
