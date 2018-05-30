@@ -3364,6 +3364,7 @@ c. extrapolation of warming data for non insect taxa by latitude|
 |Note|without ants fungtal richness inccreases by 84% with 54% of that total being plant pathogens|
 
 |Quote|Our soil replicates were limited, and by taking field soil samples, we could not control for length of occupation, as the anti- microbial effects may be cumulative. Moreover, it is possible that the ants selected microhabitats to colonize that already included low phytopathogenic fungi|
+|---|---|
 |Note|great point, occupation duration could change fungal community|
 |---|an argument for ant choice in habitat location|
 
