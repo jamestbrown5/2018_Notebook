@@ -3359,8 +3359,7 @@ c. extrapolation of warming data for non insect taxa by latitude|
 |---|---|
 |Note|The use of effect size|
 
-|Quote|Eighty-four percent of all fungal species were more fre-quent in unoccupied than occupied, and 53% of those were
-plant pathogens|
+|Quote|Eighty-four percent of all fungal species were more fre-quent in unoccupied than occupied, and 53% of those were plant pathogens|
 |---|---|
 |Note|without ants fungtal richness inccreases by 84% with 54% of that total being plant pathogens|
 
