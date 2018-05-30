@@ -3337,10 +3337,7 @@ c. extrapolation of warming data for non insect taxa by latitude|
 |---|---|
 |Note|---|
 
-#### Discussion
-|---|
-|---|
-|---|
+#### 20180530: RA
 
 | Author: |Tarsa, C., McMillan, A., Warren, R. J.|
 |---|---|
@@ -3354,8 +3351,7 @@ c. extrapolation of warming data for non insect taxa by latitude|
 |---|---|
 |Introduction/Importance|The obvious benefit of animal- mediated dispersal is movement—it allows the colonization of new habitat. A somewhat cryptic benefit is the escape from negative density-dependent conditions near parental plants, where intraspecific competitors, as well as predators and pathogens|
 |---|Finally, directed dispersal suggests that animals may not necessarily save seeds from adverse con- ditions, but deliver them into sites or microhabitats more favorable for survival|
-|---|In the tropics, ants “clean” seeds by removing fruit
-tissue from the seed coat (Guimaraes and Cogni 2002). Seeds cleaned by ants suffer less fungal attack and have improved germination rates than non-cleaned seeds and seeds cleaned by hand|
+|---|In the tropics, ants “clean” seeds by removing fruit tissue from the seed coat (Guimaraes and Cogni 2002). Seeds cleaned by ants suffer less fungal attack and have improved germination rates than non-cleaned seeds and seeds cleaned by hand|
 |---|metapleural glands, which are paired organs on the sides of ants that secrete a waxy, acidic anti-microbial substance.... Whereas metapleural and mandibular compounds specifically inhibit entomopathogenic bacteria and fungi, they also inhibit many additional bacterial and fungal spe- cies with no known ant or insect pathogenicity|
 
 ##### Notes
