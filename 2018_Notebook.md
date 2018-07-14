@@ -1,4 +1,4 @@
----
+﻿---
 output:
   pdf_document: default
   html_document: default
@@ -1953,7 +1953,7 @@ sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
 
 <div id='id-section67'/>    
 
-### Page 67: 20180421 USDA | Bioassay, dilutions, wear & write
+### Page 67: 20180421 USDA | Bioassay, dilutions, read & write
 #### Bioassay
 #### Dilutions
 #### read & write
@@ -1961,127 +1961,256 @@ sample|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|Hex|
 
 <div id='id-section68'/>    
 
-### Page 68:
+### Page 68: 20180426 USDA | Meeting w/Rob Prep, Thesis writing, student project meeting w/Dan
+#### Reviewing ECB literature
+#### Setting up Thesis in LaTex
+#### Discussion with Dan about the goal of the student project
+	* Experimental design
+	* Predictions
+	* Projected contributions: thesis and students
 
 ------
 
 <div id='id-section69'/>    
 
-### Page 69:
+### Page 69: 20180427 USDA | Bioassay, dilutions, cleaning glasswear
+#### Bioassay
+	* preparing for new assay
+	* maint of larvae in assay, population tracking
+#### Dilutions
+#### CSR Meeting: Department opening
+
 
 ------
 
 <div id='id-section70'/>    
 
-### Page 70:
+### Page 70: 20180502 USDA | Bioassay, Extraction, ENSO prep, Reading,
+#### Bioassay
+	* preparing for new assay
+	* maint of larvae in assay, population tracking
+#### Extraction 
+	* 19 samples and 3 blanks
+#### Prep talk for ENSO Meeting
+#### Reading for J-club, RLM, and thesis
 
 ------
 
 <div id='id-section71'/>    
 
-### Page 71:
+### Page 71: 20180503 USDA | Bioassay, Extraction
+#### Bioassay
+	* preparing for new assay
+	* maint of larvae in assay, population tracking
+#### Extraction
+	* 16 samples and 3 blanks
 
 ------
 
 <div id='id-section72'/>    
 
-### Page 72:
+### Page 72: 20180504 USDA | Bioassay, Dilutions, ENSO Meeting
+#### Bioassay
+	* preparing for new assay
+	* maint of larvae in assay, population tracking
+#### ENSO meeting
+	* guest speaker and meeting  administration
 
 ------
 
 <div id='id-section73'/>    
 
-### Page 73:
+### Page 73: 20180505 USDA | Bioassay, Glasswear, reading & writing
+#### Bioassay
+	* preparing for new assay
+	* maint of larvae in assay, population tracking
+#### REading and writing
+	* reading for thesis, j-club, RLM, etc
 
 ------
 
 <div id='id-section74'/>    
 
-### Page 74:
+### Page 74: 20180509 USDA | Bioassay, Extraction
+#### Bioassay
+	* preparing for new assay
+	* maint of larvae in assay, population tracking
+#### Extraction
+	* 16 samples and 3 blanks
 
 ------
 
 <div id='id-section75'/>    
 
-### Page 75:
+### Page 75: 20180511 USDA | Bioassay, AM-Extraction, PM-Extraction, ELSD run prep
+#### Bioassay
+	* preparing for new assay
+	* maint of larvae in assay, population tracking
+#### AM-Extraction
+	* 16 samples and 3 blanks
+#### PM-Extraction
+	* 13 samples and 3 blanks
 
 ------
 
 <div id='id-section76'/>    
 
-### Page 76:
+### Page 76: 20180512 USDA | Bioassay, Extraction
+#### Bioassay
+	* preparing for new assay
+	* maint of larvae in assay, population tracking
+#### Extraction
+	* 13 samples and 3 blanks
 
 ------
 
 <div id='id-section77'/>    
 
-### Page 77:
+### Page 77: 20180526 USDA | Bioassay
+#### Bioassay
+	* preparing for new assay
+	* maint of larvae in assay, population tracking
 
 ------
 
 <div id='id-section78'/>    
 
-### Page 78:
+### Page 78: 20180527 USDA | Bioassay
+#### Bioassay
+	* preparing for new assay
+	* maint of larvae in assay, population tracking
 
 ------
 
 <div id='id-section79'/>    
 
-### Page 79:
+### Page 79: 20180528 USDA | Bioassay
+#### Bioassay
+	* preparing for new assay
+	* maint of larvae in assay, population tracking
 
 ------
 
 <div id='id-section80'/>    
 
-### Page 80:
+### Page 80: 20180531 USDA | ELSD prep/ Run, Bioassay
+#### Bioassay
+	* preparing for new assay
+	* maint of larvae in assay, population tracking
+#### ELSD
+	* prep elsd: prime, flush, purge lines and filters
+	* Run sequence on ELSD
 
 ------
 
 <div id='id-section81'/>    
 
-### Page 81:
+### Page 81: 20180601 USDA | Bioassay, OEL meeting, DAH meeting
+#### Bioassay
+	* preparing for new assay
+	* maint of larvae in assay, population tracking
+#### Meetings
+	* OEL meeting about PhD possibilities
+	* DAH meeting about PhD ideas
 
 ------
 
 <div id='id-section82'/>    
 
-### Page 82:
+### Page 82: 20180606 USDA | Bioassay, Standards preparations
+#### Bioassay
+	* preparing for new assay
+	* maint of larvae in assay, population tracking
+#### Standards Preparations
+	* Tripal: 0.00106g/ml
+	* Trihepta: 0.00108g/ml
+	* Trister: 0.00122g/ml
 
 ------
 
 <div id='id-section83'/>    
 
-### Page 83:
+### Page 83: 20180608 USDA | Bioassay, Read for students, Emails, Read, Write
+#### Bioassay
+	* preparing for new assay
+	* maint of larvae in assay, population tracking
+#### Read for students
+	* edit and return abstracts
+#### Emails
+	* DAH for meeting time
+	* Rob for meeting time
+#### REad
+	* Rob meeing
+	* J-club
+#### Write
+	* formatting and thesis writing
 
 ------
 
 <div id='id-section84'/>    
 
-### Page 84:
+### Page 84: 20180627 USDA | Bioassay, Extraction
+#### Bioassay
+	* preparing for new assay
+	* maint of larvae in assay, population tracking
+#### Extraction
+	* 16 samples
 
 ------
 
 <div id='id-section85'/>    
+ 
+### Page 85: 20180628 USDA | Bioassay, Dilution
+#### Bioassay
+	* preparing for new assay
+	* maint of larvae in assay, population tracking
+#### Dilution
+	* 30 samples
 
-### Page 85:
 
 ------
 
 <div id='id-section86'/>    
 
-### Page 86:
+### Page 86: 20180629 USDA | Bioassay, Dilution
+#### Bioassay
+	* preparing for new assay
+	* maint of larvae in assay, population tracking
+#### Dilution
+	* 30 samples
 
 ------
 
 <div id='id-section87'/>    
 
-### Page 87:
+### Page 87: 20180703 USDA | Dilution, Larvae on corn
+#### Dilution
+	* 30 samples
+#### Larvae on corn
+	* Larvae fed corn PRN, hatchers
 
 ------
 
 <div id='id-section88'/>    
 
-### Page 88:
+### Page 88: 20180711 USDA | Student, Prep for absence, AAR with JLM and EVL, Write for EVL, Emails, REad, Run sequence
+#### Students
+	* Prep trays with corn 
+	* Prep FAME dilutions
+#### Prep for absence
+	* Maggs note
+	* Instructions to JLM
+	* Instructions to EVL
+	* Instructions to NB and DDR
+#### Edits to EVL 
+	* Notes and comments to EVL on abstract
+#### Emails
+	* Email Bonnie, Anna, Pathways, Shawn, Hans
+#### Read
+	* J-club, PhD, Thesis
+#### ELSD
+	* Prep ELSD: purge, prime, flush
+	* Run sequence
 
 ------
 
