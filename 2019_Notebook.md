@@ -1,16 +1,20 @@
-# The relationship between stored resources and diapause preparation
+# Spotted wing drosophila (D. suzukii) projects and ideas
 
 ### Author:   James Brown     
-### Affiliation     
+### USDA-ARS CMAVE
 
-## Projects title/descriptions
+## Literature review
+## Meeting notes
+## PhD ideas
+## VOC project 
+## 
 
-## Date started:  
-## Date end:  
+## Date started:  May 27, 2019
+## Date end:  TBD
 
 
 # Table of contents (for 200 entries)    
-* [Page 1:   2016-06-08](#id-section1). Title of entry
+* [Page 1:   20190527](#Literature Review). Following citations in current SWD research
 * [Page 2:   2016-6-16](#id-section2). Title 3
 * [Page 3:  ](#id-section3).
 * [Page 4:  ](#id-section4).
