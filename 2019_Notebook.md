@@ -15,6 +15,46 @@
 
 # Table of contents (for 200 entries)    
 * [Page 1:   20190527](#Literature Review). Following citations in current SWD research
+
+| Author: | Title |  Model | Question? | Goal | Methods |
+| ------- | ----- | -------| --------- | ---- | ------- |
+| Fabio Mazzetto, Elena Gonella, Elena Crotti, Violetta Vacchini, Michail Syrpas, Marianna Pontini, Sven Mangelinckx, Daniele Daffonchio, Alberto Alma | Olfactory attraction of Drosophila suzukii by symbiotic acetic acid bacteria  |  Bacteria from the Acetobacter, Gluconobacte, and the Komagataeibacter genera | Can the ability of Acetobacter bacteria to attract female SWD be exploited for trapping  | To investigate the ability of acetobacter bacteria to attract female SWD and by identifying the volatile profile of the bacteria | bacteria cultures, SPME-HS, GC-MS  |
+
+|**Context**|
+|------|
+| Acetic acid bacteria are ubiquitous in nature and symbiotic relationships between these bacteria and insect orders have been extablished. These bacteria occur in the miidgut of SWD. Previous studies have noted advantages for insects that harbor these bacteria in their midgut, which includes; improving digestive opportunities, larval development, immune homeostasis, increased life span, defense from other microorganisms, and celll to cell communication|
+|---|
+| Other bacteria have been shown to produce attractive volatiles. These hidden players (yeast, fungi, bacteria) have also been implicated in affecting the interaction between insects and their hosts. These researchers sought to characterize the relative attractivenbess of SWD to multiple acetic acid bacteria using a two way olfactometer. Next the VOC profiles of bacteria was characterized |
+
+|**Methods**|
+|----|
+|Colonies and cultures|
+|---|
+|Field caught SWD, acetic acid bacteria isolated from a lab|
+|---|
+|*2-way olfactometer assay* 6-Bacteria cultures in sterile MA liquid broth at specific cell concentrations, Olfactometer assay method by Mazzetto et al. 2015, 2-10 day old females used |
+|---|
+|*VOC analysis* Sample of solid MA and bacteria plus NaCl, bipolymer spme, compounds identified by library match, then authenticated by RI of C5-C18 alkanes, 6 reps of each strain and control (three at 24h and three at 48h) |
+
+
+|**Results**|
+|---|
+|Table 1: |
+|---|
+|Fig 1: |
+|---|
+|Fig 2|
+|---|
+|Fig 3|
+|---|
+|Fig 4|
+|---|
+|Table 1|
+|---|
+|Fig 5|
+|**Discussion**|
+|---|
+
 * [Page 2:   2016-6-16](#id-section2). Title 3
 * [Page 3:  ](#id-section3).
 * [Page 4:  ](#id-section4).
