@@ -245,21 +245,22 @@
 
 |**Results**|
 |---|
-|Table 1: |
+|Friedman ANOVA tests the differences in fly response between, microbe, control and no choice. Wilcoxon test the effect of the control vs the microbe. Each assay resulted in a choice of crontrol or microbe except SWD vs K. hansenii at 48h of bacteria growth. SWD preferred G. oxydans, G kanchanaburiensis, and K. saccharivorans at 24h and 48h of bacteria growth. 
+![](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/2019_Notebook_Images/2016Mazzetto_t1.PNG)|
 |---|
-|Fig 1: |
+|Percentage break down of SWD responcse when given the choice between microbe strain control at **24** hours of bacterial growth.
+![](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/2019_Notebook_Images/2016Mazzetto_f1.PNG)|
 |---|
-|Fig 2|
+|Percentage break down of SWD responcse when given the choice between microbe strain control at **48** hours of bacterial growth.
+![](https://github.com/jamestbrown5/Notebook_Protocols/blob/master/2019_Notebook_Images/2016Mazzetto_f1.PNG)|
 |---|
-|Fig 3|
+|Table 2: Library matches of VOCs that meet the 75% match criterion, if it was authenticated via a standard, and did it match the RI. (RI match criterion not listed)|
 |---|
-|Fig 4|
-|---|
-|Table 1|
-|---|
-|Fig 5|
+
+
 |**Discussion**|
 |---|
+|THere was variation in the response of the SWD to the isolates. Two of the microbes that had the largest effect on SWD response (Gluconobacter and K. saccharivorans) should be considered for future testing. More information about symbioants is needed.|
 
 
 ------
